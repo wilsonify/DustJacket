@@ -135,5 +135,5 @@ calibre-ml-cleanup/
 
 - [Microsoft Team Data Science Process (TDSP)](https://learn.microsoft.com/en-us/azure/architecture/data-science-process/)
 - [Calibre Database Schema](https://manual.calibre-ebook.com/db_structure.html)
-- [FuzzyWuzzy Matching Library](https://github.com/seatgeek/fuzzywuzzy)
+- [FuzzyWuzzy Matching Library](https://github.com/seatgeek/thefuzz)
 - [HuggingFace Transformers](https://huggingface.co/transformers/)
