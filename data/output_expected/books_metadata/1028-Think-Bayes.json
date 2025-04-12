@@ -1,0 +1,21 @@
+{
+  "book_id": 1028,
+  "book_uuid": "5c16cd12-6ccb-4d07-a5ed-0c55b66bdb31",
+  "title": "Think Bayes",
+  "pubdate": "2013-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Allen Downey",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    201,
+    202,
+    232,
+    254,
+    283,
+    284
+  ],
+  "description": "<div>\n<p>If you know how to program with Python and also know a little about probability, you're ready to tackle Bayesian statistics. With this book, you'll learn how to solve statistical problems with Python code instead of mathematical notation, and use discrete probability distributions instead of continuous mathematics. Once you get the math out of the way, the Bayesian fundamentals will become clearer, and you'll begin to apply these techniques to real-world problems. Bayesian statistical methods are becoming more common and more important, but not many resources are available to help beginners. Based on undergraduate classes taught by author Allen Downey, this book's computational approach helps you get a solid start. Use your existing programming skills to learn and understand Bayesian statistics Work with problems involving estimation, prediction, decision analysis, evidence, and hypothesis testing Get started with simple examples, using coins, M&amp;Ms, Dungeons &amp; Dragons dice, paintball, and hockey Learn computational methods for solving real-world problems, such as interpreting SAT scores, simulating kidney tumors, and modeling the human microbiome.</p></div>"
+}

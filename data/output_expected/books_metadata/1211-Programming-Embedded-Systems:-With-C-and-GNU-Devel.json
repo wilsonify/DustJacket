@@ -1,0 +1,31 @@
+{
+  "book_id": 1211,
+  "book_uuid": "19a0fe56-cd4d-47d6-8a27-612bc87591f4",
+  "title": "Programming Embedded Systems: With C and GNU Development Tools",
+  "pubdate": "2006-10-11 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Michael Barr",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    206,
+    210,
+    217,
+    223,
+    229,
+    249,
+    273,
+    476,
+    3172,
+    3184,
+    3217,
+    3260,
+    3509,
+    3510,
+    3511
+  ],
+  "description": "<div>\n<p>If you have programming experience and a familiarity with C--the dominant language in embedded systems--Programming Embedded Systems, Second Edition is exactly what you need to get started with embedded software. This software is ubiquitous, hidden away inside our watches, DVD players, mobile phones, anti-lock brakes, and even a few toasters. The military uses embedded software to guide missiles, detect enemy aircraft, and pilot UAVs. Communication satellites, deep-space probes, and many medical instruments would have been nearly impossible to create without embedded software. The first edition of Programming Embedded Systems taught the subject to tens of thousands of people around the world and is now considered the bible of embedded programming. This second edition has been updated to cover all the latest hardware designs and development methodologies. The techniques and code examples presented here are directly applicable to real-world embedded software projects of all sorts. Examples use the free GNU software programming tools, the eCos and Linux operating systems, and a low-cost hardware platform specially developed for this book. If you obtain these tools along with Programming Embedded Systems, Second Edition, you'll have a full environment for exploring embedded systems in depth. But even if you work with different hardware and software, the principles covered in this book apply. Whether you are new to embedded systems or have done embedded work before, you'll benefit from the topics in this book, which include:How building and loading programs differ from desktop or server computers Basic debugging techniques--a critical skill when working with minimally endowed embedded systems Handling different types of memory Interrupts, and the monitoring and control of on-chip and external peripherals Determining whether you have real-time requirements, and whether your operating system and application can meet those requirements Task synchronization with real-time operating systems and embedded Linux Optimizing embedded software for size, speed, and power consumption Working examples for eCos and embedded Linux So whether you're writing your first embedded program, designing the latest generation of hand-held whatchamacalits, or managing the people who do, this book is for you. Programming Embedded Systems will help you develop the knowledge and skills you need to achieve proficiency with embedded software. Praise for the first edition: \"This lively and readable book is the perfect introduction for those venturing into embedded systems software development for the first time. It provides in one place all the important topics necessary to orient programmers to the embedded development process. --Lindsey Vereen, Editor-in-Chief, Embedded Systems Programming</p></div>"
+}

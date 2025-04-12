@@ -1,0 +1,19 @@
+{
+  "book_id": 112,
+  "book_uuid": "2c5b1b14-3bde-4e6c-b1b4-5e1f9b0a4335",
+  "title": "Modern C++ for Absolute Beginners: A Friendly Introduction to C+ Language and C+11 to C+20 Standards",
+  "pubdate": "2020-07-22 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Slobodan Dmitrovi\u0107",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    223,
+    229
+  ],
+  "description": "<div>\n<p>Learn the C++ programming language in a structured, straightforward, and friendly manner. This book teaches the basics of the modern C++ programming language, C++ Standard Library, and modern C++ standards. No previous programming experience is required. C++ is a language like no other, surprising in its complexity, yet wonderfully sleek and elegant in so many ways. It is also a language that cannot be learned by guessing, one that is easy to get wrong and challenging to get right. To overcome this, each section is filled with real-world examples that gradually increase in complexity. Modern C++ for Absolute Beginners teaches more than just programming in C++20. It provides a solid C++ foundation to build upon. The author takes you through the C++ programming language, the Standard Library, and the C++11 to C++20 standard basics. Each chapter is accompanied by the right amount of theory and plenty of source code examples. You will work with C++20 features and standards, yet you will also compare and take a look into previous versions of C++. You will do so with plenty of relevant source code examples. What You Will LearnWork with the basics of C++: types, operators, variables, constants, expressions, references, functions, classes, I/O, smart pointers, polymorphism, and more Set up the Visual Studio environment on Windows and GCC on Linux, where you can write your own codeDeclare and define functions, classes, and objects, and organize code into namespacesDiscover object-oriented programming: classes and objects, encapsulation, inheritance, polymorphism, and more using the most advanced C++ featuresEmploy best practices in organizing source code and controlling program workflowGet familiar with C++ language dos and donts, and moreMaster the basics of lambdas, inheritance, polymorphism, smart pointers, templates, modules, contracts, concepts, and more Who This Book Is For Beginner or novice programmers who wish to learn C++ programming. No prior programming experience is required.</p></div>"
+}

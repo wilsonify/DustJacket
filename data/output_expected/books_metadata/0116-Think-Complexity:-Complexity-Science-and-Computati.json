@@ -1,0 +1,19 @@
+{
+  "book_id": 116,
+  "book_uuid": "7f8f47c7-7cf7-4a5f-a9bd-97fe4f095d05",
+  "title": "Think Complexity: Complexity Science and Computational Modeling",
+  "pubdate": "2012-03-02 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Allen Downey",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    226,
+    229,
+    231,
+    232
+  ],
+  "description": "<div>\n<p>Expand your Python skills by working with data structures and algorithms in a refreshing context\u2014through an eye-opening exploration of complexity science. Whether you\u2019re an intermediate-level Python programmer or a student of computational modeling, you\u2019ll delve into examples of complex systems through a series of exercises, case studies, and easy-to-understand explanations. You\u2019ll work with graphs, algorithm analysis, scale-free networks, and cellular automata, using advanced features that make Python such a powerful language. Ideal as a text for courses on Python programming and algorithms, Think Complexity will also help self-learners gain valuable experience with topics and ideas they might not encounter otherwise. Work with NumPy arrays and SciPy methods, basic signal processing and Fast Fourier Transform, and hash tables Study abstract models of complex physical systems, including power laws, fractals and pink noise, and Turing machines Get starter code and solutions to help you re-implement and extend original experiments in complexity Explore the philosophy of science, including the nature of scientific laws, theory choice, realism and instrumentalism, and other topics Examine case studies of complex systems submitted by students and readers</p></div>"
+}

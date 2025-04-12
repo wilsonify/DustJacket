@@ -1,0 +1,16 @@
+{
+  "book_id": 639,
+  "book_uuid": "1f676bfc-4151-4e04-a646-65f2120be3bd",
+  "title": "Game Theory. A Handbook of Problems and Exercises",
+  "pubdate": "2022-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Leonardo Badia",
+  "publisher_name": "Societ\u00e0 Editrice Esculapio",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    201,
+    3536
+  ],
+  "description": "<div>\n<p>Since the origins in its modern form, due to the seminal works of von Neumann and Nash, Game theory has most often been considered for its applications to economic and social sciences. However, its mathematical roots are more general, and its set of analytical tools that can be used to predict the outcome of interactive decision situations can be very relevant for many other scientific fields, especially including information and industrial engineering, where it has recently become a common curricular subject in university programs. To train the \"brain muscles\" to solve problems in a game theoretic way, students may find it useful to practice on concrete examples. For this reason, this book presents a collection of exercises that can be suitable for any entry-level course on Game theory. While there is no specific major for which such a practical activity can be useful, the book is conceived with an engineering spirit, and a general regard for modeling and optimization (from technological scenarios to childish gameplay). Still, some useful considerations can also be derived for other fields such as social psychology, biology, or humanities. Rather than in-depth speculative discussions, the book covers mostly practical cases, however providing a preliminary theoretical justification for the solution methods. Covered topics include static games of complete information, zero-sum games and minimax problems, lotteries, sequential games, multistage games, Bayesian games. This may also encourage the reader to approach more advanced topics, with a solid methodological background and a full-rounded appreciation of the subject.</p></div>"
+}

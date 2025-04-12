@@ -1,0 +1,13 @@
+{
+  "book_id": 1131,
+  "book_uuid": "330b3582-7098-4e33-bf2a-ec9cef527f0d",
+  "title": "The Art of WebAssembly",
+  "pubdate": "2021-06-01 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Rick Battagline",
+  "publisher_name": "No Starch Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>WebAssembly is the revolutionary new web standard that enables high-performance programs and computer-intensive web applications to run at peak performance inside a browser. Different from a programming language like JavaScript, it\u2019s a fast, compact, portable compilation target for a variety of languages, in a binary code format. This book will give you a solid understanding of WebAssembly, how it works under the hood, when to use it, when <i>not</i> to use it, how to write it, and ways to develop and deploy your own WebAssembly apps.</p><p>Author and expert Rick Battagline eases you through all the technology\u2019s complexities using clear explanations, illustrations, and plenty of examples. He\u2019ll show you how to optimize and compile low-level code, as well as how to debug and evaluate WebAssembly, and represent WebAssembly in its human-readable format, WebAssembly Text (WAT) \u2013 skills that will set you apart from other programmers as WebAssembly expands into all modern architectures. Once you grasp the basics, you\u2019ll build a collision-detection program to measure the performance of WebAssembly in Chrome and Firefox. You\u2019ll also work with browser rendering technologies to create graphics and animations for your apps, and you\u2019ll see how WebAssembly interacts with other web languages.</p><p>You\u2019ll learn how to:</p><p>\u2022Use Node.js and web browsers as the JavaScript embedding environment for WebAssembly apps<br/>\u2022Write web applications that use WebAssembly for optimal performance<br/>\u2022Debug WebAssembly code using a variety of tools, including browser debuggers<br/>\u2022Format variables, loops, functions, strings, data structures, and conditional logic in WAT<br/>\u2022Manipulate memory through WebAssembly, and build a program that spawns graphical objects randomly and detects when the objects collide<br/>\u2022Evaluate the output of a WebAssembly compiler (AssemblyScript)</p><p>This book doesn\u2019t focus on any particular language toolchains, so the skills learned are applicable to whatever you\u2019re working with.</p></div></span>"
+}

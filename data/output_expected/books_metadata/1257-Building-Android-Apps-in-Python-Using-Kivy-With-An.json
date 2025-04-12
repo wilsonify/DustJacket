@@ -1,0 +1,25 @@
+{
+  "book_id": 1257,
+  "book_uuid": "85ef9bb2-bb38-4582-bb24-3fcd37fcd3d9",
+  "title": "Building Android Apps in Python Using Kivy With Android Studio: With Pyjnius, Plyer, and Buildozer",
+  "pubdate": "2019-10-14 14:18:57.719995+00:00",
+  "isbn": "",
+  "author_name": "Ahmed Fawzy Mohamed Gad",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    211,
+    223,
+    229,
+    232,
+    258,
+    259,
+    3158,
+    3159,
+    3160
+  ],
+  "description": "<p>Start building Python-based Android applications using Kivy with Android Studio. Through in-depth examples, this book teaches you everything you need to create your first Android application in Python and publish on Google Play.</p>\n\n<p>Building Android Apps in Python Using Kivy with Android Studio takes you through the basics of Kivy by discussing its application structure, widgets, and event handling. The KV language is then introduced for separating the logic and GUI by adding widgets within a KV file. You will then learn how to utilize Android camera using Kivy, build the HTTP server using Flask, and create and manage multiple screens to help you design your own applications. Through detailed step-by-step instructions, you will create your first multi-level cross-platform game that includes animation and sound effects. Following this, the process of converting the Kivy application into an Android application using Buildozer and Python-4-Android is covered in detail. You will then learn how to edit the generated Android Studio project into Android Studio by adding extensions to the original application. The widgets added in Kivy could be handled within Android Studio. Moreover, Android views could be added to enrich the Kivy application. The resulting Android application created with Kivy can be hosted on Google Play to download and install as a regular Android application.</p>\n\n<p>At the end, this book will give you the basic knowledge of Kivy needed to build cross-platform Android applications, produce an Android Studio project, and understand how it all works in detail. What You Will LearnBuild cross-platform applications from scratch using Kivy in detailCreate a cross-platform interactive multi-level game from the ground upExamine the pipeline of building an Android app from the Python Kivy appUnderstand the structure of the Android Studio project produced by KivyRecognize how to extend the application within Android Studio by adding more Android views to the application main activity. Who This Book Is ForPython developers with no previous experience in Kivy who are looking to create their first Android application completely in Python.</p>"
+}

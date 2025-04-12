@@ -1,0 +1,20 @@
+{
+  "book_id": 106,
+  "book_uuid": "70d3a195-77a8-4224-997c-75412fb890e7",
+  "title": "Next-Generation Machine Learning With Spark: Covers XGBoost, LightGBM, Spark NLP, Distributed Deep Learning With Keras, and More",
+  "pubdate": "2020-02-23 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Butch Quinto",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    202,
+    207,
+    214
+  ],
+  "description": "<div>\n<p>Access real-world documentation and examples for the Spark platform for building large-scale, enterprise-grade machine learning applications. </p>\n<p>The past decade has seen an astonishing series of advances in machine learning. These breakthroughs are disrupting our everyday life and making an impact across every industry. Next-Generation Machine Learning with Spark provides a gentle introduction to Spark and Spark MLlib and advances to more powerful, third-party machine learning algorithms and libraries beyond what is available in the standard Spark MLlib library. By the end of this book, you will be able to apply your knowledge to real-world use cases through dozens of practical examples and insightful explanations. What You Will LearnBe introduced to machine learning, Spark, and Spark MLlib 2.4.xAchieve lightning-fast gradient boosting on Spark with the XGBoost4J-Spark and LightGBM librariesDetect anomalies with the Isolation Forest algorithm for SparkUse the Spark NLP and Stanford CoreNLP libraries that support multiple languagesOptimize your ML workload with the Alluxio in-memory data accelerator for SparkUse GraphX and GraphFrames for Graph AnalysisPerform image recognition using convolutional neural networksUtilize the Keras framework and distributed deep learning libraries with Spark Who This Book Is For Data scientists and machine learning engineers who want to take their knowledge to the next level and use Spark and more powerful, next-generation algorithms and libraries beyond what is available in the standard Spark MLlib library; also serves as a primer for aspiring data scientists and engineers who need an introduction to machine learning, Spark, and Spark MLlib.</p></div>"
+}

@@ -1,0 +1,19 @@
+{
+  "book_id": 15,
+  "book_uuid": "78132c4b-d40e-4a22-a30e-1be3f5b62b33",
+  "title": "JMP 11 Profilers",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    202,
+    252
+  ],
+  "description": "<div>\n<p>JMP 11 Profilers covers the family of interactive profiling tools, which enable you to view cross-sections of any response surface. The book also includes details about plotting points and surfaces in a three-dimensional graph.</p></div>"
+}

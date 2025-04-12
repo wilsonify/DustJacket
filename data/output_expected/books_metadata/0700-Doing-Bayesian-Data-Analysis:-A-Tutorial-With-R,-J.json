@@ -1,0 +1,21 @@
+{
+  "book_id": 700,
+  "book_uuid": "c05d39e0-c0fa-4571-ad7e-87ab61ba9ada",
+  "title": "Doing Bayesian Data Analysis: A Tutorial With R, JAGS, and Stan",
+  "pubdate": "2014-11-11 20:11:40.297171+00:00",
+  "isbn": "",
+  "author_name": "John Kruschke",
+  "publisher_name": "Academic Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    14,
+    15,
+    16,
+    79,
+    201,
+    202,
+    3261
+  ],
+  "description": "<p>Doing Bayesian Data Analysis: A Tutorial with R, JAGS, and Stan, Second Edition provides an accessible approach for conducting Bayesian data analysis, as material is explained clearly with concrete examples. Included are step-by-step instructions on how to carry out Bayesian data analyses in the popular and free software R and WinBugs, as well as new programs in JAGS and Stan. The new programs are designed to be much easier to use than the scripts in the first edition. In particular, there are now compact high-level scripts that make it easy to run the programs on your own data sets. The book is divided into three parts and begins with the basics: models, probability, Bayes' rule, and the R programming language. The discussion then moves to the fundamentals applied to inferring a binomial probability, before concluding with chapters on the generalized linear model. Topics include metric-predicted variable on one or two groups; metric-predicted variable with one metric predictor; metric-predicted variable with multiple metric predictors; metric-predicted variable with one nominal predictor; and metric-predicted variable with multiple nominal predictors. The exercises found in the text have explicit purposes and guidelines for accomplishment. This book is intended for first-year graduate students or advanced undergraduates in statistics, data analysis, psychology, cognitive science, social sciences, clinical sciences, and consumer sciences in business. - Accessible, including the basics of essential concepts of probability and random sampling - Examples with R programming language and JAGS software - Comprehensive coverage of all scenarios addressed by non-Bayesian textbooks: t-tests, analysis of variance (ANOVA) and comparisons in ANOVA, multiple regression, and chi-square (contingency table analysis) - Coverage of experiment planning - R and JAGS computer programming code on website - Exercises have explicit purposes and guidelines for accomplishment - Provides step-by-step instructions on how to conduct Bayesian data analyses in the popular and free software R and WinBugs</p>"
+}

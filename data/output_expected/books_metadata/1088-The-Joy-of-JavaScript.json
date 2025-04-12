@@ -1,0 +1,20 @@
+{
+  "book_id": 1088,
+  "book_uuid": "8c9035d8-2f11-4780-8084-c2ddacee89f5",
+  "title": "The Joy of JavaScript",
+  "pubdate": "2021-02-10 19:15:05.225622+00:00",
+  "isbn": "",
+  "author_name": "Luis Atencio",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    223,
+    229,
+    3198,
+    3226,
+    3260
+  ],
+  "description": "<p>The Joy of JavaScript introduces techniques that turn JavaScript programmers into JavaScript pros.</p>\n\n<p>Summary Whether building interactive browser-based applications or creating server-side applications in Node, JavaScript is the most widely used language for web programming. With new features, language improvements, paradigms, and potential use cases appearing regularly, there\u2019s never been a more exciting time to be a JavaScript developer. In The Joy of JavaScript, author and JavaScript expert Luis Atencio teaches you key design concepts that lead to clean, lean, modular, and easy-to-maintain code.  Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.  About the technology JavaScript is at the heart of web applications on the browser side and, via the popular Node.js runtime, it often powers the server side too. Simply put, the web runs on JavaScript.  About the book The Joy of JavaScript introduces techniques that turn JavaScript programmers into JavaScript pros. You\u2019ll work with cutting edge APIs, language features, and coding styles to tackle tricky problems in an elegant manner. Along the way, you\u2019ll practice good object design, drive business logic with functional thinking, and untangle complex data flows.  What's inside  JavaScript\u2019s objects and module system Working with higher order functions Identifying and creating composable software Preparing for upcoming JavaScript features  About the reader Written for experienced and passionate JavaScript developers.  About the author Luis Atencio is a software engineer for Citrix Systems, author of Manning\u2019s Functional Programming in JavaScript, and co-author of Manning\u2019s RxJS in Action.  Table of Contents  1 JavaScript reloaded  PART 1 - OBJECTS  2 Inheritance-based object modeling  3 Linked, compositional object models  PART 2 - FUNCTIONS  4 Writing composable, pure code  5 Higher-kinded composition  PART 3 - CODE  6 ECMAScript Modules  7 Hooked on metaprogramming  PART 4 - DATA  8 Linear async flows  9 Stream programming</p>"
+}

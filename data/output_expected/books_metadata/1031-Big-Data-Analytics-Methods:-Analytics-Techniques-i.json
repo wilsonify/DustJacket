@@ -1,0 +1,27 @@
+{
+  "book_id": 1031,
+  "book_uuid": "1e7a81c5-3fbf-41a5-a32a-379a33b663ba",
+  "title": "Big Data Analytics Methods: Analytics Techniques in Data Mining, Deep Learning and Natural Language Processing",
+  "pubdate": "2019-12-16 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Peter Ghavami",
+  "publisher_name": "Walter de Gruyter GmbH & Co KG",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    181,
+    197,
+    199,
+    200,
+    203,
+    214,
+    226,
+    238,
+    270,
+    275,
+    276,
+    287
+  ],
+  "description": "<div>\n<p>Big Data Analytics Methods unveils secrets to advanced analytics techniques ranging from machine learning, random forest classifiers, predictive modeling, cluster analysis, natural language processing (NLP), Kalman filtering and ensembles of models for optimal accuracy of analysis and prediction. More than 100 analytics techniques and methods provide big data professionals, business intelligence professionals and citizen data scientists insight on how to overcome challenges and avoid common pitfalls and traps in data analytics. The book offers solutions and tips on handling missing data, noisy and dirty data, error reduction and boosting signal to reduce noise. It discusses data visualization, prediction, optimization, artificial intelligence, regression analysis, the Cox hazard model and many analytics using case examples with applications in the healthcare, transportation, retail, telecommunication, consulting, manufacturing, energy and financial services industries. This book's state of the art treatment of advanced data analytics methods and important best practices will help readers succeed in data analytics.</p></div>"
+}

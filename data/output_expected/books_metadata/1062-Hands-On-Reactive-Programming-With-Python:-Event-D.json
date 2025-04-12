@@ -1,0 +1,20 @@
+{
+  "book_id": 1062,
+  "book_uuid": "c9c4389f-56e7-4720-a581-9f0780e45d4f",
+  "title": "Hands-On Reactive Programming With Python: Event-Driven Development Unraveled With RxPY",
+  "pubdate": "2018-10-25 20:35:45.116753+00:00",
+  "isbn": "",
+  "author_name": "Romain Picard",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    223,
+    229,
+    232,
+    3147
+  ],
+  "description": "<p>A comprehensive guide to help you understand the principles of Reactive and asynchronous programming and its benefitsKey FeaturesExplore the advantages of Reactive programmingUse concurrency and parallelism in RxPY to build powerful reactive applicationsDeploy and scale your reactive applications using DockerBook DescriptionReactive programming is central to many concurrent systems, but it\u2019s famous for its steep learning curve, which makes most developers feel like they're hitting a wall. With this book, you will get to grips with reactive programming by steadily exploring various conceptsThis hands-on guide gets you started with Reactive Programming (RP) in Python. You will learn abouta the principles and benefits of using RP, which can be leveraged to build powerful concurrent applications. As you progress through the chapters, you will be introduced to the paradigm of Functional and Reactive Programming (FaRP), observables and observers, and concurrency and parallelism. The book will then take you through the implementation of an audio transcoding server and introduce you to a library that helps in the writing of FaRP code. You will understand how to use third-party services and dynamically reconfigure an application.</p>\n\n<p>By the end of the book, you will also have learned how to deploy and scale your applications with Docker and Traefik and explore the significant potential behind the reactive streams concept, and you'll have got to grips with a comprehensive set of best practices.</p>\n\n<p>What you will learnStructure Python code for better readability, testing, and performanceExplore the world of event-based programmingGrasp the use of the most common operators in RxUnderstand reactive extensions beyond simple examplesMaster the art of writing reusable componentsDeploy an application on a cloud platform with Docker and TraefikWho this book is forIf you are a Python developer who wants to learn Reactive programming to build powerful concurrent and asynchronous applications, this book is for you. Basic understanding of the Python language is all you need to understand the concepts covered in this book.</p>"
+}

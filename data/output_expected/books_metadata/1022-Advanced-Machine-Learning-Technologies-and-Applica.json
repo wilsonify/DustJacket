@@ -1,0 +1,20 @@
+{
+  "book_id": 1022,
+  "book_uuid": "f2c323f8-255f-4d47-858f-5bcd058475fe",
+  "title": "Advanced Machine Learning Technologies and Applications: Proceedings of AMLTA 2020",
+  "pubdate": "2020-05-25 22:58:26.025603+00:00",
+  "isbn": "",
+  "author_name": "Ashraf Darwish",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    211,
+    214,
+    215
+  ],
+  "description": "<p>This book presents the refereed proceedings of the 5th International Conference on Advanced Machine Learning Technologies and Applications (AMLTA 2020), held at Manipal University Jaipur, India, on February 13 \u2013 15, 2020, and organized in collaboration with the Scientific Research Group in Egypt (SRGE). The papers cover current research in machine learning, big data, Internet of Things, biomedical engineering, fuzzy logic and security, as well as intelligence swarms and optimization.</p>"
+}

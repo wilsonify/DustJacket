@@ -1,0 +1,18 @@
+{
+  "book_id": 833,
+  "book_uuid": "3c755ed7-197d-48f5-82b3-4d71b1f2d6dd",
+  "title": "Six Quantum Pieces: A First Course in Quantum Physics",
+  "pubdate": "2010-09-16 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Valerio Scarani",
+  "publisher_name": "World Scientific Publishing Company",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    255,
+    266,
+    704
+  ],
+  "description": "<div>\n<p>This book is an original first approach to quantum physics, the core of modern physics. It combines the competence of a well-known researcher in quantum information science and the freshness in style of two high school students. </p>\n<p>Quantum physics is known to be challenging for two reasons: it describes counter-intuitive phenomena and employs rather advanced mathematics. The description of \u201ctraditional\u201d quantum phenomena (the structure of atoms and molecules, the properties of solids, the zoology of sub-atomic particles) does indeed involve the whole formalism. However, some other striking phenomena, somehow the most \u201ctypically quantum\u201d ones, can be described using only high school mathematical skills. This approach exploits this fact, thus making it possible for a beginner to tackle mind-boggling experiments like teleportation and the violation of Bell's inequalities, and practice notions like superposition, entanglement and decoherence.</p></div>"
+}

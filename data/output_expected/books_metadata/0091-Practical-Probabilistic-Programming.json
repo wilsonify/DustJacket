@@ -1,0 +1,30 @@
+{
+  "book_id": 91,
+  "book_uuid": "daa71d92-6783-47da-a9dd-eb76472aa096",
+  "title": "Practical Probabilistic Programming",
+  "pubdate": "2016-03-29 20:35:38.477218+00:00",
+  "isbn": "",
+  "author_name": "Avi Pfeffer",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    32,
+    79,
+    197,
+    199,
+    200,
+    214,
+    217,
+    218,
+    223,
+    224,
+    226,
+    231,
+    258,
+    262,
+    3259,
+    3260
+  ],
+  "description": "<p>SummaryPractical Probabilistic Programming introduces the working programmer to probabilistic programming. In it, you'll learn how to use the PP paradigm to model application domains and then express those probabilistic models in code. Although PP can seem abstract, in this book you'll immediately work on practical examples, like using the Figaro language to build a spam filter and applying Bayesian and Markov networks, to diagnose computer system data problems and recover digital images. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.</p>\n\n<p>About the TechnologyThe data you accumulate about your customers, products, and website users can help you not only to interpret your past, it can also help you predict your future! Probabilistic programming uses code to draw probabilistic inferences from data. By applying specialized algorithms, your programs assign degrees of probability to conclusions. This means you can forecast future events like sales trends, computer system failures, experimental outcomes, and many other critical concerns. About the BookPractical Probabilistic Programming introduces the working programmer to probabilistic programming. In this book, you\u2019ll immediately work on practical examples like building a spam filter, diagnosing computer system data problems, and recovering digital images. You\u2019ll discover probabilistic inference, where algorithms help make extended predictions about issues like social media usage. Along the way, you\u2019ll learn to use functional-style programming for text analysis, object-oriented models to predict social phenomena like the spread of tweets, and open universe models to gauge real-life social media usage. The book also has chapters on how probabilistic models can help in decision making and modeling of dynamic systems. What's InsideIntroduction to probabilistic modelingWriting probabilistic programs in FigaroBuilding Bayesian networksPredicting product lifecyclesDecision-making algorithmsAbout the ReaderThis book assumes no prior exposure to probabilistic programming. Knowledge of Scala is helpful. About the AuthorAvi Pfeffer is the principal developer of the Figaro language for probabilistic programming. Table of ContentsPART 1 INTRODUCING PROBABILISTIC PROGRAMMING AND FIGAROProbabilistic programming in a nutshell A quick Figaro tutorial Creating a probabilistic programming application PART 2 WRITING PROBABILISTIC PROGRAMSProbabilistic models and probabilistic programs Modeling dependencies with Bayesian and Markov networks Using Scala and Figaro collections to build up models Object-oriented probabilistic modeling Modeling dynamic systems PART 3 INFERENCEThe three rules of probabilistic inference Factored inference algorithms Sampling algorithms Solving other inference tasks Dynamic reasoning and parameter learning</p>"
+}

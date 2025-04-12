@@ -1,0 +1,25 @@
+{
+  "book_id": 1170,
+  "book_uuid": "bba89d78-7c58-473d-9b1d-075d677c7c65",
+  "title": "MATLAB and Simulink Crash Course for Engineers",
+  "pubdate": "2022-03-07 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Eklas Hossain",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    211,
+    215,
+    252,
+    573,
+    3242,
+    3244,
+    3525,
+    3541
+  ],
+  "description": "<div>\n<p>MATLAB and Simulink Crash Course for Engineers is a reader-friendly introductory guide to the features, functions, and applications of MATLAB and Simulink. The book provides readers with real-world examples, exercises, and applications, and offers highly illustrated, step-by-step demonstrations of techniques for the modelling and simulation of complex systems. MATLAB coverage includes vectors and matrices, programs and functions, complex numbers, visualization, solving equations, numerical methods, optimization problems, and graphical user interfaces. The Simulink coverage includes commonly used Simulink blocks, control system simulation, electrical circuit analysis, electric power systems, power electronics, and renewable energy technology. This powerful tutorial is a great resource for students, engineers, and other busy technical professionals who need to quickly acquire a solid understanding of MATLAB and Simulink.</p></div>"
+}

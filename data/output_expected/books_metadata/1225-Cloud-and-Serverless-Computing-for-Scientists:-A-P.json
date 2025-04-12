@@ -1,0 +1,24 @@
+{
+  "book_id": 1225,
+  "book_uuid": "0bbd4c1c-3676-4770-8c1c-b1a9d3bf9791",
+  "title": "Cloud and Serverless Computing for Scientists: A Primer",
+  "pubdate": "2020-05-12 14:34:14.538528+00:00",
+  "isbn": "",
+  "author_name": "Juan A. A\u00f1el",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    203,
+    207,
+    214,
+    238,
+    3147,
+    3152,
+    3166
+  ],
+  "description": "<p>This book offers an introduction to cloud computing and serverless computing for students, researchers and R&amp;D organizations through several practical examples. Rather than focusing exclusively on the computational issues related to cloud computing, the authors focus on addressing the multidisciplinary applications of cloud computing for daily research work in public institutions and private companies in fields such as archaeology, geosciences, computer sciences, medicine and physics. The book also discusses the emergence of serverless computing over the last three years as a means to make computational infrastructures more apparent to users, avoiding the need to concern one's self with the type of server or computing machine needed to perform a computing task. These topics are presented from the perspective of users, researchers and decision-makers, and are approached based on the authors' collective experience on the use and adoption of cloud computing.</p>"
+}

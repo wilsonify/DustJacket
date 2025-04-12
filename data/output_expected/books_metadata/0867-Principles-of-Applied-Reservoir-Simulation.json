@@ -1,0 +1,17 @@
+{
+  "book_id": 867,
+  "book_uuid": "945110f6-9348-4d51-ae7b-0c3b314059ea",
+  "title": "Principles of Applied Reservoir Simulation",
+  "pubdate": "1997-03-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "John R. Fanchi",
+  "publisher_name": "Gulf Pub.",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    211,
+    3137,
+    3245
+  ],
+  "description": "<div>\n<p>For the petroleum engineering professional, here is a fully-functioning reservoir simulator. For the novice it is a valuable, hands-on introduction to the process of reservoir modeling. Without an overabundance of math and case histories, this text describes and then shows how to apply reservoir simulation technology and principles. Written by a veteran developer and user of reservoir models, the book combines concepts and terminology, an integrated case study, and DOS-based software to clearly present a comprehensive overview of reservoir simulation principles and their applications. This text and software package (designed for 486 or better math co-processors) provides an inexpensive tool for performing studies that are too sophisticated for analytical solutions yet do not require full-featured commercial simulators. Example data sets on the enclosed disk help you apply the simulator to a wide range of practical problems.</p></div>"
+}

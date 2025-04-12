@@ -1,0 +1,27 @@
+{
+  "book_id": 1075,
+  "book_uuid": "9f79934e-7355-4d4c-b3b0-7ce6a879315a",
+  "title": "Fortran Programs for Chemical Process Design, Analysis, and Simulation",
+  "pubdate": "1995-01-25 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "A. Kayode Coker",
+  "publisher_name": "Gulf Professional Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    211,
+    229,
+    255,
+    277,
+    278,
+    562,
+    2578,
+    3129,
+    3147,
+    3224,
+    3505
+  ],
+  "description": "<div>\n<p>Numerical Computation. Physical Property Data. Fluid Flow. Equipment Sizing. Instrument Sizing. Compressors and Pump Hydraulics. Mass Transfer. Heat Transfer. Engineering Economics. Imperial/SI Units Conversion Table. Appendix A: Tables. Appendix B: Source Code Printouts.</p></div>"
+}

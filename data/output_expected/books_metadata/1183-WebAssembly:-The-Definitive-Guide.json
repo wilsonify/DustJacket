@@ -1,0 +1,26 @@
+{
+  "book_id": 1183,
+  "book_uuid": "f49f1882-df8e-4bed-8ae2-d3ee39f15b23",
+  "title": "WebAssembly: The Definitive Guide",
+  "pubdate": "2021-12-15 20:50:44.422044+00:00",
+  "isbn": "",
+  "author_name": "Brian Sletten",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    223,
+    229,
+    258,
+    259,
+    3156,
+    3159,
+    3223,
+    3228,
+    3320
+  ],
+  "description": "<p>WebAssembly: The Definitive Guide is a thorough and accessible introduction to one of the most transformative technologies hitting our industry. What started as a way to use languages other than JavaScript in the browser has evolved into a comprehensive path toward portability, performance, increased security, and greater code reuse across an impressive collection of deployment targets.</p>\n\n<p>Author Brian Sletten introduces elements of this technology incrementally while building to several concrete, code-driven examples of practical, cutting-edge WebAssembly uses. Whether you work with enterprise software or embedded systems, or in entertainment, scientific computing, or startup environments, you'll learn how WebAssembly can have a positive impact on the way you develop software.</p>\n\n<p>Use WebAssembly to increase code portability across platformsReuse more of your software assets in a wider number of deployment targetsLearn how WebAssembly increases protection against prominent security attacksUse WebAssembly to deploy legacy code in web environmentsIncrease your user base across languages and development environmentsIntegrate JavaScript code with other languages and environments to improve performance, security, and productivityLearn how WebAssembly will affect your career as software developer</p>"
+}

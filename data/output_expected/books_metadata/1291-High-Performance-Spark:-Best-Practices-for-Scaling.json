@@ -1,0 +1,28 @@
+{
+  "book_id": 1291,
+  "book_uuid": "51660dfe-a34b-4e5e-9ff6-7c5726cb0f1f",
+  "title": "High Performance Spark: Best Practices for Scaling and Optimizing Apache Spark",
+  "pubdate": "2017-05-25 20:03:28.377767+00:00",
+  "isbn": "",
+  "author_name": "Holden Karau",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    200,
+    203,
+    223,
+    229,
+    230,
+    253,
+    258,
+    259,
+    276,
+    3158,
+    3259
+  ],
+  "description": "<p>Apache Spark is amazing when everything clicks. But if you haven\u2019t seen the performance improvements you expected, or still don\u2019t feel confident enough to use Spark in production, this practical book is for you. Authors Holden Karau and Rachel Warren demonstrate performance optimizations to help your Spark queries run faster and handle larger data sizes, while using fewer resources.</p>\n\n<p>Ideal for software engineers, data engineers, developers, and system administrators working with large-scale data applications, this book describes techniques that can reduce data infrastructure costs and developer hours. Not only will you gain a more comprehensive understanding of Spark, you\u2019ll also learn how to make it sing.</p>\n\n<p>With this book, you\u2019ll explore:How Spark SQL\u2019s new interfaces improve performance over SQL\u2019s RDD data structureThe choice between data joins in Core Spark and Spark SQLTechniques for getting the most out of standard RDD transformationsHow to work around performance issues in Spark\u2019s key/value pair paradigmWriting high-performance Spark code without Scala or the JVMHow to test for functionality and performance when applying suggested improvementsUsing Spark MLlib and Spark ML machine learning librariesSpark\u2019s Streaming components and external community packages</p>"
+}

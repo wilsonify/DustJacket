@@ -1,0 +1,24 @@
+{
+  "book_id": 1147,
+  "book_uuid": "0e901ef9-f5e7-4e45-a0de-9ac2fa2c0202",
+  "title": "OpenCL in Action: How to Accelerate Graphics and Computations",
+  "pubdate": "2011-11-13 20:48:14.148980+00:00",
+  "isbn": "",
+  "author_name": "Matthew Scarpino",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    217,
+    218,
+    223,
+    224,
+    229,
+    230,
+    476,
+    3148,
+    3223
+  ],
+  "description": "<p>SummaryOpenCL in Action is a thorough, hands-on presentation of OpenCL, with an eye toward showing developers how to build high-performance applications of their own. It begins by presenting the core concepts behind OpenCL, including vector computing, parallel programming, and multi-threaded operations, and then guides you step-by-step from simple data structures to complex functions.</p>\n\n<p>About the TechnologyWhatever system you have, it probably has more raw processing power than you're using. OpenCL is a high-performance programming language that maximizes computational power by executing on CPUs, graphics processors, and other number-crunching devices. It's perfect for speed-sensitive tasks like vector computing, matrix operations, and graphics acceleration.</p>\n\n<p>About this BookOpenCL in Action blends the theory of parallel computing with the practical reality of building high-performance applications using OpenCL. It first guides you through the fundamental data structures in an intuitive manner. Then, it explains techniques for high-speed sorting, image processing, matrix operations, and fast Fourier transform. The book concludes with a deep look at the all-important subject of graphics acceleration. Numerous challenging examples give you different ways to experiment with working code.</p>\n\n<p>A background in C or C++ is helpful, but no prior exposure to OpenCL is needed. Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book. What's InsideLearn OpenCL step by stepTons of annotated codeTested algorithms for maximum performance***********Table of ContentsPART 1 FOUNDATIONS OF OPENCL PROGRAMMINGIntroducing OpenCLHost programming: fundamental data structuresHost programming: data transfer and partitioningKernel programming: data types and device memoryKernel programming: operators and functionsImage processingEvents, profiling, and synchronizationDevelopment with C++ Development with Java and PythonGeneral coding principlesPART 2 CODING PRACTICAL ALGORITHMS IN OPENCLReduction and sortingMatrices and QR decompositionSparse matricesSignal processing and the fast Fourier transformPART 3 ACCELERATING OPENGL WITH OPENCLCombining OpenCL and OpenGLTextures and renderbuffers</p>"
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 1262,
+  "book_uuid": "d72b7bc4-95b5-460d-983f-3e6f72015c60",
+  "title": "Introducing Microsoft SQL Server 2019: Reliability, Scalability, and Security Both on Premises and in the Cloud",
+  "pubdate": "2020-04-16 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Kellyn Gorman",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    55,
+    79,
+    197,
+    214,
+    223,
+    229,
+    253,
+    3544,
+    3545
+  ],
+  "description": "<div>\n<p>Explore the impressive storage and analytic tools available with the in-cloud and on-premises versions of Microsoft SQL Server 2019.Key Features Gain insights into what's new in SQL Server 2019 Understand use cases and customer scenarios that can be implemented with SQL Server 2019 Discover new cross-platform tools that simplify management and analysis Book Description Microsoft SQL Server comes equipped with industry-leading features and the best online transaction processing capabilities. If you are looking to work with data processing and management, getting up to speed with Microsoft Server 2019 is key. Introducing SQL Server 2019 takes you through the latest features in SQL Server 2019 and their importance. You will learn to unlock faster querying speeds and understand how to leverage the new and improved security features to build robust data management solutions. Further chapters will assist you with integrating, managing, and analyzing all data, including relational, NoSQL, and unstructured big data using SQL Server 2019. Dedicated sections in the book will also demonstrate how you can use SQL Server 2019 to leverage data processing platforms, such as Apache Hadoop and Spark, and containerization technologies like Docker and Kubernetes to control your data and efficiently monitor it. By the end of this book, you'll be well versed with all the features of Microsoft SQL Server 2019 and understand how to use them confidently to build robust data management solutions. What you will learn Build a custom container image with a Dockerfile Deploy and run the SQL Server 2019 container image Understand how to use SQL server on Linux Migrate existing paginated reports to Power BI Report Server Learn to query Hadoop Distributed File System (HDFS) data using Azure Data Studio Understand the benefits of In-Memory OLTP Who this book is for This book is for database administrators, architects, big data engineers, or anyone who has experience with SQL Server and wants to explore and implement the new features in SQL Server 2019. Basic working knowledge of SQL Server and relational database management system (RDBMS) is required.</p></div>"
+}

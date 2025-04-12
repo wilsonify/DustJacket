@@ -1,0 +1,22 @@
+{
+  "book_id": 1048,
+  "book_uuid": "15584ccd-96c0-4dbe-b6d8-994f17a28244",
+  "title": "Data Analytics for Engineering and Construction Project Risk Management",
+  "pubdate": "2019-05-23 14:12:02.773405+00:00",
+  "isbn": "",
+  "author_name": "Ivan Damnjanovic",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    211,
+    238,
+    239,
+    242,
+    560,
+    3155,
+    3156
+  ],
+  "description": "<p>This book provides a step-by-step guidance on how to implement analytical methods in project risk management. The text focuses on engineering design and construction projects and as such is suitable for graduate students in engineering, construction, or project management, as well as practitioners aiming to develop, improve, and/or simplify corporate project management processes.</p>\n\n<p>The book places emphasis on building data-driven models for additive-incremental risks, where data can be collected on project sites, assembled from queries of corporate databases, and/or generated using procedures for eliciting experts\u2019 judgments. While the presented models are mathematically inspired, they are nothing beyond what an engineering graduate is expected to know: some algebra, a little calculus, a little statistics, and, especially, undergraduate-level understanding of the probability theory.</p>\n\n<p>The book is organized in three parts and fourteen chapters. In Part I the authors provide the general introduction to risk and uncertainty analysis applied to engineering construction projects. The basic formulations and the methods for risk assessment used during project planning phase are discussed in Part II, while in Part III the authors present the methods for monitoring and (re)assessment of risks during project execution.</p>"
+}

@@ -1,0 +1,21 @@
+{
+  "book_id": 1256,
+  "book_uuid": "ff849422-7fc8-49fa-9399-51a46e5c39a1",
+  "title": "D3.js in Action",
+  "pubdate": "2024-07-23 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Elijah Meeks",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    199,
+    229,
+    272,
+    3198,
+    3224,
+    3225
+  ],
+  "description": "<div>\n<p>Create stunning web-based data visualizations with D3.js. </p>\n<p>This totally-revised new edition of D3.js in Action guides you from simple charts to powerful interactive graphics. Chapter-by-chapter you\u2019ll assemble an impressive portfolio of visualizations\u2014including intricate networks, maps, and even a complete customized visualization layout. Plus, you'll learn best practices for building interactive graphics, animations, and integrating your work into frontend development frameworks like React and Svelte. In D3.js in Action, Third Edition you will learn how to: Set up a local development environment for D3 Include D3 in web development projects, including Node-based web apps Select and append DOM elements Size and position elements on screen Assemble components and layouts into creative data visualizations D3.js in Action, Third Edition has been extensively revised for D3.js version 7, and modern best practices for web visualizations. Its brand new chapters dive into interactive visualizations, cover responsiveness for dataviz, and show you how you can improve accessibility. Foreword by Andy Kirk. About the technology With D3.js, you can create sophisticated infographics, charts, and interactive data visualizations using standard frontend tools like JavaScript, HTML, and CSS. Granting D3 its VIS Test of Time award, the IEEE credited this powerful library for bringing data visualization to the mainstream. You\u2019ll be blown away by how beautiful your results can be! About the book D3.js in Action, Third Edition is a roadmap for creating brilliant and beautiful visualizations with D3.js. Like a gentle mentor, it guides you from basic charts all the way to advanced interactive visualizations like networks and maps. You\u2019ll learn to build graphics, create animations, and set up mobile-friendly responsiveness. Each chapter contains a complete data visualization project to put your new skills into action. What's inside Fully revised for D3.js v7 Includes 12 complete projects Create data visualizations with SVG and canvas Combine D3 with React, Svelte, and Angular About the reader For web developers with HTML, CSS, and JavaScript skills. About the author Elijah Meeks was a data visualization pioneer at Stanford and the first Senior Data Visualization Engineer at Netflix. Anne-Marie Dufour is a Data Visualization Engineer. The technical editor on this book was Jon Borgman. Table of Contents PART 1 1 An introduction to D3.js 2 Manipulating the DOM 3 Working with data 4 Drawing lines, curves, and arcs 5 Pie and stack layouts 6 Visualizing distributions PART 2 7 Interactive visualizations 8 Integrating D3 in a frontend framework 9 Responsive visualizations 10 Accessible visualizations PART 3 11 Hierarchical visualizations 12 Network visualizations 13 Geospatial information visualizations PART 4 14 Creating a custom visualization 15 Rendering visualizations with Canvas Appendix A Appendix B Appendix C Appendix D Appendix E</p></div>"
+}

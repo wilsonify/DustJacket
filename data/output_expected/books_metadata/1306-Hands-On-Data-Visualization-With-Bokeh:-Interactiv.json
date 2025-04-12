@@ -1,0 +1,21 @@
+{
+  "book_id": 1306,
+  "book_uuid": "51b11a06-8b53-40cc-8356-bbbd23601e1f",
+  "title": "Hands-On Data Visualization With Bokeh: Interactive Web Plotting for Python Using Bokeh",
+  "pubdate": "2018-06-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Kevin Jolly",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    214,
+    229,
+    232,
+    272
+  ],
+  "description": "<div>\n<p>Learn how to create interactive and visually aesthetic plots using the Bokeh package in Python Key FeaturesA step by step approach to creating interactive plots with BokehGo from installation all the way to deploying your very own Bokeh applicationWork with a real time datasets to practice and create your very own plots and applicationsBook DescriptionAdding a layer of interactivity to your plots and converting these plots into applications hold immense value in the field of data science. The standard approach to adding interactivity would be to use paid software such as Tableau, but the Bokeh package in Python offers users a way to create both interactive and visually aesthetic plots for free. This book gets you up to speed with Bokeh - a popular Python library for interactive data visualization. </p>\n<p>The book starts out by helping you understand how Bokeh works internally and how you can set up and install the package in your local machine. You then use a real world data set which uses stock data from Kaggle to create interactive and visually stunning plots. You will also learn how to leverage Bokeh using some advanced concepts such as plotting with spatial and geo data. Finally you will use all the concepts that you have learned in the previous chapters to create your very own Bokeh application from scratch. </p>\n<p>By the end of the book you will be able to create your very own Bokeh application. You will have gone through a step by step process that starts with understanding what Bokeh actually is and ends with building your very own Bokeh application filled with interactive and visually aesthetic plots. </p>\n<p>What you will learnInstalling Bokeh and understanding its key conceptsCreating plots using glyphs, the fundamental building blocks of BokehCreating plots using different data structures like NumPy and PandasUsing layouts and widgets to visually enhance your plots and add a layer of interactivityBuilding and hosting applications on the Bokeh serverCreating advanced plots using spatial dataWho this book is forThis book is well suited for data scientists and data analysts who want to perform interactive data visualization on their web browsers using Bokeh. Some exposure to Python programming will be helpful, but prior experience with Bokeh is not required.</p></div>"
+}

@@ -1,0 +1,21 @@
+{
+  "book_id": 1040,
+  "book_uuid": "a11c7f41-2b6e-49a3-a1cb-373d579474b7",
+  "title": "Big Data SMACK: A Guide to Apache Spark, Mesos, Akka, Cassandra, and Kafka",
+  "pubdate": "2016-09-29 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Raul Estrada",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    206,
+    223,
+    224,
+    253,
+    262
+  ],
+  "description": "<div>\n<p>Learn how to integrate full-stack open source big data architecture and to choose the correct technology\u2014Scala/Spark, Mesos, Akka, Cassandra, and Kafka\u2014in every layer. Big data architecture is becoming a requirement for many different enterprises. So far, however, the focus has largely been on collecting, aggregating, and crunching large data sets in a timely manner. In many cases now, organizations need more than one paradigm to perform efficient analyses. Big Data SMACK explains each of the full-stack technologies and, more importantly, how to best integrate them. It provides detailed coverage of the practical benefits of these technologies and incorporates real-world examples in every situation. This book focuses on the problems and scenarios solved by the architecture, as well as the solutions provided by every technology. It covers the six main concepts of big data architecture and how integrate, replace, and reinforce every layer: The language: ScalaThe engine: Spark (SQL, MLib, Streaming, GraphX)The container: Mesos, DockerThe view: AkkaThe storage: CassandraThe message broker: Kafka What You Will Learn: Make big data architecture without using complex Greek letter architecturesBuild a cheap but effective cluster infrastructureMake queries, reports, and graphs that business demandsManage and exploit unstructured and No-SQL data sourcesUse tools to monitor the performance of your architectureIntegrate all technologies and decide which ones replace and which ones reinforce Who This Book Is For:Developers, data architects, and data scientists looking to integrate the most successful big data open stack architecture and to choose the correct technology in every layer</p></div>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 1105,
+  "book_uuid": "fd944292-f0c4-47ab-aa6f-4d038f6a2a75",
+  "title": "Chaos Engineering",
+  "pubdate": "2021-03-16 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mikolaj Pawlikowski",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    217,
+    249,
+    3229,
+    3249,
+    3289
+  ],
+  "description": "<div>\n<p>Chaos Engineering teaches you to design and execute controlled experiments that uncover hidden problems. </p>\n<p>Summary Auto engineers test the safety of a car by intentionally crashing it and carefully observing the results. Chaos engineering applies the same principles to software systems. In Chaos Engineering: Site reliability through controlled disruption, you\u2019ll learn to run your applications and infrastructure through a series of tests that simulate real-life failures. You'll maximize the benefits of chaos engineering by learning to think like a chaos engineer, and how to design the proper experiments to ensure the reliability of your software. With examples that cover a whole spectrum of software, you'll be ready to run an intensive testing regime on anything from a simple WordPress site to a massive distributed system running on Kubernetes. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology Can your network survive a devastating failure? Could an accident bring your day-to-day operations to a halt? Chaos engineering simulates infrastructure outages, component crashes, and other calamities to show how systems and staff respond. Testing systems in distress is the best way to ensure their future resilience, which is especially important for complex, large-scale applications with little room for downtime. About the book Chaos Engineering teaches you to design and execute controlled experiments that uncover hidden problems. Learn to inject system-shaking failures that disrupt system calls, networking, APIs, and Kubernetes-based microservices infrastructures. To help you practice, the book includes a downloadable Linux VM image with a suite of preconfigured tools so you can experiment quickly\u2014without risk. What's inside Inject failure into processes, applications, and virtual machines Test software running on Kubernetes Work with both open source and legacy software Simulate database connection latency Test and improve your team\u2019s failure response About the reader Assumes Linux servers. Basic scripting skills required. About the author Mikolaj Pawlikowski is a recognized authority on chaos engineering. He is the creator of the Kubernetes chaos engineering tool PowerfulSeal, and the networking visibility tool Goldpinger. Table of Contents 1 Into the world of chaos engineering PART 1 - CHAOS ENGINEERING FUNDAMENTALS 2 First cup of chaos and blast radius 3 Observability 4 Database trouble and testing in production PART 2 - CHAOS ENGINEERING IN ACTION 5 Poking Docker 6 Who you gonna call? Syscall-busters! 7 Injecting failure into the JVM 8 Application-level fault injection 9 There's a monkey in my browser! PART 3 - CHAOS ENGINEERING IN KUBERNETES 10 Chaos in Kubernetes 11 Automating Kubernetes experiments 12 Under the hood of Kubernetes 13 Chaos engineering (for) people</p></div>"
+}

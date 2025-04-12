@@ -1,0 +1,13 @@
+{
+  "book_id": 1227,
+  "book_uuid": "f542045e-a8e5-4c22-9147-5350126c8541",
+  "title": "Cassandra: The Definitive Guide - DataStax version, 3rd Edition",
+  "pubdate": "2020-04-03 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jeff Carpenter",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Imagine what you could do if scalability wasn't a problem. With this hands-on guide, you\u2019ll learn how the Cassandra database management system handles hundreds of terabytes of data while remaining highly available across multiple data centers. This third edition\u2014updated for Cassandra 4.0\u2014provides the technical details and practical examples you need to put this database to work in a production environment.</p><p>Authors Jeff Carpenter and Eben Hewitt demonstrate the advantages of Cassandra\u2019s nonrelational design, with special attention to data modeling. If you\u2019re a developer, DBA, or application architect looking to solve a database scaling issue or future-proof your application, this guide helps you harness Cassandra\u2019s speed and flexibility.</p><ul><li>Understand Cassandra\u2019s distributed and decentralized structure</li><li>Use the Cassandra Query Language (CQL) and cqlsh\u2014the CQL shell</li><li>Create a working data model and compare it with an equivalent relational model</li><li>Develop sample applications using client drivers for languages including Java, Python, and Node.js</li><li>Explore cluster topology and learn how nodes exchange data</li></ul></div></span>"
+}

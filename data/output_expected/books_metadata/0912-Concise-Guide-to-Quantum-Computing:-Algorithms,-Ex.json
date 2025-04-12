@@ -1,0 +1,24 @@
+{
+  "book_id": 912,
+  "book_uuid": "51d183a3-8906-4d5e-a583-86a376377d71",
+  "title": "Concise Guide to Quantum Computing: Algorithms, Exercises, and Implementations",
+  "pubdate": "2021-02-24 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sergei Kurgalin",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    201,
+    207,
+    226,
+    255,
+    266,
+    286,
+    704
+  ],
+  "description": "<div>\n<p>This textbook is intended for practical, laboratory sessions associated with the course of quantum computing and quantum algorithms, as well as for self-study. It contains basic theoretical concepts and methods for solving basic types of problems and gives an overview of basic qubit operations, entangled states, quantum circuits, implementing functions, quantum Fourier transform, phase estimation, etc. The book serves as a basis for the application of new information technologies in education and corporate technical training: theoretical material and examples of practical problems, as well as exercises with, in most cases, detailed solutions, have relation to information technologies. A large number of detailed examples serve to better develop professional competencies in computer science.</p></div>"
+}

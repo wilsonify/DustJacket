@@ -1,0 +1,17 @@
+{
+  "book_id": 1065,
+  "book_uuid": "2a0583ba-3368-42e9-967a-41f268a3d2d9",
+  "title": "Hands-On MQTT Programming with Python",
+  "pubdate": "2018-05-21 07:22:48+00:00",
+  "isbn": "",
+  "author_name": "Gaston C. Hillar",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    435,
+    436,
+    437
+  ],
+  "description": "<p><b>Explore the features included in the latest versions of MQTT for IoT and M2M communications and use them with modern Python 3.</b><p><b>About This Book</b><p><li>Make your connected devices less prone to attackers by understanding security mechanisms<li>Take advantage of MQTT features for IoT and Machine-to-Machine communications<li>The only book that covers MQTT with a single language, Python<p><b>Who This Book Is For</b><p>This book is for developers who want to learn about the MQTT protocol for their IoT projects. Prior knowledge of working with IoT and Python will be helpful.<p><b>What You Will Learn</b><p><li>Learn how MQTT and its lightweight messaging system work<li>Understand the MQTT puzzle: clients, servers (formerly known as brokers), and connections<li>Explore the features included in the latest versions of MQTT for IoT and M2M communications<li>Publish and receive MQTT messages with Python<li>Learn the difference between blocking and threaded network..."
+}

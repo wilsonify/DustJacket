@@ -1,0 +1,16 @@
+{
+  "book_id": 1212,
+  "book_uuid": "6187f525-a103-41a5-aa79-12c860a19f7f",
+  "title": "Design Patterns for Embedded Systems in C",
+  "pubdate": "2012-03-17 05:50:23+00:00",
+  "isbn": "",
+  "author_name": "Bruce Powel Douglass",
+  "publisher_name": "Elsevier Inc.",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    501,
+    502
+  ],
+  "description": "Design Patterns for Embedded Systems in C, (2011) 471. 978-1-85617-707-8"
+}

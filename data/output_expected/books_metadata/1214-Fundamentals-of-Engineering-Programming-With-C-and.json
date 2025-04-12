@@ -1,0 +1,19 @@
+{
+  "book_id": 1214,
+  "book_uuid": "c17eff41-fec8-46ec-ab1c-e8e75594cddf",
+  "title": "Fundamentals of Engineering Programming With C and Fortran",
+  "pubdate": "1998-07-13 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Harley R. Myler",
+  "publisher_name": "Cambridge University Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    211,
+    215,
+    284
+  ],
+  "description": "<div>\n<p>Fundamentals of Engineering Programming with C and Fortran is a beginner's guide to problem solving with computers that shows how to quickly prototype a program for a particular engineering application. The book's side-by- side coverage of C and Fortran is unique. Myler emphasizes the importance of developing programming skills in C while carefully presenting the importance of maintaining a good reading knowledge of Fortran. Beginning with a brief description of computer architecture, he then covers the fundamentals of computer programming for problem solving. He also devotes separate chapters to data types and operators, control flow, type conversion, arrays, and file operations. The final chapter contains case studies that illustrate particular elements of modeling and visualization. Also included are a number of appendices covering C and Fortran language summaries and other useful topics. This concise and accessible book can be used as a text for introductory-level undergraduate courses on engineering programming or as a self-study guide for practicing engineers.</p></div>"
+}

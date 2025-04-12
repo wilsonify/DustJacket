@@ -1,0 +1,19 @@
+{
+  "book_id": 688,
+  "book_uuid": "788751c1-ca2b-452f-a3f1-7308cae5f1a5",
+  "title": "R Through Excel: A Spreadsheet Interface for Statistics, Data Analysis, and Graphics",
+  "pubdate": "2010-01-23 14:18:37.365945+00:00",
+  "isbn": "",
+  "author_name": "Richard M. Heiberger",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    201,
+    252
+  ],
+  "description": "<p>R, a free and open source program, is one of the most powerful and the fastest-growing statistics program. Microsoft Excel is the most widely used spreadsheet program, but many statisticians consider its statistical tools too limited. In this book, the authors build on RExcel, a free add-in for Excel that can be downloaded from the R distribution network. RExcel seamlessly integrates the entire set of R's statistical and graphical methods into Excel, allowing students to focus on statistical methods and concepts and minimizing the distraction of learning a new programming language. Data can be transferred between R and Excel \u201cthe Excel way\u201d by selecting worksheet ranges and using Excel menus. R\u2019s basic statistical functions and selected advanced methods are available from an Excel menu. Results of the computations and statistical graphics can be returned back into Excel worksheet ranges. RExcel allows the use of Excel scroll bars and check boxes to create and animate R graphics as an interactive analysis tool. The book is designed as a computational supplement to introductory statistics texts and the authors provide RExcel examples covering the topics of the introductory course.</p>"
+}

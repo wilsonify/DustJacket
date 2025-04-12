@@ -1,0 +1,23 @@
+{
+  "book_id": 1141,
+  "book_uuid": "d37e9e99-e562-49f4-9f24-185b21e72be2",
+  "title": "Pandas 1. X Cookbook: Practical Recipes for Scientific Computing, Time Series Analysis, and Exploratory Data Analysis Using Python, 2nd Edition",
+  "pubdate": "2020-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Matt Harrison",
+  "publisher_name": "Packt Publishing, Limited",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    199,
+    200,
+    214,
+    229,
+    232,
+    746
+  ],
+  "description": "<div>\n<p>Use the power of pandas to solve most complex scientific computing problems with ease. Revised for pandas 1.x. </p>\n<p>Key FeaturesThis is the first book on pandas 1.xPractical, easy to implement recipes for quick solutions to common problems in data using pandasMaster the fundamentals of pandas to quickly begin exploring any datasetBook DescriptionThe pandas library is massive, and it's common for frequent users to be unaware of many of its more impressive features. The official pandas documentation, while thorough, does not contain many useful examples of how to piece together multiple commands as one would do during an actual analysis. This book guides you, as if you were looking over the shoulder of an expert, through situations that you are highly likely to encounter. </p>\n<p>This new updated and revised edition provides you with unique, idiomatic, and fun recipes for both fundamental and advanced data manipulation tasks with pandas. Some recipes focus on achieving a deeper understanding of basic principles, or comparing and contrasting two similar operations. Other recipes will dive deep into a particular dataset, uncovering new and unexpected insights along the way. Many advanced recipes combine several different features across the pandas library to generate results. </p>\n<p>What you will learnMaster data exploration in pandas through dozens of practice problemsGroup, aggregate, transform, reshape, and filter dataMerge data from different sources through pandas SQL-like operationsCreate visualizations via pandas hooks to matplotlib and seabornUse pandas, time series functionality to perform powerful analysesImport, clean, and prepare real-world datasets for machine learningCreate workflows for processing big data that doesn't fit in memoryWho this book is forThis book is for Python developers, data scientists, engineers, and analysts. Pandas is the ideal tool for manipulating structured data with Python and this book provides ample instruction and examples. Not only does it cover the basics required to be proficient, but it goes into the details of idiomatic pandas. </p>\n<p>Table of ContentsPandas FoundationsEssential DataFrame OperationsCreating and Persisting DataFramesBeginning Data AnalysisExploratory Data AnalysisSelecting Subsets of DataFiltering RowsIndex AlignmentGrouping for Aggregation, Filtration and TransformationRestructuring Data into a Tidy FormCombining Pandas ObjectsTime Series AnalysisVisualization with Matplotlib, Pandas, and SeabornDebugging and Testing Pandas</p></div>"
+}

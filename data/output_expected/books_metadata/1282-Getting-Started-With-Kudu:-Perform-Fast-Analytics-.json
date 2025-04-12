@@ -1,0 +1,23 @@
+{
+  "book_id": 1282,
+  "book_uuid": "7db68aa2-cff3-4820-a613-ab4883fce428",
+  "title": "Getting Started With Kudu: Perform Fast Analytics on Fast Data",
+  "pubdate": "2018-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jean-Marc Spaggiari",
+  "publisher_name": "O'Reilly Media, Incorporated",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    200,
+    226,
+    227,
+    228,
+    553,
+    3147
+  ],
+  "description": "<div>\n<p>Fast data ingestion, serving, and analytics in the Hadoop ecosystem have forced developers and architects to choose solutions using the least common denominator--either fast analytics at the cost of slow data ingestion or fast data ingestion at the cost of slow analytics. There is an answer to this problem. With the Apache Kudu column-oriented data store, you can easily perform fast analytics on fast data. This practical guide shows you how. </p>\n<p>Begun as an internal project at Cloudera, Kudu is an open source solution compatible with many data processing frameworks in the Hadoop environment. In this book, current and former solutions professionals from Cloudera provide use cases, examples, best practices, and sample code to help you get up to speed with Kudu. </p>\n<p>Explore Kudu's high-level design, including how it spreads data across serversFully administer a Kudu cluster, enable security, and add or remove nodesLearn Kudu's client-side APIs, including how to integrate Apache Impala, Spark, and other frameworks for data manipulationExamine Kudu's schema design, including basic concepts and primitives necessary to make your project successfulExplore case studies for using Kudu for real-time IoT analytics, predictive modeling, and in combination with another storage engine</p></div>"
+}

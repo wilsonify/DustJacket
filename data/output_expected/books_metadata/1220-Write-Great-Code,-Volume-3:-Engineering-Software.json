@@ -1,0 +1,19 @@
+{
+  "book_id": 1220,
+  "book_uuid": "22d51f54-2c9b-49b7-a9a2-bf2928b8b8dd",
+  "title": "Write Great Code, Volume 3: Engineering Software",
+  "pubdate": "2020-09-08 14:34:45.886531+00:00",
+  "isbn": "",
+  "author_name": "Randall Hyde",
+  "publisher_name": "No Starch Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    223,
+    249
+  ],
+  "description": "<p>Engineering Software, the third volume in the landmark Write Great Code series by Randall Hyde, helps you create readable and maintainable code that will generate awe from fellow programmers.</p>\n\n<p>The field of software engineering may value team productivity over individual growth, but legendary computer scientist Randall Hyde wants to make promising programmers into masters of their craft. To that end, Engineering Software--the latest volume in Hyde's highly regarded Write Great Code series--offers his signature in-depth coverage of everything from development methodologies and strategic productivity to object-oriented design requirements and system documentation.</p>\n\n<p>You'll learn:Why following the software craftsmanship model can lead you to do your best workHow to utilize traceability to enforce consistency within your documentationThe steps for creating your own UML requirements with use-case analysisHow to leverage the IEEE documentation standards to create better softwareThis advanced apprenticeship in the skills, attitudes, and ethics of quality software development reveals the right way to apply engineering principles to programming. Hyde will teach you the rules, and show you when to break them. Along the way, he offers illuminating insights into best practices while empowering you to invent new ones.</p>\n\n<p>Brimming with resources and packed with examples, Engineering Software is your go-to guide for writing code that will set you apart from your peers.</p>"
+}

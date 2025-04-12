@@ -1,0 +1,24 @@
+{
+  "book_id": 689,
+  "book_uuid": "65833de1-e602-48db-a19b-f26b85c6b3b4",
+  "title": "Bayesian Computation With R",
+  "pubdate": "2007-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jim Albert",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    202,
+    216,
+    229,
+    254,
+    279,
+    3132,
+    3235
+  ],
+  "description": "<div>\n<p>There has been a dramatic growth in the development and application of Bayesian inferential methods. Some of this growth is due to the availability of powerful simulation-based algorithms to summarize posterior distributions. There has been also a growing interest in the use of the system R for statistical analyses. R's open source nature, free availability, and large number of contributor packages have made R the software of choice for many statisticians in education and industry. Bayesian Computation with R introduces Bayesian modeling by the use of computation using the R language. The early chapters present the basic tenets of Bayesian thinking by use of familiar one and two-parameter inferential problems. Bayesian computational methods such as Laplace's method, rejection sampling, and the SIR algorithm are illustrated in the context of a random effects model. The construction and implementation of Markov Chain Monte Carlo (MCMC) methods is introduced. These simulation-based algorithms are implemented for a variety of Bayesian applications such as normal and binary response regression, hierarchical modeling, order-restricted inference, and robust modeling. Algorithms written in R are used to develop Bayesian tests and assess Bayesian models by use of the posterior predictive distribution. The use of R to interface with WinBUGS, a popular MCMC computing language, is described with several illustrative examples. This book is a suitable companion book for an introductory course on Bayesian methods and is valuable to the statistical practitioner who wishes to learn more about the R language and Bayesian methodology. The LearnBayes package, written by the author and available from the CRAN website, contains all of the R functions described in the book. Jim Albert is Professor of Statistics at Bowling Green State University. He is Fellow of the American Statistical Association and is past editor of The American Statistician. His books include Ordinal Data Modeling (with Val Johnson), Workshop Statistics: Discovery with Data, A Bayesian Approach (with Allan Rossman), and Bayesian Computation using Minitab.</p></div>"
+}

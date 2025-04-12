@@ -1,0 +1,19 @@
+{
+  "book_id": 19,
+  "book_uuid": "936dd44c-ea7b-44f5-8a6b-48962fc8c66f",
+  "title": "JMP 11 JSL Syntax Reference",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    202,
+    252
+  ],
+  "description": "<div>\n<p>The JMP 11 JSL Syntax Reference focuses on functions and their arguments, and messages that you send to objects and display boxes. Notes and examples are included.</p></div>"
+}

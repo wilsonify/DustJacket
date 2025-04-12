@@ -1,0 +1,21 @@
+{
+  "book_id": 1059,
+  "book_uuid": "f1659b86-7016-43c4-94ca-e68a3545c4d9",
+  "title": "Learn Python Visually: Creative Coding With Processing.py",
+  "pubdate": "2021-05-04 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Tristan Bunn",
+  "publisher_name": "No Starch Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    217,
+    218,
+    223,
+    229,
+    232,
+    3158
+  ],
+  "description": "<div>\n<p>An accessible, visual, and creative approach to teaching core coding concepts using Python's Processing.py, an open-source graphical development environment. </p>\n<p>This beginners book introduces non-programmers to the fundamentals of computer coding within a visual, arts-focused context. Tristan Bunn\u2019s remarkably effective teaching approach is designed to help you visualize core programming concepts while you make cool pictures, animations, and simulations using Python Mode for the open-source Processing development environment. Right from the first chapter, you'll produce and manipulate colorful drawings, shapes and patterns as Bunn walks you through a series of easy-to-follow graphical coding projects that grow increasingly complex. You\u2019ll go from drawing with code to animating a bouncing DVD screensaver and practicing data-visualization techniques. Along the way, you\u2019ll encounter creative-yet-practical skill-building challenges that relate to everything from video games, cars, and coffee, to fine art, amoebas, and Pink Floyd. As you grow more fluent in both Python and programming in general, topics shift toward the mastery of algorithmic thinking, as you explore periodic motion, Lissajous curves, and using classes to create objects. You\u2019ll learn about:Basic coding theories and concepts, like variables, data types, pixel coordinates, control flow and algorithmsWriting code that produces drawings, patterns, animations, data visualizations, user interfaces, and simulationsUsing conditional statements, iteration, randomness, lists and dictionariesDefining functions, reducing repetition, and making your code more modularHow to write classes, and create objects to structure code more efficiently In addition to giving you a good grounding in general programming, the skills and knowledge you\u2019ll gain in this book are your entry point to coding for an ever-expanding horizon of creative technologies.</p></div>"
+}

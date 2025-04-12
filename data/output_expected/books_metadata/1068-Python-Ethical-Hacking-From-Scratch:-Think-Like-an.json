@@ -1,0 +1,21 @@
+{
+  "book_id": 1068,
+  "book_uuid": "1a9795e3-f9c2-4d73-aef2-123be8219cd0",
+  "title": "Python Ethical Hacking From Scratch: Think Like an Ethical Hacker, Avoid Detection, and Successfully Develop, Deploy, Detect, and Avoid Malware",
+  "pubdate": "2021-06-25 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Fahad Ali Sarwar",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    229,
+    232,
+    258,
+    569,
+    3167,
+    3271
+  ],
+  "description": "<div>\n<p>Explore the world of practical ethical hacking by developing custom network scanning and remote access tools that will help you test the system security of your organizationKey FeaturesGet hands-on with ethical hacking and learn to think like a real-life hackerBuild practical ethical hacking tools from scratch with the help of real-world examplesLeverage Python 3 to develop malware and modify its complexitiesBook DescriptionPenetration testing enables you to evaluate the security or strength of a computer system, network, or web application that an attacker can exploit. With this book, you'll understand why Python is one of the fastest-growing programming languages for penetration testing. You'll find out how to harness the power of Python and pentesting to enhance your system security. Developers working with Python will be able to put their knowledge and experience to work with this practical guide. Complete with step-by-step explanations of essential concepts and practical examples, this book takes a hands-on approach to help you build your own pentesting tools for testing the security level of systems and networks. You'll learn how to develop your own ethical hacking tools using Python and explore hacking techniques to exploit vulnerabilities in networks and systems. Finally, you'll be able to get remote access to target systems and networks using the tools you develop and modify as per your own requirements. By the end of this ethical hacking book, you'll have developed the skills needed for building cybersecurity tools and learned how to secure your systems by thinking like a hacker. </p>\n<p>What you will learnUnderstand the core concepts of ethical hackingDevelop custom hacking tools from scratch to be used for ethical hacking purposesDiscover ways to test the cybersecurity of an organization by bypassing protection schemesDevelop attack vectors used in real cybersecurity testsTest the system security of an organization or subject by identifying and exploiting its weaknessesGain and maintain remote access to target systemsFind ways to stay undetected on target systems and local networksWho this book is forIf you want to learn ethical hacking by developing your own tools instead of just using the prebuilt tools, this book is for you. A solid understanding of fundamental Python concepts is expected. Some complex Python concepts are explained in the book, but the goal is to teach ethical hacking, not Python.</p></div>"
+}

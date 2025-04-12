@@ -1,0 +1,24 @@
+{
+  "book_id": 71,
+  "book_uuid": "c73b3faf-3668-4514-b502-4ee657b4b04d",
+  "title": "Think Data Structures: Algorithms and Information Retrieval in Java",
+  "pubdate": "2017-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Allen B. Downey",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    223,
+    224,
+    226,
+    227,
+    228,
+    229,
+    230
+  ],
+  "description": "<div>\n<p>If you're a student studying computer science or a software developer preparing for technical interviews, this practical book will help you learn and review some of the most important ideas in software engineering--data structures and algorithms--in a way that's clearer, more concise, and more engaging than other materials. </p>\n<p>By emphasizing practical knowledge and skills over theory, author Allen Downey shows you how to use data structures to implement efficient algorithms, and then analyze and measure their performance. You'll explore the important classes in the Java collections framework (JCF), how they're implemented, and how they're expected to perform. Each chapter presents hands-on exercises supported by test code online. </p>\n<p>Use data structures such as lists and maps, and understand how they workBuild an application that reads Wikipedia pages, parses the contents, and navigates the resulting data treeAnalyze code to predict how fast it will run and how much memory it will requireWrite classes that implement the Map interface, using a hash table and binary search treeBuild a simple web search engine with a crawler, an indexer that stores web page contents, and a retriever that returns user query resultsOther books by Allen Downey include Think Java, Think Python, Think Stats, and Think Bayes.</p></div>"
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 687,
+  "book_uuid": "bdc25f96-102e-41f0-b78b-79e3c1828a13",
+  "title": "Lattice: Multivariate Data Visualization With R",
+  "pubdate": "2008-02-15 14:12:33.341647+00:00",
+  "isbn": "",
+  "author_name": "Deepayan Sarkar",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    216,
+    217,
+    218,
+    220,
+    252,
+    286
+  ],
+  "description": "<p>R is rapidly growing in popularity as the environment of choice for data analysis and graphics both in academia and industry. Lattice brings the proven design of Trellis graphics (originally developed for S by William S. Cleveland and colleagues at Bell Labs) to R, considerably expanding its capabilities in the process. Lattice is a powerful and elegant high level data visualization system that is sufficient for most everyday graphics needs, yet flexible enough to be easily extended to handle demands of cutting edge research. Written by the author of the lattice system, this book describes it in considerable depth, beginning with the essentials and systematically delving into specific low levels details as necessary. No prior experience with lattice is required to read the book, although basic familiarity with R is assumed. The book contains close to150 figures produced with lattice. Many of the examples emphasize principles of good graphical design; almost all use real data sets that are publicly available in various R packages. All code and figures in the book are also available online, along with supplementary material covering more advanced topics.</p>"
+}

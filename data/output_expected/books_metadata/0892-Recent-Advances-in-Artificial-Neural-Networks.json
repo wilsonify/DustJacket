@@ -1,0 +1,20 @@
+{
+  "book_id": 892,
+  "book_uuid": "be6d125a-dc3e-4b3e-a02e-29fe29f0ca59",
+  "title": "Recent Advances in Artificial Neural Networks",
+  "pubdate": "2000-04-01 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Lakhmi C. Jain",
+  "publisher_name": "CRC-Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    206,
+    210,
+    217,
+    552
+  ],
+  "description": "<div>\n<p>Neural networks represent a new generation of information processing paradigms designed to mimic - in a very limited sense - the human brain. They can learn, recall, and generalize from training data, and with their potential applications limited only by the imaginations of scientists and engineers, they are commanding tremendous popularity and research interest. Over the last four decades, researchers have reported a number of neural network paradigms; however, the newest of these have not appeared in book form - until now. Recent Advances in Artificial Neural Networks collects the latest neural network paradigms and reports on their promising new applications. World-renowned experts discuss the use of neural networks in pattern recognition, color induction, classification, cluster detection, and more.</p></div>"
+}

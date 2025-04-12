@@ -1,0 +1,20 @@
+{
+  "book_id": 1267,
+  "book_uuid": "0d02711e-1234-4fe1-b441-a86664f7f24a",
+  "title": "Building REST APIs With Flask: Create Python Web Services With MySQL",
+  "pubdate": "2019-09-12 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Kunal Relan",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    223,
+    229,
+    232,
+    3158
+  ],
+  "description": "<div>\n<p>Develop RESTful web services using the Flask micro-framework and integrate them using MySQL. Use Flask to develop, deploy, and manage REST APIs with easy-to-read and understand Python code. Solve your problem from a choice of libraries. Learn to use MySQL as the web services database for your Flask API using SQLAlchemy ORM.Building REST APIs with Flask provides a primer on Flask, RESTful services, and working with pip to set up your virtual environment. The key differences between NoSQL and SQL are covered, and you are taught how to connect MySQL and Flask using SQLAlchemy. Author Kunal Relan presents best practices for creating REST APIs and guides you in structuring your app and testing REST endpoints. He teaches you how to set up authentication and render HTML using views. You learn how to write unit tests for your REST APIs, and understand mocks, assertions, and integration testing. You will know how to document your REST APIs, deploy your Flask application on all of the major cloud platforms, and debug and monitor your Flask application. </p>\n<p>What You'll LearnUse MySQL to create Flask REST APIs Test REST endpointsCreate CRUD endpoints with Flask and MySQLDeploy Flask on all of the major cloud platformsMonitor your Flask application Who This Book Is For Python developers interested in REST API development using Flask and web developers with basic programming knowledge who want to learn how Python and REST APIs work together. Readers should be familiar with Python (command line, or at least pip) and MySQL.</p></div>"
+}

@@ -1,0 +1,17 @@
+{
+  "book_id": 668,
+  "book_uuid": "7dcf49e7-61a0-4273-af49-d73728cf6f96",
+  "title": "The New Statistics With R: An Introduction for Biologists",
+  "pubdate": "2015-03-15 14:35:08.543488+00:00",
+  "isbn": "",
+  "author_name": "Andy Hector",
+  "publisher_name": "Oxford University Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    255,
+    256,
+    257
+  ],
+  "description": "<p>Statistical methods are a key tool for all scientists working with data, but learning the basic mathematical skills can be one of the most challenging components of a biologist's training. This accessible book provides a contemporary introduction to the classical techniques and modern extensions of linear model analysis: one of the most useful approaches in the analysis of scientific data in the life and environmental sciences. It emphasizes an estimation-based approach that accounts for recent criticisms of the over-use of probability values, and introduces alternative approaches using information criteria. Statistics are introduced through worked analyses performed in R, the free open source programming language for statistics and graphics, which is rapidly becoming the standard software in many areas of science and technology. These analyses use real data sets from ecology, evolutionary biology and environmental science, and the data sets and R scripts are available as support material. The book's structure and user friendly style stem from the author's 20 years of experience teaching statistics to life and environmental scientists at both the undergraduate and graduate levels. The New Statistics with R is suitable for senior undergraduate and graduate students, professional researchers, and practitioners in the fields of ecology, evolution, environmental studies, and computational biology.</p>"
+}

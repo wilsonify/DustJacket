@@ -1,0 +1,24 @@
+{
+  "book_id": 683,
+  "book_uuid": "33afea37-378d-4509-a790-10cc7ff58ac2",
+  "title": "Six Sigma With R: Statistical Engineering for Process Improvement",
+  "pubdate": "2012-07-04 14:18:50.006127+00:00",
+  "isbn": "",
+  "author_name": "Emilio L. Cano",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    202,
+    234,
+    236,
+    237,
+    238,
+    248,
+    252
+  ],
+  "description": "<p>Six Sigma has arisen in the last two decades as a breakthrough Quality Management Methodology. With Six Sigma, we are solving problems and improving processes using as a basis one of the most powerful tools of human development: the scientific method. For the analysis of data, Six Sigma requires the use of statistical software, being R an Open Source option that fulfills this requirement. R is a software system that includes a programming language widely used in academic and research departments. Nowadays, it is becoming a real alternative within corporate environments. The aim of this book is to show how R can be used as the software tool in the development of Six Sigma projects. The book includes a gentle introduction to Six Sigma and a variety of examples showing how to use R within real situations. It has been conceived as a self contained piece. Therefore, it is addressed not only to Six Sigma practitioners, but also to professionals trying to initiate themselves in this management methodology. The book may be used as a text book as well.</p>"
+}

@@ -1,0 +1,25 @@
+{
+  "book_id": 89,
+  "book_uuid": "f71de89d-842f-4287-b585-ed70d872d8d1",
+  "title": "Learning in Energy-Efficient Neuromorphic Computing: Algorithm and Architecture Co-Design",
+  "pubdate": "2019-10-18 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Nan Zheng",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    210,
+    211,
+    221,
+    225,
+    250,
+    265,
+    273,
+    274
+  ],
+  "description": "<div>\n<p>Explains current co-design and co-optimization methodologies for building hardware neural networks and algorithms for machine learning applications This book focuses on how to build energy-efficient hardware for neural networks with learning capabilities\u2014and provides co-design and co-optimization methodologies for building hardware neural networks that can learn. Presenting a complete picture from high-level algorithm to low-level implementation details, Learning in Energy-Efficient Neuromorphic Computing: Algorithm and Architecture Co-Design also covers many fundamentals and essentials in neural networks (e.g., deep learning), as well as hardware implementation of neural networks. The book begins with an overview of neural networks. It then discusses algorithms for utilizing and training rate-based artificial neural networks. Next comes an introduction to various options for executing neural networks, ranging from general-purpose processors to specialized hardware, from digital accelerator to analog accelerator. A design example on building energy-efficient accelerator for adaptive dynamic programming with neural networks is also presented. An examination of fundamental concepts and popular learning algorithms for spiking neural networks follows that, along with a look at the hardware for spiking neural networks. Then comes a chapter offering readers three design examples (two of which are based on conventional CMOS, and one on emerging nanotechnology) to implement the learning algorithm found in the previous chapter. The book concludes with an outlook on the future of neural network hardware. Includes cross-layer survey of hardware accelerators for neuromorphic algorithms Covers the co-design of architecture and algorithms with emerging devices for much-improved computing efficiency Focuses on the co-design of algorithms and hardware, which is especially critical for using emerging devices, such as traditional memristors or diffusive memristors, for neuromorphic computing Learning in Energy-Efficient Neuromorphic Computing: Algorithm and Architecture Co-Design is an ideal resource for researchers, scientists, software engineers, and hardware engineers dealing with the ever-increasing requirement on power consumption and response time. It is also excellent for teaching and training undergraduate and graduate students about the latest generation neural networks with powerful learning capabilities.</p></div>"
+}

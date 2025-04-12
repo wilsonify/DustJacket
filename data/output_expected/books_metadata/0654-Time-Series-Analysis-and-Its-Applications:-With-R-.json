@@ -1,0 +1,20 @@
+{
+  "book_id": 654,
+  "book_uuid": "3fc58e00-b74f-46b8-9414-10ff245693ca",
+  "title": "Time Series Analysis and Its Applications: With R Examples",
+  "pubdate": "2017-04-25 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Robert H. Shumway",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    202,
+    234,
+    236,
+    237
+  ],
+  "description": "<div>\n<p>The fourth edition of this popular graduate textbook, like its predecessors, presents a balanced and comprehensive treatment of both time and frequency domain methods with accompanying theory. Numerous examples using nontrivial data illustrate solutions to problems such as discovering natural and anthropogenic climate change, evaluating pain perception experiments using functional magnetic resonance imaging, and monitoring a nuclear test ban treaty. </p>\n<p>The book is designed as a textbook for graduate level students in the physical, biological, and social sciences and as a graduate level text in statistics. Some parts may also serve as an undergraduate introductory course. Theory and methodology are separated to allow presentations on different levels. In addition to coverage of classical methods of time series regression, ARIMA models, spectral analysis and state-space models, the text includes modern developments including categorical time series analysis, multivariate spectral methods, long memory series, nonlinear models, resampling techniques, GARCH models, ARMAX models, stochastic volatility, wavelets, and Markov chain Monte Carlo integration methods. </p>\n<p>This edition includes R code for each numerical example in addition to Appendix R, which provides a reference for the data sets and R scripts used in the text in addition to a tutorial on basic R commands and R time series. An additional file is available on the book\u2019s website for download, making all the data sets and scripts easy to load into R.</p></div>"
+}

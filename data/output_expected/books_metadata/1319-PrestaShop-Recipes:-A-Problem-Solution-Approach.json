@@ -1,0 +1,18 @@
+{
+  "book_id": 1319,
+  "book_uuid": "677c0e2e-6056-42d7-ac56-7a232e3ba008",
+  "title": "PrestaShop Recipes: A Problem-Solution Approach",
+  "pubdate": "2017-02-23 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Arnaldo P\u00e9rez Casta\u00f1o",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    207,
+    259,
+    3170
+  ],
+  "description": "<div>\n<p>Customize all your PrestaShop themes with easy-to-follow recipes designed to remedy common pitfalls. </p>\n<p>Separated clearly into subjects, you will easily be able to look up the problem you are having and find a solution. Free of jargon and long sections of theory, PrestaShop Recipes enables you to troubleshoot and learn all at the same time. This book will aid you in your PrestaShop development \u2013 the free, open source e-commerce content management solution written in PHP and with support for MySQL. Accessible to small start-ups or larger businesses, it is becoming a very popular eCommerce solution and this book will enable you to use it to its full potential. What You'll LearnSee how PrestaShop works and how it can be customized Turn your PS site into an Events Booking siteApply SEO strategies and improve performanceWho This Book Is For PS site owners and developers who are interested in improving or customizing their shop. Site owners will get the same benefit from it as developers because the \u2018recipe\u2019 idea is to provide an easy to follow guide for making customizations a reality.</p></div>"
+}

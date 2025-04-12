@@ -1,0 +1,25 @@
+{
+  "book_id": 29,
+  "book_uuid": "2cf521a2-74d4-45e3-8411-739dc3bfad74",
+  "title": "Common Data Sense for Professionals: A Process-Oriented Approach for Data-Science Projects",
+  "pubdate": "2022-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Rajesh Jugulum",
+  "publisher_name": "Productivity Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    6,
+    7,
+    8,
+    9,
+    10,
+    238,
+    240,
+    242,
+    267,
+    268,
+    3233
+  ],
+  "description": "<div>\n<p>Data is an intrinsic part of our daily lives. Everything we do is a data point. Many of these data points are recorded with the intent to help us lead more efficient lives. We have apps that track our workouts, sleep, food intake, and personal finance. We use the data to make changes to our lives based on goals we have set for ourselves. Businesses use vast collections of data to determine strategy and marketing. Data scientists take data, analyze it, and create models to help solve problems. You may have heard of companies having data management teams or chief information officers (CIOs) or chief data officers (CDOs), etc. They are all people who work with data, but their function is more related to vetting data and preparing it for use by data scientists. The jump from personal data usage for self-betterment to mass data analysis for business process improvement often feels bigger to us than it is. In turn, we often think big data analysis requires tools held only by advanced degree holders. Although advanced degrees are certainly valuable, this book illustrates how it is not a requirement to adequately run a data science project. Because we are all already data users, with some simple strategies and exposure to basic analytical software programs, anyone who has the proper tools and determination can solve data science problems. The process presented in this book will help empower individuals to work on and solve data-related challenges. The goal of this book is to provide a step-by-step guide to the data science process so that you can feel confident in leading your own data science project. To aid with clarity and understanding, the author presents a fictional restaurant chain to use as a case study, illustrating how the various topics discussed can be applied. Essentially, this book helps traditional businesspeople solve data-related problems on their own without any hesitation or fear. The powerful methods are presented in the form of conversations, examples, and case studies. The conversational style is engaging and provides clarity.</p></div>"
+}

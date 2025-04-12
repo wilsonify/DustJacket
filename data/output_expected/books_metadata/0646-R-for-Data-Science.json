@@ -1,0 +1,24 @@
+{
+  "book_id": 646,
+  "book_uuid": "b557db82-748d-4e9a-9de1-31df0054ad6a",
+  "title": "R for Data Science",
+  "pubdate": "2023-06-08 19:51:35.588864+00:00",
+  "isbn": "",
+  "author_name": "Hadley Wickham",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    200,
+    201,
+    202,
+    222,
+    252,
+    262,
+    272
+  ],
+  "description": "<p>Cover -- Copyright -- Table of Contents -- Preface -- What You Will Learn -- How This Book Is Organized -- What You Won't Learn -- Big Data -- Python, Julia, and Friends -- Nonrectangular Data -- Hypothesis Confirmation -- Prerequisites -- R -- RStudio -- The Tidyverse -- Other Packages -- Running R Code -- Getting Help and Learning More -- Acknowledgments -- Online Version -- Conventions Used in This Book -- Using Code Examples -- O'Reilly Online Learning -- How to Contact Us -- Part I. Explore -- Chapter 1. Data Visualization with ggplot2 -- Introduction -- Prerequisites -- First Steps -- The mpg Data Frame -- Creating a ggplot -- A Graphing Template -- Exercises -- Aesthetic Mappings -- Exercises -- Common Problems -- Facets -- Exercises -- Geometric Objects -- Exercises -- Statistical Transformations -- Exercises -- Position Adjustments -- Exercises -- Coordinate Systems -- Exercises -- The Layered Grammar of Graphics -- Chapter 2. Workflow: Basics -- Coding Basics -- What's in a Name? -- Calling Functions -- Exercises -- Chapter 3. Data Transformation with dplyr -- Introduction -- Prerequisites -- nycflights13 -- dplyr Basics -- Filter Rows with filter() -- Comparisons -- Logical Operators -- Missing Values -- Exercises -- Arrange Rows with arrange() -- Exercises -- Select Columns with select() -- Exercises -- Add New Variables with mutate() -- Useful Creation Functions -- Exercises -- Grouped Summaries with summarize() -- Combining Multiple Operations with the Pipe -- Missing Values -- Counts -- Useful Summary Functions -- Grouping by Multiple Variables -- Ungrouping -- Exercises -- Grouped Mutates (and Filters) -- Exercises -- Chapter 4. Workflow: Scripts -- Running Code -- RStudio Diagnostics -- Exercises -- Chapter 5. Exploratory Data Analysis -- Introduction -- Prerequisites -- Questions -- Variation -- Visualizing Distributions.</p>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 1067,
+  "book_uuid": "88cfa42a-0048-4f38-848e-4cb9e3e7f74d",
+  "title": "Black Hat Python, 2nd Edition: Python Programming for Hackers and Pentesters",
+  "pubdate": "2021-04-13 14:34:18.762400+00:00",
+  "isbn": "",
+  "author_name": "Justin Seitz",
+  "publisher_name": "No Starch Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    229,
+    232,
+    569,
+    3167
+  ],
+  "description": "<p>Fully-updated for Python 3, the second edition of this worldwide bestseller (over 100,000 copies sold) explores the stealthier side of programming and brings you all new strategies for your hacking projects.</p>\n\n<p>When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. In Black Hat Python, 2nd Edition, you\u2019ll explore the darker side of Python\u2019s capabilities\u2014writing network sniffers, stealing email credentials, brute forcing directories, crafting mutation fuzzers, infecting virtual machines, creating stealthy trojans, and more. The second edition of this bestselling hacking book contains code updated for the latest version of Python 3, as well as new techniques that reflect current industry best practices. You\u2019ll also find expanded explanations of Python libraries such as ctypes, struct, lxml, and BeautifulSoup, and dig deeper into strategies, from splitting bytes to leveraging computer-vision libraries, that you can apply to future hacking projects. You\u2019ll learn how to: \u2022 Create a trojan command-and-control using GitHub \u2022 Detect sandboxing and automate common malware tasks, like keylogging and screenshotting \u2022 Escalate Windows privileges with creative process control \u2022 Use offensive memory forensics tricks to retrieve password hashes and inject shellcode into a virtual machine \u2022 Extend the popular Burp Suite web-hacking tool \u2022 Abuse Windows COM automation to perform a man-in-the-browser attack \u2022 Exfiltrate data from a network most sneakily When it comes to offensive security, your ability to create powerful tools on the fly is indispensable. Learn how with the second edition of Black Hat Python. New to this edition:All Python code has been updated to cover Python 3 and includes updated libraries used in current Python applications. Additionally, there are more in-depth explanations of the code and the programming techniques have been updated to current, common tactics. Examples of new material that you'll learn include how to sniff network traffic, evade anti-virus software, brute-force web applications, and set up a command-and-control (C2) system using GitHub.</p>"
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 25,
+  "book_uuid": "086b0f12-66fa-44a1-a7ce-769f2c210417",
+  "title": "JMP 11 Design of Experiments Guide",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    1,
+    2,
+    3,
+    4,
+    79,
+    197,
+    201,
+    202,
+    252
+  ],
+  "description": "<div>\n<p>The JMP 11 Design of Experiments Guide covers classic DOE designs (for example, full factorial, response surface, and mixture designs). Read about more flexible custom designs, which you generate to fit your particular experimental situation. And discover JMP's definitive screening designs, an efficient way to identify important factor interactions using fewer runs than required by traditional designs. The book also provides guidance on determining an appropriate sample size for your study.</p></div>"
+}

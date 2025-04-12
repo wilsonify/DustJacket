@@ -1,0 +1,24 @@
+{
+  "book_id": 52,
+  "book_uuid": "13b5fe51-9685-4c45-b265-ba2668799e4a",
+  "title": "Robust Quality: Powerful Integration of Data Science and Process Engineering",
+  "pubdate": "2018-08-08 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Rajesh Jugulum",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    200,
+    211,
+    214,
+    238,
+    239,
+    240,
+    241
+  ],
+  "description": "<div>\n<p>Historically, the term quality was used to measure performance in the context of products, processes and systems. With rapid growth in data and its usage, data quality is becoming quite important. It is important to connect these two aspects of quality to ensure better performance. This book provides a strong connection between the concepts in data science and process engineering that is necessary to ensure better quality levels and takes you through a systematic approach to measure holistic quality with several case studies. Features: Integrates data science, analytics and process engineering concepts Discusses how to create value by considering data, analytics and processes Examines metrics management technique that will help evaluate performance levels of processes, systems and models, including AI and machine learning approaches Reviews a structured approach for analytics execution</p></div>"
+}

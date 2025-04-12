@@ -1,0 +1,20 @@
+{
+  "book_id": 1216,
+  "book_uuid": "1101ae45-bc8c-4393-a175-ce164a97fa7e",
+  "title": "The Design of Web APIs",
+  "pubdate": "2019-10-08 20:12:29.694007+00:00",
+  "isbn": "",
+  "author_name": "Arnaud Lauret",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    258,
+    259,
+    3228
+  ],
+  "description": "<p>Summary The Design of Web APIs is a practical, example-packed guide to crafting extraordinary web APIs. Author Arnaud Lauret demonstrates fantastic design principles and techniques you can apply to both public and private web APIs. About the technology An API frees developers to integrate with an application without knowing its code-level details. Whether you\u2019re using established standards like REST and OpenAPI or more recent approaches like GraphQL or gRPC, mastering API design is a superskill. It will make your web-facing services easier to consume and your clients\u2014internal and external\u2014happier.  About the book Drawing on author Arnaud Lauret's many years of API design experience, this book teaches you how to gather requirements, how to balance business and technical goals, and how to adopt a consumer-first mindset. It teaches effective practices using numerous interesting examples.  What's inside  Characteristics of a well-designed API User-oriented and real-world APIs Secure APIs by design Evolving, documenting, and reviewing API designs About the reader Written for developers with minimal experience building and consuming APIs.  About the author A software architect with extensive experience in the banking industry, Arnaud Lauret has spent 10 years using, designing, and building APIs. He blogs under the name of API Handyman and has created the API Stylebook website.</p>"
+}

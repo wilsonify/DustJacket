@@ -1,0 +1,27 @@
+{
+  "book_id": 1318,
+  "book_uuid": "40beec04-3e2b-4b0c-a20d-538f62350fee",
+  "title": "Prestashop 1.5 Beginner's Guide",
+  "pubdate": "2013-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jose Antonio Tizon Caro",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    238,
+    258,
+    267,
+    1383,
+    3121,
+    3170,
+    3528,
+    3529,
+    3530,
+    3531,
+    3532
+  ],
+  "description": "<div>\n<p>This book is written in a friendly voice with lots of tips, tricks, and screenshots to help you set up, extend, and personalize your own online shop. If you want to start your own e-commerce business, then this book will help you do that. </p>\n<p>This book is for people who are interested in creating an online shop. Basic HTML and CSS skills would be beneficial but are not required as we will provide you with all the code and know-how you need.</p></div>"
+}

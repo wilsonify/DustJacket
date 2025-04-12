@@ -1,0 +1,18 @@
+{
+  "book_id": 1108,
+  "book_uuid": "c187e41b-cfa6-4066-8468-047f5f6c494f",
+  "title": "Cloud Architecture Demystified: Understand How to Design Sustainable Architectures in the World of Agile, DevOps, and Cloud (English Edition)",
+  "pubdate": "2023-05-19 19:15:03.829378+00:00",
+  "isbn": "",
+  "author_name": "Keshri Asthana",
+  "publisher_name": "BPB Publications",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    553,
+    3147,
+    3314
+  ],
+  "description": "<p>Design, deploy, and manage cloud-based solutions that are secure, scalable, and cost-effectiveKEY FEATURES\u00a0\u00a0\u25cf Learn how to enable effective architectural decision-making and cloud deployment strategies within the context of Agile DevOps.\u25cf Gain insights into unconventional principles and practices of architecture in the modern era.\u25cf A comprehensive guide for CTOs and technology leaders to navigate the ever-evolving technology landscape.</p>\n\n<p>DESCRIPTION\u00a0As more and more businesses move their operations to the cloud, understanding cloud architecture becomes crucial for anyone involved in IT, software development, or data management. If you want to leverage the power of the cloud to deliver efficient and resilient services, then this book is for you.</p>\n\n<p>This book is a comprehensive guide that will help you with the knowledge and insights to successfully navigate the challenges of Agile development and cloud computing. With its practical advice and in-depth analysis, this book offers a deep understanding of key topics such as multi-cloud adoption, cloud deployment costs, security considerations, availability and disaster recovery, and the integration of Agile methodologies with cloud architecture. It also explores the traits of a good cloud solution architect, the importance of treating data and databases separately, and the impact of public cloud on software architecture.\u00a0Whether you're a seasoned architect or new to cloud solutions, this book provides valuable guidance for designing robust and effective cloud-based systems.</p>\n\n<p>WHAT YOU WILL LEARN\u25cf Gain insights into assessing various aspects while designing cloud deployments.\u25cf Understand the intersection of Agile methodologies, DevOps practices, and cloud computing.\u25cf Understand the importance of adopting a design-first mindset.\u25cf Understand how Agile principles and practices impact software architecture.\u25cf Discover how architects can effectively drive positive change within organizations.</p>\n\n<p>WHO THIS BOOK IS FORThe book is for CTOs who are responsible for making strategic decisions regarding cloud adoption and infrastructure. Cloud architects, infrastructure architects, and DevOps architects who are involved in designing and implementing cloud architectures will find this book helpful.</p>\n\n<p>TABLE OF CONTENTS1. Ambivalence of Multi-Cloud2. Cloud Deployment Costs3. Security Sense of Cloud4. Availability and Disaster Recovery5. Cloud, Agile and Software Development Life Cycle6. Retrofitting Cloud Services Accurately7. Design First then Code8. Infra Team and Apps Team Becomes DevOps Team9. Traits of Being a Good Cloud Solution Architect10. Treat Data and Database Separately11. Frozen Architecture is Obsolete Architecture12. What Exactly is Software Architecture?</p>"
+}

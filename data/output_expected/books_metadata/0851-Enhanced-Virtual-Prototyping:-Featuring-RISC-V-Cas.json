@@ -1,0 +1,19 @@
+{
+  "book_id": 851,
+  "book_uuid": "6254b914-1615-4b9c-8f67-efd974977e30",
+  "title": "Enhanced Virtual Prototyping: Featuring RISC-V Case Studies",
+  "pubdate": "2020-10-14 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Rolf Drechsler",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    211,
+    221,
+    250,
+    274
+  ],
+  "description": "<div>\n<p>This book presents a comprehensive set of techniques that enhance all key aspects of a modern Virtual Prototype (VP)-based design flow. The authors emphasize automated formal verification methods, as well as advanced coverage-guided analysis and testing techniques, tailored for SystemC-based VPs and also the associated Software (SW). Coverage also includes VP modeling techniques that handle functional as well as non-functional aspects and also describes correspondence analyses between the Hardware- and VP-level to utilize information available at different levels of abstraction. All approaches are discussed in detail and are evaluated extensively, using several experiments to demonstrate their effectiveness in enhancing the VP-based design flow. Furthermore, the book puts a particular focus on the modern RISC-V ISA, with several case-studies covering modeling as well as VP and SW verification aspects.</p></div>"
+}

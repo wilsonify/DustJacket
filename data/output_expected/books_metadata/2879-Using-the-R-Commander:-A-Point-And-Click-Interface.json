@@ -1,0 +1,20 @@
+{
+  "book_id": 2879,
+  "book_uuid": "30eb97cd-780b-4d59-8a5e-7814d774534f",
+  "title": "Using the R Commander: A Point-And-Click Interface for R",
+  "pubdate": "2016-09-15 19:45:29.044881+00:00",
+  "isbn": "",
+  "author_name": "John Fox",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    128,
+    201,
+    202,
+    1597,
+    1824
+  ],
+  "description": "<p>This book provides a general introduction to the R Commander graphical user interface (GUI) to R for readers who are unfamiliar with R. It is suitable for use as a supplementary text in a basic or intermediate-level statistics course. It is not intended to replace a basic or other statistics text but rather to complement it, although it does promote sound statistical practice in the examples. The book should also be useful to individual casual or occasional users of R for whom the standard command-line interface is an obstacle.</p>"
+}

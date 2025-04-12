@@ -1,0 +1,19 @@
+{
+  "book_id": 961,
+  "book_uuid": "ec0787e2-3c91-4099-a112-b241e5501e26",
+  "title": "Process Dynamics and Control",
+  "pubdate": "2016-09-13 20:48:39.037917+00:00",
+  "isbn": "",
+  "author_name": "Dale E. Seborg",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    211,
+    255,
+    277,
+    562
+  ],
+  "description": "<p>The new 4th edition of Seborg\u2019s Process Dynamics Control provides full topical coverage for process control courses in the chemical engineering curriculum, emphasizing how process control and its related fields of process modeling and optimization are essential to the development of high-value products. A principal objective of this new edition is to describe modern techniques for control processes, with an emphasis on complex systems necessary to the development, design, and operation of modern processing plants. Control process instructors can cover the basic material while also having the flexibility to include advanced topics.</p>"
+}

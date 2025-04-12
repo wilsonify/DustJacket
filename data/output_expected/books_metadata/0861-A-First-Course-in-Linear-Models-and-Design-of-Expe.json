@@ -1,0 +1,18 @@
+{
+  "book_id": 861,
+  "book_uuid": "b76e04c4-b3f7-4619-879d-a3cabd6ce410",
+  "title": "A First Course in Linear Models and Design of Experiments",
+  "pubdate": "2020-11-13 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "N. R. Mohan Madhyastha",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    202,
+    237
+  ],
+  "description": "<div>\n<p>This textbook presents the basic concepts of linear models, design and analysis of experiments. With the rigorous treatment of topics and provision of detailed proofs, this book aims at bridging the gap between basic and advanced topics of the subject. Initial chapters of the book explain linear estimation in linear models and testing of linear hypotheses, and the later chapters apply this theory to the analysis of specific models in designing statistical experiments. </p>\n<p>The book includes topics on the basic theory of linear models covering estimability, criteria for estimability, Gauss\u2013Markov theorem, confidence interval estimation, linear hypotheses and likelihood ratio tests, the general theory of analysis of general block designs, complete and incomplete block designs, general row column designs with Latin square design and Youden square design as particular cases, symmetric factorial experiments, missing plot technique, analyses of covariance models, split plot and split block designs. Every chapter has examples to illustrate the theoretical results and exercises complementing the topics discussed. R codes are provided at the end of every chapter for at least one illustrative example from the chapter enabling readers to write similar codes for other examples and exercise.</p></div>"
+}

@@ -1,0 +1,18 @@
+{
+  "book_id": 34,
+  "book_uuid": "12835395-852a-4c8b-84c1-02e2fcfb125a",
+  "title": "The Data Science Handbook",
+  "pubdate": "2017-01-20 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Field Cady",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    202,
+    237
+  ],
+  "description": "<div>\n<p>A comprehensive overview of data science covering the analytics, programming, and business skills necessary to master the discipline Finding a good data scientist has been likened to hunting for a unicorn: the required combination of technical skills is simply very hard to find in one person. In addition, good data science is not just rote application of trainable skill sets; it requires the ability to think flexibly about all these areas and understand the connections between them. This book provides a crash course in data science, combining all the necessary skills into a unified discipline. Unlike many analytics books, computer science and software engineering are given extensive coverage since they play such a central role in the daily work of a data scientist. The author also describes classic machine learning algorithms, from their mathematical foundations to real-world applications. Visualization tools are reviewed, and their central importance in data science is highlighted. Classical statistics is addressed to help readers think critically about the interpretation of data and its common pitfalls. The clear communication of technical results, which is perhaps the most undertrained of data science skills, is given its own chapter, and all topics are explained in the context of solving real-world data problems. The book also features: \u2022 Extensive sample code and tutorials using PythonTM along with its technical libraries \u2022 Core technologies of \u201cBig Data,\u201d including their strengths and limitations and how they can be used to solve real-world problems \u2022 Coverage of the practical realities of the tools, keeping theory to a minimum; however, when theory is presented, it is done in an intuitive way to encourage critical thinking and creativity \u2022 A wide variety of case studies from industry \u2022 Practical advice on the realities of being a data scientist today, including the overall workflow, where time is spent, the types of datasets worked on, and the skill sets needed The Data Science Handbook is an ideal resource for data analysis methodology and big data software tools. The book is appropriate for people who want to practice data science, but lack the required skill sets. This includes software professionals who need to better understand analytics and statisticians who need to understand software. Modern data science is a unified discipline, and it is presented as such. This book is also an appropriate reference for researchers and entry-level graduate students who need to learn real-world analytics and expand their skill set. FIELD CADY is the data scientist at the Allen Institute for Artificial Intelligence, where he develops tools that use machine learning to mine scientific literature. He has also worked at Google and several Big Data startups. He has a BS in physics and math from Stanford University, and an MS in computer science from Carnegie Mellon.</p></div>"
+}

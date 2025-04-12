@@ -1,0 +1,21 @@
+{
+  "book_id": 1218,
+  "book_uuid": "2700c665-6da3-49d8-ab6a-d36fa6bae0ef",
+  "title": "In-Memory Computing: Synthesis and Optimization",
+  "pubdate": "2019-05-22 23:14:27.735004+00:00",
+  "isbn": "",
+  "author_name": "Saeideh Shirinzadeh",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    211,
+    221,
+    250,
+    274,
+    553
+  ],
+  "description": "<p>This book describes a comprehensive approach for synthesis and optimization of logic-in-memory computing hardware and architectures using memristive devices, which creates a firm foundation for practical applications. Readers will get familiar with a new generation of computer architectures that potentially can perform faster, as the necessity for communication between the processor and memory is surpassed. The discussion includes various synthesis methodologies and optimization algorithms targeting implementation cost metrics including latency and area overhead as well as the reliability issue caused by short memory lifetime.</p>\n\n<p>Presents a comprehensive synthesis flow for the emerging field of logic-in-memory computing;Describes automated compilation of programmable logic-in-memory computer architectures;Includes several effective optimization algorithm also applicable to classical logic synthesis;Investigates unbalanced write traffic in logic-in-memory architectures and describes wear leveling approaches to alleviate it.</p>"
+}

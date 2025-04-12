@@ -1,0 +1,20 @@
+{
+  "book_id": 866,
+  "book_uuid": "6a3cd581-4f82-4b3c-912c-b4a3422b3b5d",
+  "title": "Photonic Signal Processing: Techniques and Applications",
+  "pubdate": "2018-10-03 19:18:03.358498+00:00",
+  "isbn": "",
+  "author_name": "Le Nguyen Binh",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    211,
+    221,
+    255,
+    266,
+    3290
+  ],
+  "description": "<p>The potential of photonic signal processing (PSP) to overcome electronic limits for processing ultra-wideband signals, provide signal conditioning that can be integrated in line with fiber optic systems, and improve signal quality makes this technology extremely attractive for improvement in receiver sensitivity performance. Spanning the current transitional period, Photonic Signal Processing: Techniques and Applications addresses the merging techniques of processing and manipulating signals propagating in the optical domain. The book begins with a historical perspective of PSP and introduces photonic components essential for photonic processing systems, such as optical amplification devices, optical fibers, and optical modulators. The author demonstrates the representation of photonic circuits via a signal flow graph technique adapted for photonic domain. He describes photonic signal processors, such as differentiators and integrators, and their applications for the generation of solitons, and then covers the application of these solitons in optically amplified fiber transmission systems. The book illustrates the compensation dispersion using a photonic processor, the design of optical filters using photonic processor techniques, and the filtering of microwave signals in the optical domain. Exploring methods for the processing of signals in the optical domain, the book includes solutions to photonic circuits that use signal flow techniques and significant applications in short pulse generation, the filtering of signals, differentiation, and the integration of signals. It delineates fundamental techniques on the processing of signals in the optical domain as well as their applications that lead to advanced aspects of performing generation of short pulses, integration, differentiation, and filtering for optical communications systems and networks and processing of ultra-high speed signals.</p>"
+}

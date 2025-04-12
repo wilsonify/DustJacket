@@ -1,0 +1,19 @@
+{
+  "book_id": 1145,
+  "book_uuid": "ad8e73a4-6280-436c-9314-703d075b400d",
+  "title": "Ansible: Up and Running",
+  "pubdate": "2015-03-15 19:56:39.594238+00:00",
+  "isbn": "",
+  "author_name": "Lorin Hochstein",
+  "publisher_name": "O'Reilly",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    206,
+    227,
+    3317
+  ],
+  "description": "<p>Among the many configuration management tools available, Ansible has some distinct advantages--it's minimal in nature, you don't need to install anything on your nodes, and it has an easy learning curve. This practical guide shows you how to be productive with this tool quickly, whether you're a developer deploying code to production or a system administrator looking for a better automation solution. Author Lorin Hochstein shows you how to write playbooks (Ansible's configuration management scripts), manage remote servers, and explore the tool's real power: built-in declarative modules. You'll discover that Ansible has the functionality you need and the simplicity you desire.  Understand how Ansible differs from other configuration management systems Use the YAML file format to write your own playbooks Learn Ansible's support for variables and facts Work with a complete example to deploy a non-trivial application Use roles to simplify and reuse playbooks Make playbooks run faster with ssh multiplexing, pipelining, and parallelism Deploy applications to Amazon EC2 and other cloud platforms Use Ansible to create Docker images and deploy Docker containers</p>"
+}

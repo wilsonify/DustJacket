@@ -1,0 +1,23 @@
+{
+  "book_id": 1118,
+  "book_uuid": "9eff6f8b-5387-433e-8d9a-0e9933ae7fc6",
+  "title": "Cloud Foundry: The Definitive Guide: Develop, Deploy, and Scale",
+  "pubdate": "2017-05-24 15:28:41.483621+00:00",
+  "isbn": "",
+  "author_name": "Duncan C. E. Winn",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    206,
+    227,
+    553,
+    569,
+    3147,
+    3167,
+    3185
+  ],
+  "description": "<p>How can Cloud Foundry help you develop and deploy business-critical applications and tasks with velocity? This practical guide demonstrates how this open source, cloud-native application platform not only significantly reduces the develop-to-deploy cycle time, but also raises the value line for application operators by changing the way applications and supporting services are deployed and run. Learn how Cloud Foundry can help you improve your product velocity by handling many of essential tasks required to run applications in production.</p>\n\n<p>Author Duncan Winn shows DevOps and operations teams how to configure and run Cloud Foundry at scale. You\u2019ll examine Cloud Foundry\u2019s technical concepts\u2014including how various platform components interrelate\u2014and learn how to choose your underlying infrastructure, define the networking architecture, and establish resiliency requirements.</p>\n\n<p>This book covers:Cloud-native concepts that make the app build, test, deploy, and scale fasterHow to deploy Cloud Foundry and the BOSH release engineering toolchainConcepts and components of Cloud Foundry\u2019s runtime architectureCloud Foundry\u2019s routing mechanisms and capabilitiesThe platform\u2019s approach to container tooling and orchestrationBOSH concepts, deployments, components, and commandsBasic tools and techniques for debugging the platformRecent and soon-to-emerge features of Cloud Foundry</p>"
+}

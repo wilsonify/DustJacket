@@ -1,0 +1,20 @@
+{
+  "book_id": 10,
+  "book_uuid": "f945230a-4761-49b9-aab7-178bc8ee6a15",
+  "title": "Introduction to Deep Learning",
+  "pubdate": "2019-02-19 19:23:47.997777+00:00",
+  "isbn": "",
+  "author_name": "Eugene Charniak",
+  "publisher_name": "MIT Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    198,
+    199,
+    222,
+    3218,
+    3219
+  ],
+  "description": "<p>A project-based guide to the basics of deep learning.</p>\n\n<p>This concise, project-driven guide to deep learning takes readers through a series of program-writing tasks that introduce them to the use of deep learning in such areas of artificial intelligence as computer vision, natural-language processing, and reinforcement learning. The author, a longtime artificial intelligence researcher specializing in natural-language processing, covers feed-forward neural nets, convolutional neural nets, word embeddings, recurrent neural nets, sequence-to-sequence learning, deep reinforcement learning, unsupervised models, and other fundamental concepts and techniques. Students and practitioners learn the basics of deep learning by working through programs in Tensorflow, an open-source machine learning framework. \u201cI find I learn computer science material best by sitting down and writing programs,\u201d the author writes, and the book reflects this approach.</p>\n\n<p>Each chapter includes a programming project, exercises, and references for further reading. An early chapter is devoted to Tensorflow and its interface with Python, the widely used programming language. Familiarity with linear algebra, multivariate calculus, and probability and statistics is required, as is a rudimentary knowledge of programming in Python. The book can be used in both undergraduate and graduate courses; practitioners will find it an essential reference.</p>"
+}

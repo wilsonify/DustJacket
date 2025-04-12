@@ -1,0 +1,22 @@
+{
+  "book_id": 1156,
+  "book_uuid": "c28cd095-e25f-40e7-8e50-e6731d0957a8",
+  "title": "The Complete Edition - Software Engineering for Real-Time Systems",
+  "pubdate": "2019-12-24 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jim Cooling",
+  "publisher_name": "Packt Publishing, Limited",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    223,
+    249,
+    258,
+    259,
+    572
+  ],
+  "description": "<div>\n<p>Adopt a diagrammatic approach to creating robust real-time embedded systems Key Features Explore the impact of real-time systems on software design Understand the role of diagramming in the software development process Learn why software performance is a key element in real-time systems Book Description From air traffic control systems to network multimedia systems, real-time systems are everywhere. The correctness of the real-time system depends on the physical instant and the logical results of the computations. This book provides an elaborate introduction to software engineering for real-time systems, including a range of activities and methods required to produce a great real-time system. The book kicks off by describing real-time systems, their applications, and their impact on software design. You will learn the concepts of software and program design, as well as the different types of programming, software errors, and software life cycles, and how a multitasking structure benefits a system design. Moving ahead, you will learn why diagrams and diagramming plays a critical role in the software development process. You will practice documenting code-related work using Unified Modeling Language (UML), and analyze and test source code in both host and target systems to understand why performance is a key design-driver in applications. Next, you will develop a design strategy to overcome critical and fault-tolerant systems, and learn the importance of documentation in system design. By the end of this book, you will have sound knowledge and skills for developing real-time embedded systems. What you will learn Differentiate between correct, reliable, and safe software Discover modern design methodologies for designing a real-time system Use interrupts to implement concurrency in the system Test, integrate, and debug the code Demonstrate test issues for OOP constructs Overcome software faults with hardware-based techniques Who this book is for If you are interested in developing a real-time embedded system, this is the ideal book for you. With a basic understanding of programming, microprocessor systems, and elementary digital logic, you will achieve the maximum with this book. Knowledge of assembly language would be an added advantage.</p></div>"
+}

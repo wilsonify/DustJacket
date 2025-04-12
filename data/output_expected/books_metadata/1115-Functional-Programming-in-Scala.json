@@ -1,0 +1,17 @@
+{
+  "book_id": 1115,
+  "book_uuid": "593de377-6365-4a78-881c-ce31be9de863",
+  "title": "Functional Programming in Scala",
+  "pubdate": "2014-09-14 20:35:16.172772+00:00",
+  "isbn": "",
+  "author_name": "Paul Chiusano",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    229
+  ],
+  "description": "<p>SummaryFunctional Programming in Scala is a serious tutorial for programmers looking to learn FP and apply it to the everyday business of coding. The book guides readers from basic techniques to advanced topics in a logical, concise, and clear progression. In it, you'll find concrete examples and exercises that open up the world of functional programming.</p>\n\n<p>Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.</p>\n\n<p>About the TechnologyFunctional programming (FP) is a style of software development emphasizing functions that don't depend on program state. Functional code is easier to test and reuse, simpler to parallelize, and less prone to bugs than other code. Scala is an emerging JVM language that offers strong support for FP. Its familiar syntax and transparent interoperability with Java make Scala a great place to start learning FP. About the BookFunctional Programming in Scala is a serious tutorial for programmers looking to learn FP and apply it to their everyday work. The book guides readers from basic techniques to advanced topics in a logical, concise, and clear progression. In it, you'll find concrete examples and exercises that open up the world of functional programming.</p>\n\n<p>This book assumes no prior experience with functional programming. Some prior exposure to Scala or Java is helpful. What's InsideFunctional programming conceptsThe whys and hows of FPHow to write multicore programsExercises and checks for understandingAbout the AuthorsPaul Chiusano and R\u00fanar Bjarnason are recognized experts in functional programming with Scala and are core contributors to the Scalaz library.</p>\n\n<p>Table of ContentsPART 1 INTRODUCTION TO FUNCTIONAL PROGRAMMINGWhat is functional programming? Getting started with functional programming in ScalaFunctional data structuresHandling errors without exceptionsStrictness and lazinessPurely functional state PART 2 FUNCTIONAL DESIGN AND COMBINATOR LIBRARIESPurely functional parallelismProperty-based testingParser combinatorsPART 3 COMMON STRUCTURES IN FUNCTIONAL DESIGNMonoidsMonadsApplicative and traversable functorsPART 4 EFFECTS AND I/OExternal effects and I/OLocal effects and mutable stateStream processing and incremental I/O</p>"
+}

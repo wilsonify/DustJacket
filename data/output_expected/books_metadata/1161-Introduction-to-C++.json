@@ -1,0 +1,15 @@
+{
+  "book_id": 1161,
+  "book_uuid": "4a0d3d8e-b860-4800-8f52-2f8024f9b362",
+  "title": "Introduction to C++",
+  "pubdate": "2022-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "George S. Tselikis",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    480
+  ],
+  "description": "This book is primarily addressed to students who are taking a course on the C++ language, to those who wish to self-study the C++ language, as well as programmers who have experience with C and want to move on to C++."
+}

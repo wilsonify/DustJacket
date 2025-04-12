@@ -1,0 +1,26 @@
+{
+  "book_id": 666,
+  "book_uuid": "2f637dc4-8d86-4737-b314-aecb4f2b9f03",
+  "title": "Statistical Learning From a Regression Perspective",
+  "pubdate": "2020-06-29 14:12:11.390658+00:00",
+  "isbn": "",
+  "author_name": "Richard A. Berk",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    128,
+    158,
+    201,
+    202,
+    234,
+    235,
+    237,
+    248,
+    268,
+    1041,
+    1597
+  ],
+  "description": "<p>Statistical Learning from a Regression Perspective considers statistical learning applications when interest centers on the conditional distribution of the response variable, given a set of predictors, and when it is important to characterize how the predictors are related to the response. As a first approximation, this is can be seen as an extension of nonparametric regression. Among the statistical learning procedures examined are bagging, random forests, boosting, and support vector machines. Response variables may be quantitative or categorical.  Real applications are emphasized, especially those with practical implications. One important theme is the need to explicitly take into account asymmetric costs in the fitting process. For example, in some situations false positives may be far less costly than false negatives. Another important theme is to not automatically cede modeling decisions to a fitting algorithm. In many settings, subject-matter knowledge should trump formal fitting criteria. Yet another important theme is to appreciate the limitation of one\u2019s data and not apply statistical learning procedures that require more than the data can provide.  The material is written for graduate students in the social and life sciences and for researchers who want to apply statistical learning procedures to scientific and policy problems. Intuitive explanations and visual representations are prominent. All of the analyses included are done in R.</p>"
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": 1151,
+  "book_uuid": "3541703e-b196-491b-9197-a5351869a0c9",
+  "title": "Knative Cookbook: Building Effective Serverless Applications With Kubernetes and OpenShift",
+  "pubdate": "2020-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Burr Sutter",
+  "publisher_name": "O'Reilly Media, Incorporated",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    203,
+    217,
+    226,
+    553,
+    3147,
+    3148,
+    3314,
+    3511
+  ],
+  "description": "<div>\n<p>Enterprise developers face several challenges when it comes to building serverless applications, such as integrating applications and building container images from source. With more than 60 practical recipes, this cookbook helps you solve these issues with Knative\u00e2 the first serverless platform natively designed for Kubernetes. Each recipe contains detailed examples and exercises, along with a discussion of how and why it works. If you have a good understanding of serverless computing and Kubernetes core resources such as deployment, services, routes, and replicas, the recipes in this cookbook show you how to apply Knative in real enterprise application development. Authors Kamesh Sampath and Burr Sutter include chapters on autoscaling, build and eventing, observability, Knative on OpenShift, and more. With this cookbook, you\u00e2 ll learn how to: Efficiently build, deploy, and manage modern serverless workloads Apply Knative in real enterprise scenarios, including advanced eventing Monitor your Knative serverless applications effectively Integrate Knative with CI/CD principles, such as using pipelines for faster, more successful production deployments Deploy a rich ecosystem of enterprise integration patterns and connectors in Apache Camel K as Kubernetes and Knative components</p></div>"
+}

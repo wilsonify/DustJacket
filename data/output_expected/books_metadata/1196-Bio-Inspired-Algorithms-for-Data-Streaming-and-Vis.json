@@ -1,0 +1,25 @@
+{
+  "book_id": 1196,
+  "book_uuid": "ad05c03a-5d06-454f-80ee-9b923f8387a9",
+  "title": "Bio-Inspired Algorithms for Data Streaming and Visualization, Big Data Management, and Fog Computing",
+  "pubdate": "2020-08-25 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Simon James Fong",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    207,
+    211,
+    214,
+    215,
+    223,
+    224,
+    227,
+    228
+  ],
+  "description": "<div>\n<p>This book aims to provide some insights into recently developed bio-inspired algorithms within recent emerging trends of fog computing, sentiment analysis, and data streaming as well as to provide a more comprehensive approach to the big data management from pre-processing to analytics to visualization phases. The subject area of this book is within the realm of computer science, notably algorithms (meta-heuristic and, more particularly, bio-inspired algorithms). Although application domains of these new algorithms may be mentioned, the scope of this book is not on the application of algorithms to specific or general domains but to provide an update on recent research trends for bio-inspired algorithms within a specific application domain or emerging area. These areas include data streaming, fog computing, and phases of big data management. One of the reasons for writing this book is that the bio-inspired approach does not receive much attention but shows considerable promise and diversity in terms of approach of many issues in big data and streaming. Some novel approaches of this book are the use of these algorithms to all phases of data management (not just a particular phase such as data mining or business intelligence as many books focus on); effective demonstration of the effectiveness of a selected algorithm within a chapter against comparative algorithms using the experimental method. Another novel approach is a brief overview and evaluation of traditional algorithms, both sequential and parallel, for use in data mining, in order to provide an overview of existing algorithms in use. This overview complements a further chapter on bio-inspired algorithms for data mining to enable readers to make a more suitable choice of algorithm for data mining within a particular context. In all chapters, references for further reading are provided, and in selected chapters, the author also include ideas for future research.</p></div>"
+}

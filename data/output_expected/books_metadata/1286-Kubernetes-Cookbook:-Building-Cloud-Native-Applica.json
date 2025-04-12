@@ -1,0 +1,25 @@
+{
+  "book_id": 1286,
+  "book_uuid": "e4609009-c2df-4080-acf4-b06d2280c0e4",
+  "title": "Kubernetes Cookbook: Building Cloud Native Applications",
+  "pubdate": "2018-02-14 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "S\u00e9bastien Goasguen",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    227,
+    228,
+    258,
+    259,
+    553,
+    3147,
+    3185,
+    3252,
+    3253
+  ],
+  "description": "<div>\n<p>If your organization is preparing to move toward a cloud-native computing architecture, this cookbook shows you how to successfully use Kubernetes, the de-facto standard for automating the deployment, scaling, and management of containerized applications. With more than 80 proven recipes, developers, system administrators, and architects will quickly learn how to get started with Kubernetes and understand its powerful API. Through the course of the book, authors S\u00e9bastien Goasguen and Michael Hausenblas provide several detailed solutions for installing, interacting with, and using Kubernetes in development and production. You'll learn how to adapt the system to your particular needs and become familiar with the wider Kubernetes ecosystem. Each standalone chapter features recipes written in O'Reilly's popular problem-solution-discussion format. Recipes in this cookbook focus on: Creating a Kubernetes cluster Using the Kubernetes command-line interface Managing fundamental workload types Working with services Exploring the Kubernetes API Managing stateful and non-cloud native apps Working with volumes and configuration data Cluster-level and application-level scaling Securing your applications Monitoring and logging Maintenance and troubleshooting.</p></div>"
+}

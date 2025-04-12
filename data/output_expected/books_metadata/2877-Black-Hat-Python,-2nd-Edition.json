@@ -1,0 +1,13 @@
+{
+  "book_id": 2877,
+  "book_uuid": "43a53768-5fa7-40d6-9777-653b2a934162",
+  "title": "Black Hat Python, 2nd Edition",
+  "pubdate": "2021-04-13 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Justin Seitz",
+  "publisher_name": "No Starch Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>When it comes to creating powerful and effective hacking tools, Python is the language of choice for most security analysts. In <i>Black Hat Python</i>, 2nd Edition, you\u2019ll explore the darker side of Python\u2019s capabilities\u2014writing network sniffers, stealing email credentials, brute forcing directories, crafting mutation fuzzers, infecting virtual machines, creating stealthy trojans, and more.</p><p>The second edition of this bestselling hacking book contains code updated for the latest version of Python 3, as well as new techniques that reflect current industry best practices. You\u2019ll also find expanded explanations of Python libraries such as ctypes, struct, lxml, and BeautifulSoup, and dig deeper into strategies, from splitting bytes to leveraging computer-vision libraries, that you can apply to future hacking projects.</p><p>You\u2019ll learn how to:</p><p>\u2022Create a trojan command-and-control using GitHub<br/>\u2022Detect sandboxing and automate common malware tasks, like keylogging and screenshotting<br/>\u2022Escalate Windows privileges with creative process control<br/>\u2022Use offensive memory forensics tricks to retrieve password hashes and inject shellcode into a virtual machine<br/>\u2022Extend the popular Burp Suite web-hacking tool<br/>\u2022Abuse Windows COM automation to perform a man-in-the-browser attack<br/>\u2022Exfiltrate data from a network most sneakily</p><p>When it comes to offensive security, your ability to create powerful tools on the fly is indispensable. Learn how with the second edition of <i>Black Hat Python</i>.</p></div></span>"
+}

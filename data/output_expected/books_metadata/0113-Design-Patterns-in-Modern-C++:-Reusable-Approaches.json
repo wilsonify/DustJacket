@@ -1,0 +1,19 @@
+{
+  "book_id": 113,
+  "book_uuid": "567eb6b1-db05-4d56-ac71-a5022f730071",
+  "title": "Design Patterns in Modern C++: Reusable Approaches for Object-Oriented Software Design",
+  "pubdate": "2018-04-19 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Dmitri Nesteruk",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    223,
+    229
+  ],
+  "description": "<div>\n<p>Apply modern C++17 to the implementations of classic design patterns. As well as covering traditional design patterns, this book fleshes out new patterns and approaches that will be useful to C++ developers. The author presents concepts as a fun investigation of how problems can be solved in different ways, along the way using varying degrees of technical sophistication and explaining different sorts of trade-offs. </p>\n<p>Design Patterns in Modern C++ also provides a technology demo for modern C++, showcasing how some of its latest features (e.g., coroutines) make difficult problems a lot easier to solve. The examples in this book are all suitable for putting into production, with only a few simplifications made in order to aid readability. </p>\n<p>What You Will LearnApply design patterns to modern C++ programmingUse creational patterns of builder, factories, prototype and singletonImplement structural patterns such as adapter, bridge, decorator, facade and moreWork with the behavioral patterns such as chain of responsibility, command, iterator, mediator and moreApply functional design patterns such as Monad and moreWho This Book Is ForThose with at least some prior programming experience, especially in C++.</p></div>"
+}

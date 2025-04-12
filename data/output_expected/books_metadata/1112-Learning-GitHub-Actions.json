@@ -1,0 +1,22 @@
+{
+  "book_id": 1112,
+  "book_uuid": "3f6a5d91-33bd-43f3-88a9-c6dc873d8051",
+  "title": "Learning GitHub Actions",
+  "pubdate": "2023-08-17 20:12:28.676537+00:00",
+  "isbn": "",
+  "author_name": "Brent Laster",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    203,
+    217,
+    3147,
+    3148,
+    3156,
+    3314
+  ],
+  "description": "<p>Automate your software development processes with GitHub Actions, the continuous integration and continuous delivery platform that integrates seamlessly with GitHub. With this practical book, open source author, trainer, and DevOps director Brent Laster explains everything you need to know about using and getting value from GitHub Actions. You'll learn what actions and workflows are and how they can be used, created, and incorporated into your processes to simplify, standardize, and automate your work in GitHub.</p>\n\n<p>This book explains the platform, components, use cases, implementation, and integration points of actions, so you can leverage them to provide the functionality and features needed in today's complex pipelines and software development processes. You'll learn how to design and implement automated workflows that respond to common events like pushes, pull requests, and review updates. You'll understand how to use the components of the GitHub Actions platform to gain maximum automation and benefit.</p>\n\n<p>With this book, you will:Learn what GitHub Actions are, the various use cases for them, and how to incorporate them into your processesUnderstand GitHub Actions' structure, syntax, and semanticsAutomate processes and implement functionalityCreate your own custom actions with Docker, JavaScript, or shell approachesTroubleshoot and debug workflows that use actionsCombine actions with GitHub APIs and other integration optionsIdentify ways to securely implement workflows with GitHub ActionsUnderstand how GitHub Actions compares to other options</p>"
+}

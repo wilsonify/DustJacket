@@ -1,0 +1,17 @@
+{
+  "book_id": 1235,
+  "book_uuid": "2ba8486d-e2c5-4950-a4fa-a37bb359a4da",
+  "title": "Machine Learning With Go: Implement Regression, Classification, Clustering, Time-series Models, Neural Networks, and More using the Go Programming Language",
+  "pubdate": "2017-09-25 21:00:00+00:00",
+  "isbn": "",
+  "author_name": "Daniel Whitenack",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    432,
+    433,
+    504
+  ],
+  "description": ""
+}

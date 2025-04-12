@@ -1,0 +1,22 @@
+{
+  "book_id": 667,
+  "book_uuid": "672f821d-8aad-46cc-85d5-2bf7cd964470",
+  "title": "Forecasting With Exponential Smoothing: The State Space Approach",
+  "pubdate": "2008-06-19 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Rob Hyndman",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    202,
+    237,
+    238,
+    248,
+    281,
+    3150
+  ],
+  "description": "<div>\n<p>Exponential smoothing methods have been around since the 1950s, and are still the most popular forecasting methods used in business and industry. However, a modeling framework incorporating stochastic models, likelihood calculation, prediction intervals and procedures for model selection, was not developed until recently. This book brings together all of the important new results on the state space framework for exponential smoothing. It will be of interest to people wanting to apply the methods in their own area of interest as well as for researchers wanting to take the ideas in new directions. Part 1 provides an introduction to exponential smoothing and the underlying models. The essential details are given in Part 2, which also provide links to the most important papers in the literature. More advanced topics are covered in Part 3, including the mathematical properties of the models and extensions of the models for specific problems. Applications to particular domains are discussed in Part 4.</p></div>"
+}

@@ -1,0 +1,13 @@
+{
+  "book_id": 1061,
+  "book_uuid": "87f95cb5-cf82-40d0-9f1b-8cfd49640835",
+  "title": "Python Command Line Tools",
+  "pubdate": "2020-05-27 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Noah Gift",
+  "publisher_name": "Pragmatic AI Solutions",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><p>This book will teach you to master the ultimate UI, the command-line, using the powerful Click Framework in Python.</p></span>"
+}

@@ -1,0 +1,22 @@
+{
+  "book_id": 75,
+  "book_uuid": "591b4bbd-4d4a-4b22-a1c1-a0f54cdc1efd",
+  "title": "Welding and Cutting Case Studies With Supervised Machine Learning",
+  "pubdate": "2020-06-03 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "S. Arungalai Vendan",
+  "publisher_name": "Springer Nature",
+  "series_name": "Engineering Applications of Computational Methods",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    199,
+    211,
+    212,
+    213,
+    214
+  ],
+  "description": "<div>\n<p>This book presents machine learning as a set of pre-requisites, co-requisites, and post-requisites, focusing on mathematical concepts and engineering applications in advanced welding and cutting processes. It describes a number of advanced welding and cutting processes and then assesses the parametrical interdependencies of two entities, namely the data analysis and data visualization techniques, which form the core of machine learning. Subsequently, it discusses supervised learning, highlighting Python libraries such as NumPy, Pandas and Scikit Learn programming. It also includes case studies that employ machine learning for manufacturing processes in the engineering domain. The book not only provides beginners with an introduction to machine learning for applied sciences, enabling them to address global competitiveness and work on real-time technical challenges, it is also a valuable resource for scholars with domain knowledge.</p></div>"
+}

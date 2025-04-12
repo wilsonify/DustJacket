@@ -1,0 +1,22 @@
+{
+  "book_id": 642,
+  "book_uuid": "feb5cd7d-fd99-4dea-a705-7420ad61761c",
+  "title": "JMP Start Statistics: A Guide to Statistics and Data Analysis Using JMP, Sixth Edition",
+  "pubdate": "2017-02-21 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "John Sall",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    202,
+    203,
+    217,
+    218,
+    252
+  ],
+  "description": "<div>\n<p>This book provides hands-on tutorials with just the right amount of conceptual and motivational material to illustrate how to use the intuitive interface for data analysis in JMP. Each chapter features concept-specific tutorials, examples, brief reviews of concepts, step-by-step illustrations, and exercises. Updated for JMP 13, JMP Start Statistics, Sixth Edition includes many new features, including: The redesigned Formula Editor. New and improved ways to create formulas in JMP directly from the data table or dialogs. Interface updates, including improved menu layout. Updates and enhancements in many analysis platforms. New ways to get data into JMP and to save and share JMP results. Many new features that make it easier to use JMP.</p></div>"
+}

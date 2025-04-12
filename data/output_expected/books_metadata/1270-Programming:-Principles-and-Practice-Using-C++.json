@@ -1,0 +1,21 @@
+{
+  "book_id": 1270,
+  "book_uuid": "ba2af2a1-90ee-458e-bb90-7a9d6adebca1",
+  "title": "Programming: Principles and Practice Using C++",
+  "pubdate": "2014-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Bjarne Stroustrup",
+  "publisher_name": "Pearson Education",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    223,
+    229,
+    476,
+    1347,
+    2892
+  ],
+  "description": "<div>\n<p>An Introduction to Programming by the Inventor of C++ Preparation for Programming in the Real World The book assumes that you aim eventually to write non-trivial programs, whether for work in software development or in some other technical field. Focus on Fundamental Concepts and Techniques The book explains fundamental concepts and techniques in greater depth than traditional introductions. This approach will give you a solid foundation for writing useful, correct, maintainable, and efficient code. Programming with Today's C++ (C++11 and C++14) The book is an introduction to programming in general, including object-oriented programming and generic programming. It is also a solid introduction to the C++ programming language, one of the most widely used languages for real-world software. The book presents modern C++ programming techniques from the start, introducing the C++ standard library and C++11 and C++14 features to simplify programming tasks. For Beginners--And Anyone Who Wants to Learn Something New The book is primarily designed for people who have never programmed before, and it has been tested with many thousands of first-year university students. It has also been extensively used for self-study. Also, practitioners and advanced students have gained new insight and guidance by seeing how a master approaches the elements of his art. Provides a Broad View The first half of the book covers a wide range of essential concepts, design and programming techniques, language features, and libraries. Those will enable you to write programs involving input, output, computation, and simple graphics. The second half explores more specialized topics (such as text processing, testing, and the C programming language) and provides abundant reference material. Source code and support supplements are available from the author's website.</p></div>"
+}

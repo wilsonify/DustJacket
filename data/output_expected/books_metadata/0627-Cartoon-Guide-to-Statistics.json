@@ -1,0 +1,18 @@
+{
+  "book_id": 627,
+  "book_uuid": "77f0af78-03d7-42bb-832f-6c05372be788",
+  "title": "Cartoon Guide to Statistics",
+  "pubdate": "1993-07-14 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Larry Gonick",
+  "publisher_name": "Harper Collins",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    202,
+    2243
+  ],
+  "description": "<div>\n<p>If you have ever looked for P-values by shopping at P mart, tried to watch the Bernoulli Trails on \"People's Court,\" or think that the standard deviation is a criminal offense in six states, then you need The Cartoon Guide to Statistics to put you on the road to statistical literacy. The Cartoon Guide to Statistics covers all the central ideas of modern statistics: the summary and display of data, probability in gambling and medicine, random variables, Bernoulli Trails, the Central Limit Theorem, hypothesis testing, confidence interval estimation, and much more\u2014all explained in simple, clear, and yes, funny illustrations. Never again will you order the Poisson Distribution in a French restaurant!</p></div>"
+}

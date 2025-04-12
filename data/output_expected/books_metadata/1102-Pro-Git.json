@@ -1,0 +1,20 @@
+{
+  "book_id": 1102,
+  "book_uuid": "147df8e9-c763-4c9e-a4b0-2f5cf8de213f",
+  "title": "Pro Git",
+  "pubdate": "2014-11-18 20:48:25.342372+00:00",
+  "isbn": "",
+  "author_name": "Scott Chacon",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    207,
+    217,
+    223,
+    3158
+  ],
+  "description": "<p>Pro Git (Second Edition) is your fully-updated guide to Git and its usage in the modern world. Git has come a long way since it was first developed by Linus Torvalds for Linux kernel development. It has taken the open source world by storm since its inception in 2005, and this book teaches you how to use it like a pro. Effective and well-implemented version control is a necessity for successful web projects, whether large or small. With this book you\u2019ll learn how to master the world of distributed version workflow, use the distributed features of Git to the full, and extend Git to meet your every need. Written by Git pros Scott Chacon and Ben Straub, Pro Git (Second Edition) builds on the hugely successful first edition, and is now fully updated for Git version 2.0, as well as including an indispensable chapter on GitHub. It\u2019s the best book for all your Git needs.</p>"
+}

@@ -1,0 +1,21 @@
+{
+  "book_id": 1034,
+  "book_uuid": "53e8a3b9-2095-46d4-ba58-276a519dab7f",
+  "title": "Enabling AI Applications in Data Science",
+  "pubdate": "2020-09-23 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Aboul-Ella Hassanien",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    199,
+    211,
+    214,
+    215
+  ],
+  "description": "<div>\n<p>This book provides a detailed overview of the latest developments and applications in the field of artificial intelligence and data science. AI applications have achieved great accuracy and performance with the help of developments in data processing and storage. It has also gained strength through the amount and quality of data which is the main nucleus of data science. This book aims to provide the latest research findings in the field of artificial intelligence with data science.</p></div>"
+}

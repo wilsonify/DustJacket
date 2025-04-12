@@ -1,0 +1,20 @@
+{
+  "book_id": 1303,
+  "book_uuid": "cbcf9e41-2552-4015-ba22-e031c2f44ac3",
+  "title": "Data Visualization With Python and JavaScript",
+  "pubdate": "2016-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Kyran Dale",
+  "publisher_name": "O'Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    232,
+    259,
+    272,
+    284,
+    3170
+  ],
+  "description": "<div>\n<p>Learn how to turn raw data into rich, interactive web visualizations with the powerful combination of Python and JavaScript. With this hands-on guide, author Kyran Dale teaches you how build a basic dataviz toolchain with best-of-breed Python and JavaScript libraries--including Scrapy, Matplotlib, Pandas, Flask, and D3--for crafting engaging, browser-based visualizations. As a working example, throughout the book Dale walks you through transforming Wikipedia's table-based list of Nobel Prize winners into an interactive visualization. You'll examine steps along the entire toolchain, from scraping, cleaning, exploring, and delivering data to building the visualization with JavaScript's D3 library. If you're ready to create your own web-based data visualizations--and know either Python or JavaScript-- this is the book for you. Learn how to manipulate data with Python Understand the commonalities between Python and JavaScript Extract information from websites by using Python's web-scraping tools, BeautifulSoup and Scrapy Clean and explore data with Python's Pandas, Matplotlib, and Numpy libraries Serve data and create RESTful web APIs with Python's Flask framework Create engaging, interactive web visualizations with JavaScript's D3 library</p></div>"
+}

@@ -1,0 +1,13 @@
+{
+  "book_id": 1201,
+  "book_uuid": "33c1e504-4948-4b9c-984e-5ec4328f9fec",
+  "title": "Programming with MicroPython",
+  "pubdate": "2017-10-11 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Nicholas H. Tollervey",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p>It's an exciting time to get involved with MicroPython, the re-implementation of Python 3 for microcontrollers and embedded systems. This practical guide delivers the knowledge you need to roll up your sleeves and create exceptional embedded projects with this lean and efficient programming language. If you're familiar with Python as a programmer, educator, or maker, you're ready to learn&#8212;and have fun along the way.</p><p>Author Nicholas Tollervey takes you on a journey from first steps to advanced projects. You'll explore the types of devices that run MicroPython, and examine how the language uses and interacts with hardware to process input, connect to the outside world, communicate wirelessly, make sounds and music, and drive robotics projects.</p><li>Work with MicroPython on four typical devices: PyBoard, the micro:bit, Adafruit's Circuit Playground Express, and ESP8266/ESP32 boards</li><li>Explore a framework that helps you generate, evaluate, and evolve embedded..."
+}

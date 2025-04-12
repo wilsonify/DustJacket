@@ -1,0 +1,13 @@
+{
+  "book_id": 1280,
+  "book_uuid": "a35d2268-63fd-409b-abd4-a0f517c6a8f9",
+  "title": "Deep Learning Cookbook",
+  "pubdate": "2018-04-25 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Douwe Osinga",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p>Deep learning doesn't have to be intimidating. Until recently, this machine-learning method required years of study, but with frameworks such as Keras and Tensorflow, software engineers without a background in machine learning can quickly enter the field. With the recipes in this cookbook, you'll learn how to solve deep-learning problems for classifying and generating text, images, and music.</p><p>Each chapter consists of several recipes needed to complete a single project, such as training a music recommending system. Author Douwe Osinga also provides a chapter with half a dozen techniques to help you if you're stuck. Examples are written in Python with code available on GitHub as a set of Python notebooks.</p><p>You'll learn how to:</p><li>Create applications that will serve real users</li><li>Use word embeddings to calculate text similarity</li><li>Build a movie recommender system based on Wikipedia links</li><li>Learn how AIs see the world by visualizing their internal..."
+}

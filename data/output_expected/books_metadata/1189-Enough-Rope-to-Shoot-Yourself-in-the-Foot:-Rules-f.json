@@ -1,0 +1,19 @@
+{
+  "book_id": 1189,
+  "book_uuid": "cf8e068b-0daf-432b-9771-126544a14547",
+  "title": "Enough Rope to Shoot Yourself in the Foot: Rules for C and C++ Programming",
+  "pubdate": "1995-03-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Allen I. Holub",
+  "publisher_name": "McGraw-Hill",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    223,
+    229,
+    476
+  ],
+  "description": "<div>\n<p>Programmers, engineers, scientists, students, and others who work with C or C++: If you want to write better code without wading through a maze of technical material, this concise yet pithy guide is precisely the tool you need. Enough Rope to Shoot Yourself in the Foot offers well over 100 rules of thumb you can use to create elegant, maintainable code. And since it comes from an acknowledged expert in the field, you can't go wrong. Allen Holub provides an indispensable set of guidelines, tips, and techniques to help you use these extremely powerful languages to the fullest potential. But don't expect another dry programming guide. Holub manages to make a serious subject refreshingly readable by sprinkling the text with humor and insight.</p></div>"
+}

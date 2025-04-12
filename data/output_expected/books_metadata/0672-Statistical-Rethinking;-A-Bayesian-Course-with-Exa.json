@@ -1,0 +1,17 @@
+{
+  "book_id": 672,
+  "book_uuid": "7f98c3c0-1024-4753-89c6-e5e3623f70a2",
+  "title": "Statistical Rethinking; A Bayesian Course with Examples in R and Stan; Second Edition",
+  "pubdate": "2020-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Richard McElreath",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    309,
+    310,
+    311
+  ],
+  "description": "Statistical Rethinking: A Bayesian Course with Examples in R and Stan builds your knowledge of and confidence in making inferences from data. Reflecting the need for scripting in today's model-based statistics, the book pushes you to perform step-by-step"
+}

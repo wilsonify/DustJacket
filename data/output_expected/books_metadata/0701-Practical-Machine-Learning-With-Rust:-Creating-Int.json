@@ -1,0 +1,21 @@
+{
+  "book_id": 701,
+  "book_uuid": "8ff11581-662e-46e2-845e-1befaf253755",
+  "title": "Practical Machine Learning With Rust: Creating Intelligent Applications in Rust",
+  "pubdate": "2019-12-10 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Joydeep Bhattacharjee",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    207,
+    223,
+    229,
+    3158
+  ],
+  "description": "<div>\n<p>Explore machine learning in Rust and learn about the intricacies of creating machine learning applications. This book begins by covering the important concepts of machine learning such as supervised, unsupervised, and reinforcement learning, and the basics of Rust. Further, you\u2019ll dive into the more specific fields of machine learning, such as computer vision and natural language processing, and look at the Rust libraries that help create applications for those domains. We will also look at how to deploy these applications either on site or over the cloud. After reading Practical Machine Learning with Rust, you will have a solid understanding of creating high computation libraries using Rust. Armed with the knowledge of this amazing language, you will be able to create applications that are more performant, memory safe, and less resource heavy. What You Will LearnWrite machine learning algorithms in RustUse Rust libraries for different tasks in machine learningCreate concise Rust packages for your machine learning applicationsImplement NLP and computer vision in RustDeploy your code in the cloud and on bare metal servers Who This Book Is For Machine learning engineers and software engineers interested in building machine learning applications in Rust.</p></div>"
+}

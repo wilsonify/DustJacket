@@ -1,0 +1,22 @@
+{
+  "book_id": 45,
+  "book_uuid": "8711b7ca-597d-4017-a1fa-d144179bb96d",
+  "title": "Bayesian Analysis With Python: Introduction to Statistical Modeling and Probabilistic Programming Using PyMC3 and ArviZ, 2nd Edition",
+  "pubdate": "2018-12-26 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Osvaldo Martin",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    214,
+    229,
+    232,
+    262,
+    553
+  ],
+  "description": "<div>\n<p>Bayesian modeling with PyMC3 and exploratory analysis of Bayesian models with ArviZ Key FeaturesA step-by-step guide to conduct Bayesian data analyses using PyMC3 and ArviZA modern, practical and computational approach to Bayesian statistical modelingA tutorial for Bayesian analysis and best practices with the help of sample problems and practice exercises. </p>\n<p>Book DescriptionThe second edition of Bayesian Analysis with Python is an introduction to the main concepts of applied Bayesian inference and its practical implementation in Python using PyMC3, a state-of-the-art probabilistic programming library, and ArviZ, a new library for exploratory analysis of Bayesian models. </p>\n<p>The main concepts of Bayesian statistics are covered using a practical and computational approach. Synthetic and real data sets are used to introduce several types of models, such as generalized linear models for regression and classification, mixture models, hierarchical models, and Gaussian processes, among others. By the end of the book, you will have a working knowledge of probabilistic modeling and you will be able to design and implement Bayesian models for your own data science problems. After reading the book you will be better prepared to delve into more advanced material or specialized statistical modeling if you need to. </p>\n<p>What you will learnBuild probabilistic models using the Python library PyMC3 Analyze probabilistic models with the help of ArviZ Acquire the skills required to sanity check models and modify them if necessary Understand the advantages and caveats of hierarchical modelsFind out how different models can be used to answer different data analysis questionsCompare models and choose between alternative onesDiscover how different models are unified from a probabilistic perspective Think probabilistically and benefit from the flexibility of the Bayesian frameworkWho this book is forIf you are a student, data scientist, researcher, or a developer looking to get started with Bayesian data analysis and probabilistic programming, this book is for you. The book is introductory so no previous statistical knowledge is required, although some experience in using Python and NumPy is expected.</p></div>"
+}

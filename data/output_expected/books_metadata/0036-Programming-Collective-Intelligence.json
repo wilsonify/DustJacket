@@ -1,0 +1,15 @@
+{
+  "book_id": 36,
+  "book_uuid": "244c7889-0159-4d15-b8be-d443f9498946",
+  "title": "Programming Collective Intelligence",
+  "pubdate": "2008-12-17 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Segaran| Toby",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    13
+  ],
+  "description": "<p>This fascinating book demonstrates how you can build web applications to mine the enormous amount of data created by people on the Internet. With the sophisticated algorithms in this book, you can write smart programs to access interesting datasets from other web sites, collect data from users of your own applications, and analyze and understand the data once you've found it.</p>"
+}

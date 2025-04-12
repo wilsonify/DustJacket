@@ -1,0 +1,27 @@
+{
+  "book_id": 704,
+  "book_uuid": "42e5c3a9-faa2-4b2b-805b-939949e8e9da",
+  "title": "Applied Multivariate Statistical Analysis",
+  "pubdate": "2002-03-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Richard Arnold Johnson",
+  "publisher_name": "Prentice Hall",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    128,
+    201,
+    202,
+    204,
+    238,
+    248,
+    267,
+    268,
+    3131,
+    3152,
+    3221,
+    3222
+  ],
+  "description": "<div>\n<p>&amp; This market leader offers a readable introduction to the statistical analysis of multivariate observations. Gives readers the knowledge necessary to make proper interpretations and select appropriate techniques for analyzing multivariate data. Starts with a formulation of the population models, delineates the corresponding sample results, and liberally illustrates everything with examples. &amp; Offers an abundance of examples and exercises based on real data.&amp; Appropriate for experimental scientists in a variety of disciplines.</p></div>"
+}

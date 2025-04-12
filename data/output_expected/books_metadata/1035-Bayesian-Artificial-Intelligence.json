@@ -1,0 +1,29 @@
+{
+  "book_id": 1035,
+  "book_uuid": "a2c6600e-0d2b-4ab1-a0df-c8eee02ede52",
+  "title": "Bayesian Artificial Intelligence",
+  "pubdate": "2003-09-25 20:04:00.511822+00:00",
+  "isbn": "",
+  "author_name": "Kevin B. Korb",
+  "publisher_name": "Taylor & Francis",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    29,
+    30,
+    31,
+    79,
+    197,
+    201,
+    202,
+    211,
+    217,
+    238,
+    248,
+    249,
+    250,
+    252,
+    253
+  ],
+  "description": "<p>As the power of Bayesian techniques has become more fully realized, the field of artificial intelligence has embraced Bayesian methodology and integrated it to the point where an introduction to Bayesian techniques is now a core course in many computer science programs. Unlike other books on the subject, Bayesian Artificial Intelligence keeps mathematical detail to a minimum and covers a broad range of topics. The authors integrate all of Bayesian net technology and learning Bayesian net technology and apply them both to knowledge engineering. They emphasize understanding and intuition but also provide the algorithms and technical background needed for applications. Software, exercises, and solutions are available on the authors\u2019 website.</p>"
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 659,
+  "book_uuid": "93e61314-d022-4171-ba7a-ecdf66507e57",
+  "title": "Practical Time Series Analysis",
+  "pubdate": "2017-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Avishek Pal",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    201,
+    202,
+    229,
+    232,
+    262,
+    3540
+  ],
+  "description": "<div>\n<p>Step by Step guide filled with real world practical examples. Key Features Get your first experience with data analysis with one of the most powerful types of analysis-time-series. Find patterns in your data and predict the future pattern based on historical data. Learn the statistics, theory, and implementation of Time-series methods using this example-rich guide Book Description Time Series Analysis allows us to analyze data which is generated over a period of time and has sequential interdependencies between the observations. This book describes special mathematical tricks and techniques which are geared towards exploring the internal structures of time series data and generating powerful descriptive and predictive insights. Also, the book is full of real-life examples of time series and their analyses using cutting-edge solutions developed in Python. The book starts with descriptive analysis to create insightful visualizations of internal structures such as trend, seasonality and autocorrelation. Next, the statistical methods of dealing with autocorrelation and non-stationary time series are described. This is followed by exponential smoothing to produce meaningful insights from noisy time series data. At this point, we shift focus towards predictive analysis and introduce autoregressive models such as ARMA and ARIMA for time series forecasting. Later, powerful deep learning methods are presented, to develop accurate forecasting models for complex time series, and under the availability of little domain knowledge. All the topics are illustrated with real-life problem scenarios and their solutions by best-practice implementations in Python. The book concludes with the Appendix, with a brief discussion of programming and solving data science problems using Python. What you will learn Understand the basic concepts of Time Series Analysis and appreciate its importance for the success of a data science project Develop an understanding of loading, exploring, and visualizing time-series data Explore auto-correlation and gain knowledge of statistical techniques to deal with non-stationarity time series Take advantage of exponential smoothing to tackle noise in time series data Learn how to use auto-regressive models to make predictions using time-series data Build predictive models on time series using techniques based on auto-regressive moving averages Discover recent advancements in deep learning to build accurate forecasting models for time series Gain familiarity with the basics of Python as a powerful yet simple to write programming language</p></div>"
+}

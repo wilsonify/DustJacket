@@ -1,0 +1,13 @@
+{
+  "book_id": 6,
+  "book_uuid": "72bf18cd-28ca-4548-8ad8-4d177de404db",
+  "title": "Interactive Dashboards and Data Apps with Plotly and Dash",
+  "pubdate": "2021-04-22 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Elias Dabbas",
+  "publisher_name": "PACKT Publishing Pvt. Ltd.",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "Harness the power of a fully fledged frontend web framework in Python \u2013 no JavaScript required"
+}

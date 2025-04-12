@@ -1,0 +1,21 @@
+{
+  "book_id": 1248,
+  "book_uuid": "68b94646-4c56-4419-86f2-8dbdbdf39aec",
+  "title": "Go Design Patterns",
+  "pubdate": "2017-02-24 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mario Castro Contreras",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    214,
+    223,
+    229,
+    3260,
+    3511
+  ],
+  "description": "<div>\n<p>Learn idiomatic, efficient, clean, and extensible Go design and concurrency patterns by using TDDAbout This Book* A highly practical guide filled with numerous examples unleashing the power of design patterns with Go.* Discover an introduction of the CSP concurrency model by explaining GoRoutines and channels.* Get a full explanation, including comprehensive text and examples, of all known GoF design patterns in Go. </p>\n<p>Who This Book Is ForThe target audience is both beginner- and advanced-level developers in the Go programming language. No knowledge of design patterns is expected. </p>\n<p>What You Will Learn* All basic syntax and tools needed to start coding in Go* Encapsulate the creation of complex objects in an idiomatic way in Go* Create unique instances that cannot be duplicated within a program* Understand the importance of object encapsulation to provide clarity and maintainability* Prepare cost-effective actions so that different parts of the program aren't affected by expensive tasks* Deal with channels and GoRoutines within the Go context to build concurrent application in Go in an idiomatic wayIn DetailGo is a multi-paradigm programming language that has built-in facilities to create concurrent applications. Design patterns allow developers to efficiently address common problems faced during developing applications. </p>\n<p>Go Design Patterns will provide readers with a reference point to software design patterns and CSP concurrency design patterns to help them build applications in a more idiomatic, robust, and convenient way in Go. </p>\n<p>The book starts with a brief introduction to Go programming essentials and quickly moves on to explain the idea behind the creation of design patterns and how they appeared in the 90's as a common \"language\" between developers to solve common tasks in object-oriented programming languages. You will then learn how to apply the 23 Gang of Four (GoF) design patterns in Go and also learn about CSP concurrency patterns, the \"killer feature\" in Go that has helped Google develop software to maintain thousands of servers. </p>\n<p>With all of this the book will enable you to understand and apply design patterns in an idiomatic way that will produce concise, readable, and maintainable software. </p>\n<p>Style and approachThis book will teach widely used design patterns and best practices with Go in a step-by-step manner. The code will have detailed examples, to allow programmers to apply design patterns in their day-to-day coding.</p></div>"
+}

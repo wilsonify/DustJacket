@@ -1,0 +1,13 @@
+{
+  "book_id": 1150,
+  "book_uuid": "81c471e4-8981-4aa3-8f2a-6242d63c150f",
+  "title": "Cloud Native DevOps with Kubernetes, 2nd Edition",
+  "pubdate": "2022-05-25 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Justin Domingus",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Kubernetes has become the operating system of today's cloud native world, providing a reliable and scalable platform for running containerized workloads. In this friendly, pragmatic book, cloud experts Justin Domingus and John Arundel show your development and operations staff what Kubernetes can do--and what you can do with it.</p><p>This updated second edition guides you through the growing Kubernetes ecosystem and provides practical solutions to everyday problems using tools currently in use in the software industry. You'll walk through an example containerized application running in Kubernetes step-by-step, from the development environment through the continuous deployment pipeline, with patterns you can use for your own applications. Make your development teams lean, fast, and effective by adopting Kubernetes and DevOps principles.</p><ul><li>Understand containers and Kubernetes--no experience necessary</li><li>Run your own applications on managed cloud Kubernetes services or on-premises environments</li><li>Design your own cloud native services and infrastructure</li><li>Use Kubernetes to manage resource usage and the container lifecycle</li><li>Optimize clusters for cost, performance, resilience, capacity, and scalability</li><li>Learn the best tools for developing, testing, and deploying your applications</li><li>Apply the latest industry practices for observability and monitoring</li><li>Secure your containers and clusters in production</li></ul></div></span>"
+}

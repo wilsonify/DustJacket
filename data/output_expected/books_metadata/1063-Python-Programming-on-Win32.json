@@ -1,0 +1,25 @@
+{
+  "book_id": 1063,
+  "book_uuid": "5f11fd0e-5525-4591-a33c-741f4146d327",
+  "title": "Python Programming on Win32",
+  "pubdate": "2000-03-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mark J. Hammond",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    223,
+    229,
+    232,
+    3198,
+    3229,
+    3246,
+    3247,
+    3248,
+    3249
+  ],
+  "description": "<div>\n<p>Python is growing in popularity; based on download statistics, there are now over 450,000 people using Python, and more than 150,000 people using Python on Windows. Use of the language has been growing at about 40% per year since 1995, and there is every reason to believe that growth will continue. Despite Python's increasing popularity on Windows,Python Programming on Win32is the first book to demonstrate how to use it as a serious Windows development and administration tool. Unlike scripting on Unix, Windows scripting involves integrating a number of components, such as COM or the various mail and database APIs, with the Win32 programming interface. While experienced Windows C++ programmers can find their way through the various objects, most people need some guidance, and this book is it. It addresses all the basic technologies for common integration tasks on Windows, explaining both the Windows issues and the Python code you need to glue things together. Topics include: The Python language and the PythonWin extensions Building a GUI with COM Adding a Macro language Distributing the application Client-side COM for output and data access Integration with mail and other internet protocols Managing users and drives This is a vital and unique book. </p>\n<p>Python Programming on Win32is an excellent presentation of Windows application development and a solid illustration of how to use Python in the Windows environment.</p></div>"
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": 1106,
+  "book_uuid": "b2f97c88-b885-4768-89e3-c7151fa92d2d",
+  "title": "Site Reliability Engineering: How Google Runs Production Systems",
+  "pubdate": "2016-03-23 19:17:56.485167+00:00",
+  "isbn": "",
+  "author_name": "Niall Richard Murphy",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    217,
+    227,
+    247,
+    249,
+    3147,
+    3156,
+    3185,
+    3289
+  ],
+  "description": "<p>The overwhelming majority of a software system\u00e2??s lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?In this collection of essays and articles, key members of Google\u00e2??s Site Reliability Team explain how and why their commitment to the entire lifecycle has enabled the company to successfully build, deploy, monitor, and maintain some of the largest software systems in the world. You\u00e2??ll learn the principles and practices that enable Google engineers to make systems more scalable, reliable, and efficient\u00e2??lessons directly applicable to your organization.</p>\n\n<p>This book is divided into four sections:Introduction\u00e2??Learn what site reliability engineering is and why it differs from conventional IT industry practicesPrinciples\u00e2??Examine the patterns, behaviors, and areas of concern that influence the work of a site reliability engineer (SRE)Practices\u00e2??Understand the theory and practice of an SRE\u00e2??s day-to-day work: building and operating large distributed computing systemsManagement\u00e2??Explore Google's best practices for training, communication, and meetings that your organization can use</p>"
+}

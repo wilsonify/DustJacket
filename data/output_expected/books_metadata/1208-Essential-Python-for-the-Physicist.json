@@ -1,0 +1,25 @@
+{
+  "book_id": 1208,
+  "book_uuid": "e3dfe633-edc9-4874-96ae-ce36f933bd9e",
+  "title": "Essential Python for the Physicist",
+  "pubdate": "2020-06-02 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Giovanni Moruzzi",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    217,
+    218,
+    223,
+    224,
+    255,
+    266,
+    286,
+    3120
+  ],
+  "description": "<div>\n<p>This book introduces the reader with little or no previous computer-programming experience to the Python programming language of interest for a physicist or a natural-sciences student. The book starts with basic interactive Python in order to acquire an introductory familiarity with the language, than tackle Python scripts (programs) of increasing complexity, that the reader is invited to run on her/his computer. All program listings are discussed in detail, and the reader is invited to experiment on what happens if some code lines are modified. The reader is introduced to Matplotlib graphics for the generation of figures representing data and function plots and, for instance, field lines. Animated function plots are also considered. A chapter is dedicated to the numerical solution of algebraic and transcendental equations, the basic mathematical principles are discussed and the available Python tools for the solution are presented. A further chapter is dedicated to the numerical solution of ordinary differential equations. This is of vital importance for the physicist, since differential equations are at the base of both classical physics (Newton\u2019s equations) and quantum mechanics (Schroedinger\u2019s equation). The shooting method for the numerical solution of ordinary differential equations with boundary conditions at two boundaries is also presented. Python programs for the solution of two quantum-mechanics problems are discussed as examples. Two chapters are dedicated to Tkinter graphics, which gives the user more freedom than Matplotlib, and to Tkinter animation. Programs displaying the animation of physical problems involving the solution of ordinary differential equations (for which in most cases there is no algebraic solution) in real time are presented and discussed. Finally, 3D animation is presented with Vpython.</p></div>"
+}

@@ -1,0 +1,21 @@
+{
+  "book_id": 1186,
+  "book_uuid": "41ff9b18-ea27-49e9-9a28-a4da06818583",
+  "title": "Bootstrapping Microservices, Second Edition: With Docker, Kubernetes, GitHub Actions, and Terraform",
+  "pubdate": "2024-04-23 19:34:31.518922+00:00",
+  "isbn": "",
+  "author_name": "Ashley Davis",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    211,
+    215,
+    258,
+    259,
+    3228
+  ],
+  "description": "<p>Build a microservices application from scratch using industry standard tools and battle-tested best practices.</p>\n\n<p>The best way to learn microservices development is to build something! Bootstrapping Microservices with Docker, Kubernetes, GitHub Actions, and Terraform, Second Edition guides you from zero through to a complete microservices project, including fast prototyping, development, and deployment. In Bootstrapping Microservices, Second Edition you\u2019ll get hands-on experience with microservices development skills like:   Creating, configuring, and running a microservice with Node.js Building and publishing a microservice using Docker Applying automated testing Running a microservices application in development with Docker Compose Deploying microservices to a production Kubernetes cluster Implementing infrastructure as code and setting up a continuous delivery pipeline Monitoring, managing, and troubleshooting  Bootstrapping Microservices with Docker, Kubernetes, GitHub Action, and Terraform has helped thousands of developers create their first microservices applications. This fully revised second edition introduces the industry-standard tools and practical skills you\u2019ll use for every microservices application. Author Ashley Davis\u2019s friendly advice and guidance helps cut down the learning curve for Docker, Terraform, and Kubernetes, showing you just what you need to know to start building. Purchase of the print book includes a free eBook in PDF and ePub formats from Manning Publications.  About the technology  Taking a microservices application from proof of concept to production requires many steps and a host of tools like Kubernetes, Terraform, and GitHub Actions. But where do you start? With clear, practical introductions to each concept and tool, this book guides you hands-on through designing and building your first microservices application.  About the book  Bootstrapping Microservices, Second Edition is your microservices mentor. It teaches you to use industry-standard tools to create a working video streaming application from the ground up. You\u2019ll learn the pillars of cloud-native development, including Terraform for configuration, Docker for packaging, and a basic Kubernetes deployment. Plus, this second edition includes coverage of GitHub Actions, continuous delivery, and Infrastructure as Code.  What's inside  Deploying microservices to Kubernetes Automated testing and continuous delivery Monitoring, managing, and troubleshooting   About the reader  Examples are in JavaScript and Node. No experience with microservices required.  About the author  Ashley Davis is a software craftsman, entrepreneur, and author with over 25 years of experience in software development\u2014from coding, to managing teams, to founding companies.  Table of Contents  1 Why microservices? 2 Creating your first microservice 3 Publishing your first microservice 4 Data management for microservices 5 Communication between microservices 6 The road to production 7 Infrastructure as code 8 Continuous deployment 9 Automated testing for microservices 10 Shipping FlixTube 11 Healthy microservices 12 Pathways to scalability</p>"
+}

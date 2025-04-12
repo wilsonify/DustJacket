@@ -1,0 +1,25 @@
+{
+  "book_id": 1117,
+  "book_uuid": "885a6c37-4453-4438-ae73-aa2e241daf4e",
+  "title": "Financial Theory With Python: A Gentle Introduction",
+  "pubdate": "2021-09-23 19:56:05.925032+00:00",
+  "isbn": "",
+  "author_name": "Yves Hilpisch",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    223,
+    229,
+    232,
+    238,
+    262,
+    281,
+    1403,
+    3150
+  ],
+  "description": "<p>Nowadays, finance, mathematics, and programming are intrinsically linked. This book provides the relevant foundations of each discipline to give you the major tools you need to get started in the world of computational finance.</p>\n\n<p>Using an approach where mathematical concepts provide the common background against which financial ideas and programming techniques are learned, this practical guide teaches you the basics of financial economics. Written by the best-selling author of Python for Finance, Yves Hilpisch, Financial Theory with Python explains financial, mathematical, and Python programming concepts in an integrative manner so that the interdisciplinary concepts reinforce each other.</p>\n\n<p>Draw upon mathematics to learn the foundations of financial theory and Python programmingLearn about financial theory, financial data modeling, and the use of Python for computational financeLeverage simple economic models to better understand basic notions of finance and Python programming conceptsUse both static and dynamic financial modeling to address fundamental problems in finance, such as pricing, decision-making, equilibrium, and asset allocationLearn the basics of Python packages useful for financial modeling, such as NumPy, pandas, Matplotlib, and SymPy</p>"
+}

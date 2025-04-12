@@ -1,0 +1,17 @@
+{
+  "book_id": 852,
+  "book_uuid": "9875e6d3-6f36-4298-9369-72f6c228f7f8",
+  "title": "Engineering Risk Assessment With Subset Simulation",
+  "pubdate": "2014-04-10 19:15:27.827548+00:00",
+  "isbn": "",
+  "author_name": "Siu-Kui Au",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    211,
+    212,
+    1780
+  ],
+  "description": "<p>This book starts with the basic ideas in uncertainty propagation using Monte Carlo methods and the generation of random variables and stochastic processes for some common distributions encountered in engineering applications. It then introduces a class of powerful simulation techniques called Markov Chain Monte Carlo method (MCMC), an important machinery behind Subset Simulation that allows one to generate samples for investigating rare scenarios in a probabilistically consistent manner. The theory of Subset Simulation is then presented, addressing related practical issues encountered in the actual implementation. The book also introduces the reader to probabilistic failure analysis and reliability-based sensitivity analysis, which are laid out in a context that can be efficiently tackled with Subset Simulation or Monte Carlo simulation in general. The book is supplemented with an Excel VBA code that provides a user-friendly tool for the reader to gain hands-on experience with Monte Carlo simulation.  Presents a powerful simulation method called Subset Simulation for efficient engineering risk assessment and failure and sensitivity analysis Illustrates examples with MS Excel spreadsheets, allowing readers to gain hands-on experience with Monte Carlo simulation Covers theoretical fundamentals as well as advanced implementation issues A companion website is available to include the developments of the software ideas  This book is essential reading for graduate students, researchers and engineers interested in applying Monte Carlo methods for risk assessment and reliability based design in various fields such as civil engineering, mechanical engineering, aerospace engineering, electrical engineering and nuclear engineering. Project managers, risk managers and financial engineers dealing with uncertainty effects may also find it useful.</p>"
+}

@@ -1,0 +1,19 @@
+{
+  "book_id": 1317,
+  "book_uuid": "6dc3820a-7f62-4a17-abc5-8ad4b16a76ca",
+  "title": "WooCommerce Cookbook",
+  "pubdate": "2015-03-31 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Patrick Rauland",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    258,
+    259,
+    3528,
+    3529
+  ],
+  "description": "<div>\n<p>If you have ever built or managed a WordPress site and want to add e-commerce functionality into your site, WooCommerce and this book are perfect for you. Learning how to use WooCommerce through this series of recipes will give you a solid platform to add any future e-commerce needs.</p></div>"
+}

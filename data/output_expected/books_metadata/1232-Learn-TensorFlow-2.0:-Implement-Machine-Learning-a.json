@@ -1,0 +1,22 @@
+{
+  "book_id": 1232,
+  "book_uuid": "5d7b7fbd-0d4c-4040-96d3-1ede2e56a28b",
+  "title": "Learn TensorFlow 2.0: Implement Machine Learning and Deep Learning Models With Python",
+  "pubdate": "2019-12-17 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Pramod Singh",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    207,
+    223,
+    229,
+    232,
+    3158
+  ],
+  "description": "<div>\n<p>Learn how to use TensorFlow 2.0 to build machine learning and deep learning models with complete examples. The book begins with introducing TensorFlow 2.0 framework and the major changes from its last release. Next, it focuses on building Supervised Machine Learning models using TensorFlow 2.0. It also demonstrates how to build models using customer estimators. Further, it explains how to use TensorFlow 2.0 API to build machine learning and deep learning models for image classification using the standard as well as custom parameters. You'll review sequence predictions, saving, serving, deploying, and standardized datasets, and then deploy these models to production. All the code presented in the book will be available in the form of executable scripts at Github which allows you to try out the examples and extend them in interesting ways. </p>\n<p>What You'll LearnReview the new features of TensorFlow 2.0Use TensorFlow 2.0 to build machine learning and deep learning models Perform sequence predictions using TensorFlow 2.0Deploy TensorFlow 2.0 models with practical examplesWho This Book Is ForData scientists, machine and deep learning engineers.</p></div>"
+}

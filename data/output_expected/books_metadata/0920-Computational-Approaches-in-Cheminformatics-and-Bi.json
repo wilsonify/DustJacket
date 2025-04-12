@@ -1,0 +1,18 @@
+{
+  "book_id": 920,
+  "book_uuid": "7eee60e9-ee2e-49ce-afb7-94f105646c6d",
+  "title": "Computational Approaches in Cheminformatics and Bioinformatics",
+  "pubdate": "2012-01-04 23:03:16.552162+00:00",
+  "isbn": "",
+  "author_name": "Rajarshi Guha",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    255,
+    277,
+    3128
+  ],
+  "description": "<p>A breakthrough guide employing knowledge that unites cheminformatics and bioinformatics as innovation for the future Bridging the gap between cheminformatics and bioinformatics for the first time, Computational Approaches in Cheminformatics and Bioinformatics provides insight on how to blend these two sciences for progressive research benefits. It describes the development and evolution of these fields, how chemical information may be used for biological relations and vice versa, the implications of these new connections, and foreseeable developments in the future. Using algorithms and domains as workflow tools, this revolutionary text drives bioinformaticians to consider chemical structure, and similarly, encourages cheminformaticians to consider large biological systems such as protein targets and networks. Computational Approaches in Cheminformatics and Bioinformatics covers:   Data sources available for modelling and prediction purposes   Developments of conventional Quantitative Structure-Activity Relationships (QSAR)   Computational tools for manipulating chemical and biological data   Novel ways of probing the interactions between small molecules and proteins   Also including insight from public (NIH), academic, and industrial sources (Novartis, Pfizer), this book offers expert knowledge to aid scientists through industry and academic study. The invaluable applications for drug discovery, cellular and molecular biology, enzymology, and metabolism make Computational Approaches in Cheminformatics and Bioinformatics the essential guidebook for evolving drug discovery research and alleviating the issue of chemical control and manipulation of various systems.</p>"
+}

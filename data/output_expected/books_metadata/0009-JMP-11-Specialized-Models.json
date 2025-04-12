@@ -1,0 +1,23 @@
+{
+  "book_id": 9,
+  "book_uuid": "c2c8f93c-a3e3-4dd2-8255-883d464f7783",
+  "title": "JMP 11 Specialized Models",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    1,
+    2,
+    3,
+    4,
+    79,
+    197,
+    201,
+    202,
+    252
+  ],
+  "description": "<div>\n<p>JMP 11 Specialized Models provides details about modeling techniques such as partitioning, neural networks, nonlinear regression, and time series analysis. Topics include the Gaussian platform, which is useful in analyzing computer simulation experiments. The book also covers the Response Screening platform, which is useful in testing the effect of a predictor when you have many responses.</p></div>"
+}

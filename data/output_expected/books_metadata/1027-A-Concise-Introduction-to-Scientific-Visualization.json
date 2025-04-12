@@ -1,0 +1,23 @@
+{
+  "book_id": 1027,
+  "book_uuid": "78a31357-a95b-4d28-9b88-599737b6b797",
+  "title": "A Concise Introduction to Scientific Visualization: Past, Present, and Future",
+  "pubdate": "2022-01-01 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Brad Eric Hollister",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    179,
+    197,
+    201,
+    216,
+    217,
+    218,
+    219,
+    220
+  ],
+  "description": "<div>\n<p>Scientific visualization has always been an integral part of discovery, starting first with simplified drawings of the pre-Enlightenment and progressing to present day. Mathematical formalism often supersedes visual methods, but their use is at the core of the mental process. As historical examples, a spatial description of flow led to electromagnetic theory, and without visualization of crystals, structural chemistry would not exist. With the advent of computer graphics technology, visualization has become a driving force in modern computing. A Concise Introduction to Scientific Visualization \u2013 Past, Present, and Future serves as a primer to visualization without assuming prior knowledge. It discusses both the history of visualization in scientific endeavour, and how scientific visualization is currently shaping the progress of science as a multi-disciplinary domain.</p></div>"
+}

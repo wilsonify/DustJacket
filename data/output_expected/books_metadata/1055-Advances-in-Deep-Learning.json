@@ -1,0 +1,23 @@
+{
+  "book_id": 1055,
+  "book_uuid": "7441e4bc-e2be-44e6-8dc8-a5f7661444a1",
+  "title": "Advances in Deep Learning",
+  "pubdate": "2019-03-14 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "M. Arif Wani",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    198,
+    201,
+    211,
+    214,
+    215,
+    260,
+    573
+  ],
+  "description": "<div>\n<p>This book introduces readers to both basic and advanced concepts in deep network models. It covers state-of-the-art deep architectures that many researchers are currently using to overcome the limitations of the traditional artificial neural networks. Various deep architecture models and their components are discussed in detail, and subsequently illustrated by algorithms and selected applications. In addition, the book explains in detail the transfer learning approach for faster training of deep models; the approach is also demonstrated on large volumes of fingerprint and face image datasets. In closing, it discusses the unique set of problems and challenges associated with these models.</p></div>"
+}

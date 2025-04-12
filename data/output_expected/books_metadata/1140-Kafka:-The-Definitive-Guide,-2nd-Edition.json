@@ -1,0 +1,13 @@
+{
+  "book_id": 1140,
+  "book_uuid": "afc7a13e-02ae-41b4-994c-732ce0a34a7f",
+  "title": "Kafka: The Definitive Guide, 2nd Edition",
+  "pubdate": "2021-10-24 21:00:00+00:00",
+  "isbn": "",
+  "author_name": "Neha Narkhede",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Every enterprise application creates data, whether it consists of log messages, metrics, user activity, outgoing messages, or something else. Moving all of this data is just as important as the data itself. This book\u2019s updated second edition shows application architects, developers, and production engineers new to the Kafka open source streaming platform how to handle real-time data feeds. Additional chapters cover Kafka\u2019s AdminClient API, new security features, and tooling changes.</p><p>Engineers from Confluent and LinkedIn responsible for developing Kafka explain how to deploy production Kafka clusters, write reliable event-driven microservices, and build scalable stream processing applications with this platform. Through detailed examples, you\u2019ll learn Kafka\u2019s design principles, reliability guarantees, key APIs, and architecture details, including the replication protocol, the controller, and the storage layer.</p><p>You\u2019ll examine:</p><ul><li>How publish-subscribe messaging fits in the big data ecosystem</li><li>Kafka producers and consumers for writing and reading messages</li><li>Patterns and use-case requirements to ensure reliable data delivery</li><li>Best practices for building data pipelines and applications with Kafka</li><li>How to perform monitoring, tuning, and maintenance tasks with Kafka in production</li><li>The most critical metrics among Kafka\u2019s operational measurements</li><li>Kafka\u2019s delivery capabilities for stream processing systems</li></ul></div></span>"
+}

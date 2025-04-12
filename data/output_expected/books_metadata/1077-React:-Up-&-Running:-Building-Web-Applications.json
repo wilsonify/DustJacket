@@ -1,0 +1,21 @@
+{
+  "book_id": 1077,
+  "book_uuid": "cc2bc8a5-41ff-4514-9671-b9eac472e1ae",
+  "title": "React: Up & Running: Building Web Applications",
+  "pubdate": "2021-11-11 20:55:12.761920+00:00",
+  "isbn": "",
+  "author_name": "Stoyan Stefanov",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    223,
+    229,
+    258,
+    259,
+    3158,
+    3198
+  ],
+  "description": "<p>Hit the ground running with React, the open source technology from Facebook for building rich web applications fast. Updated for the latest React release, the second edition of this hands-on guide shows you how to build React components and organize them into maintainable large-scale apps. If you're familiar with JavaScript syntax, you're ready to get started.</p>\n\n<p>Through the course of this book, author Stoyan Stefanov helps web developers and programmers build a complete single-page application. You'll quickly learn why some developers consider React the key to the web app development puzzle.</p>\n\n<p>Set up React and write your first \"Hello, World\" web appCreate and use custom React components alongside generic DOM componentsBuild a data table component that lets you edit, sort, search, and export its contentsMaster the JSX syntaxUse built-in Hooks and create your own custom onesManage the app's data flow with reducers and contextsUse Create React App to take care of the build process and focus on React itselfBuild a complete custom app that lets you store data on the client</p>"
+}

@@ -1,0 +1,13 @@
+{
+  "book_id": 1233,
+  "book_uuid": "2a3e42f3-cc41-4b64-951e-2990e2181618",
+  "title": "Python for Algorithmic Trading",
+  "pubdate": "2021-01-25 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Yves Hilpisch",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Financial trading, once the exclusive domain of institutional players, is now open to small organizations and individual traders using online platforms. The tool of choice for many traders today is Python and its ecosystem of powerful packages. In this practical book, author Yves Hilpisch shows students, academics, and practitioners how to use Python in the fascinating field of algorithmic trading.</p><p>You\u2019ll learn several ways to apply Python to different aspects of algorithmic trading, such as backtesting trading strategies and interacting with online trading platforms. Some of the biggest buy- and sell-side institutions make heavy use of Python. By exploring options for systematically building and deploying automated algorithmic trading strategies, this book will help you level the playing field.</p><ul><li>Set up a proper Python environment for algorithmic trading</li><li>Learn how to retrieve financial data from public and proprietary data sources</li><li>Explore vectorization for financial analytics with NumPy and pandas</li><li>Master vectorized backtesting of different algorithmic trading strategies</li><li>Generate market predictions by using machine learning and deep learning</li><li>Tackle real-time processing of streaming data with socket programming tools</li><li>Implement automated algorithmic trading strategies with the OANDA and FXCM platforms</li></ul></div></span>"
+}

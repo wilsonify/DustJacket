@@ -1,0 +1,24 @@
+{
+  "book_id": 1288,
+  "book_uuid": "82d29a6b-ef3f-4b2e-810f-35909f5de2d9",
+  "title": "Web Scraping With Python",
+  "pubdate": "2024-02-14 20:24:13.864962+00:00",
+  "isbn": "",
+  "author_name": "Ryan Mitchell",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    199,
+    200,
+    229,
+    232,
+    258,
+    259,
+    3228,
+    3320,
+    3322
+  ],
+  "description": "<p>If programming is magic, then web scraping is surely a form of wizardry. By writing a simple automated program, you can query web servers, request data, and parse it to extract the information you need. This thoroughly updated third edition not only introduces you to web scraping but also serves as a comprehensive guide to scraping almost every type of data from the modern web.</p>\n\n<p>Part I focuses on web scraping mechanics: using Python to request information from a web server, performing basic handling of the server's response, and interacting with sites in an automated fashion. Part II explores a variety of more specific tools and applications to fit any web scraping scenario you're likely to encounter.</p>\n\n<p>Parse complicated HTML pagesDevelop crawlers with the Scrapy frameworkLearn methods to store the data you scrapeRead and extract data from documentsClean and normalize badly formatted dataRead and write natural languagesCrawl through forms and loginsScrape JavaScript and crawl through APIsUse and write image-to-text softwareAvoid scraping traps and bot blockersUse scrapers to test your website</p>"
+}

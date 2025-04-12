@@ -1,0 +1,21 @@
+{
+  "book_id": 678,
+  "book_uuid": "d4445e7d-dc8f-4aa4-a581-d5d48fe2cd93",
+  "title": "Applied Spatial Statistics and Econometrics; Data Analysis in R",
+  "pubdate": "2020-09-24 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Katarzyna Kopczewska",
+  "publisher_name": "Routledge",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    312,
+    313,
+    314,
+    315,
+    316,
+    317,
+    318
+  ],
+  "description": "This textbook is a comprehensive introduction to applied spatial data analysis using R. Each chapter walks the reader through a different method, explaining how to interpret the results and what conclusions can be drawn. The author team showcases key topics, including unsupervised learning, causal inference, spatial weight matrices, spatial econometrics, heterogeneity and bootstrapping. It is accompanied by a suite of data and R code on Github to help readers practise techniques via replication and exercises.\nThis text will be a valuable resource for advanced students of econometrics, spatial planning and regional science. It will also be suitable for researchers and data scientists working with spatial data."
+}

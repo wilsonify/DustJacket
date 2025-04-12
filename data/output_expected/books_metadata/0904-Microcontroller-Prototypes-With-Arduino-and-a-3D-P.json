@@ -1,0 +1,22 @@
+{
+  "book_id": 904,
+  "book_uuid": "c103e631-13f2-4e7b-ab33-1ab46d691bf6",
+  "title": "Microcontroller Prototypes With Arduino and a 3D Printer: Learn, Program, Manufacture",
+  "pubdate": "2021-04-05 19:18:13.535472+00:00",
+  "isbn": "",
+  "author_name": "Dimosthenis E. Bolanakis",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    211,
+    221,
+    229,
+    250,
+    274,
+    3296
+  ],
+  "description": "<p>Microcontroller Prototypes with Arduino and a 3D Printer Discover a complete treatment of microcomputer programming and application development with Arduino and 3D printersMicrocontroller Prototypes with Arduino and a 3D Printer: Learn, Program, Manufacture delivers a comprehensive guide to learning microcontrollers that\u2019s perfectly suited to educators, researchers, and manufacturers. The book provides readers with a seasoned expert\u2019s perspective on the process of microcomputer programming and application development. Carefully designed and written example code and explanatory figures accompany the text, helping the reader fully understand and retain the concepts described within.</p>\n\n<p>The book focuses on demonstrating how to craft creative and innovative solutions in embedded systems design by providing practical and illustrative methods and examples. An accompanying website includes functioning and tested source code and learning exercises and the book relies on freeware development tools for the creation of firmware and software code, 3D printed enclosures, and debugging. It allows the reader to work with modern sensors and collect sensor data to a host PC for offline analysis. Readers will also benefit from the inclusion of:A thorough introduction to the art of embedded computers, including their interdisciplinarity, TPACK analysis, and the impact of microcontroller technology on the maker industryAn exploration of embedded programming with Arduino, including number representation and special-function codes and C common language referenceA discussion of hardware interfaces with the outside world, including digital pin interface, analog pin interface, UART serial interface, I2C, and SPIA treatment of sensors and data acquisition, including environmental measurements with Arduino Uno, orientation and motion detection with Teensy, gesture recognition with TinyZero, and color sensing with Micro:bitA variety of supplementary resources\u2014including source codes and examples\u2014hosted on an accompanying website to be maintained by the author: www.mikroct.com.</p>\n\n<p>Perfect for researchers and undergraduate students in electrical and electronic engineering or computer engineering, Microcontroller Prototypes with Arduino and a 3D Printer: Learn, Program, Manufacture will also earn a place in the libraries of hardware engineers, embedded system designers, system engineers, and electronic engineers.</p>"
+}

@@ -1,0 +1,17 @@
+{
+  "book_id": 1101,
+  "book_uuid": "4a8dcc10-79a5-4bd3-af4c-04637d830892",
+  "title": "Amazon Fargate Quick Start Guide",
+  "pubdate": "2018-07-23 10:46:16+00:00",
+  "isbn": "",
+  "author_name": "Deepak Vohra",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    466,
+    467,
+    468
+  ],
+  "description": "<p><b>This book gets you started and gives you knowledge about AWS Fargate in order to successfully incorporate it in your ECS container application.</b><p><b>Key Features</b><p><li>Gives you a quick walk-through over the Amazon Elastic Container Services (ECS)<li>Provides an in depth knowledge of the components that Amazon Fargate has to offer.<li>Learn the practical aspects of Docker application development with a managed service<p><p><b>Book Description</b><p>Amazon Fargate is new launch type for the Amazon Elastic Container Service (ECS). ECS is an AWS service for Docker container orchestration. Docker is the de facto containerization framework and has revolutionized packaging and deployment of software. The introduction of Fargate has made the ECS platform serverless.<p>The book takes you through how Amazon Fargate runs ECS services composed of tasks and Docker containers and exposes the containers to the user. Fargate has simplified the ECS platform. We will learn how..."
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 1,
+  "book_uuid": "d44e14f6-84d8-4344-808f-f7df7b0b085f",
+  "title": "JMP 11 Basic Analysis",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    1,
+    2,
+    3,
+    4,
+    79,
+    197,
+    201,
+    202,
+    252
+  ],
+  "description": "<div>\n<p>JMP 11 Basic Analysis covers the initial types of analyses that you often perform in JMP, such as univariate, bivariate, and oneway analyses. Creating tables of summary statistics with the Tabulate platform is included along with approximating sampling distributions using bootstrapping.</p></div>"
+}

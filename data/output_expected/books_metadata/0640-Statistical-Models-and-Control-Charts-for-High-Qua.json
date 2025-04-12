@@ -1,0 +1,32 @@
+{
+  "book_id": 640,
+  "book_uuid": "0779bb4e-61da-417e-b775-a9eac691f61f",
+  "title": "Statistical Models and Control Charts for High-Quality Processes",
+  "pubdate": "2002-06-30 23:03:12.530367+00:00",
+  "isbn": "",
+  "author_name": "Min Xie",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    211,
+    238,
+    239,
+    240,
+    241,
+    255,
+    269,
+    280,
+    573,
+    1347,
+    3130,
+    3131,
+    3132,
+    3133,
+    3134,
+    3135
+  ],
+  "description": "<p>Control charts are widely used in industry to monitor processes that are far from Zero-Defect (ZD), and their use in a near Zero-Defect manufacturing environment poses many problems. This book presents techniques of using control charts for high-quality processes, and some recent findings and applications of statistical control chart techniques for ZD processes are presented.  A powerful technique based on counting of the cumulative conforming (CCC) items between two nonconforming ones is discussed in detail. Extensions of the CCC chart are described, as well as applications of cumulative sum and exponentially weighted moving average techniques to CCC-related data, multivariate methods, economic design of control chart procedures, and modeling and analysis of trended but regularly adjusted processes. Many examples, charts, and procedures, are presented throughout the book, and references are provided for those interested in exploring the details. A number of questions and issues are posed for further investigations. Researchers and students may find many ideas in this book useful in their academic work, as a foundation is laid for the exploration of many further theoretical and practical issues.</p>"
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": 1116,
+  "book_uuid": "d6eecbc6-2e3c-4d69-93c1-51bbeebe7ce1",
+  "title": "Jumpstarting C",
+  "pubdate": "2018-01-23 19:37:59.348942+00:00",
+  "isbn": "",
+  "author_name": "Wolfram Donat",
+  "publisher_name": "Maker Media, Inc.",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    203,
+    211,
+    229,
+    250,
+    476,
+    746,
+    3296,
+    3315
+  ],
+  "description": "<p>All Make Jumpstart books provide a quick way for makers to \"jumpstart\" their knowledge of a certain topic.</p>\n\n<p>Jumpstarting C takes the reader on a 50-page journey, from installing C on a Raspberry Pi, to creating their first \"Hello World\" program in C, to building and programming a handheld 4-color memory game using C, pushbuttons and LEDs.</p>"
+}

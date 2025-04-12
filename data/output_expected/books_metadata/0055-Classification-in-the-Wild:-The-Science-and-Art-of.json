@@ -1,0 +1,13 @@
+{
+  "book_id": 55,
+  "book_uuid": "148b2da7-aa90-408a-8d08-f426ff8f90e9",
+  "title": "Classification in the Wild: The Science and Art of Transparent Decision Making",
+  "pubdate": "0101-01-01 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Konstantinos V. Katsikopoulos",
+  "publisher_name": "MIT Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<b>Rules for building formal models that use fast-and-frugal heuristics, extending the psychological study of classification to the real world of uncertainty.</b><br>This book focuses on classification&#8212;allocating objects into categories&#8212;\"in the wild,\" in real-world situations and far from the certainty of the lab. In the wild, unlike in typical psychological experiments, the future is not knowable and uncertainty cannot be meaningfully reduced to probability. Connecting the science of heuristics with machine learning, the book shows how to create formal models using classification rules that are simple, fast, and transparent and that can be as accurate as mathematically sophisticated algorithms developed for machine learning."
+}

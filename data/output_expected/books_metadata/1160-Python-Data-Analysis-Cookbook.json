@@ -1,0 +1,21 @@
+{
+  "book_id": 1160,
+  "book_uuid": "d49ca4b7-76a3-4474-8cde-6b8d491f9411",
+  "title": "Python Data Analysis Cookbook",
+  "pubdate": "2016-07-22 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Ivan Idris",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    200,
+    229,
+    232,
+    262
+  ],
+  "description": "<div>\n<p>Over 140 practical recipes to help you make sense of your data with ease and build production-ready data appsAbout This Book* Analyze Big Data sets, create attractive visualizations, and manipulate and process various data types* Packed with rich recipes to help you learn and explore amazing algorithms for statistics and machine learning* Authored by Ivan Idris, expert in python programming and proud author of eight highly reviewed booksWho This Book Is ForThis book teaches Python data analysis at an intermediate level with the goal of transforming you from journeyman to master. Basic Python and data analysis skills and affinity are assumed. </p>\n<p>What You Will Learn* Set up reproducible data analysis* Clean and transform data* Apply advanced statistical analysis* Create attractive data visualizations* Web scrape and work with databases, Hadoop, and Spark* Analyze images and time series data* Mine text and analyze social networks* Use machine learning and evaluate the results* Take advantage of parallelism and concurrencyIn DetailData analysis is a rapidly evolving field and Python is a multi-paradigm programming language suitable for object-oriented application development and functional design patterns. As Python offers a range of tools and libraries for all purposes, it has slowly evolved as the primary language for data science, including topics on: data analysis, visualization, and machine learning. </p>\n<p>Python Data Analysis Cookbook focuses on reproducibility and creating production-ready systems. You will start with recipes that set the foundation for data analysis with libraries such as matplotlib, NumPy, and pandas. You will learn to create visualizations by choosing color maps and palettes then dive into statistical data analysis using distribution algorithms and correlations. You'll then help you find your way around different data and numerical problems, get to grips with Spark and HDFS, and then set up migration scripts for web mining. </p>\n<p>In this book, you will dive deeper into recipes on spectral analysis, smoothing, and bootstrapping methods. Moving on, you will learn to rank stocks and check market efficiency, then work with metrics and clusters. You will achieve parallelism to improve system performance by using multiple threads and speeding up your code. </p>\n<p>By the end of the book, you will be capable of handling various data analysis techniques in Python and devising solutions for problem scenarios. </p>\n<p>Style and ApproachThe book is written in \"cookbook\" style striving for high realism in data analysis. Through the recipe-based format, you can read each recipe separately as required and immediately apply the knowledge gained.</p></div>"
+}

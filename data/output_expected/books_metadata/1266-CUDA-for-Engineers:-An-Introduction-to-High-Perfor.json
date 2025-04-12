@@ -1,0 +1,19 @@
+{
+  "book_id": 1266,
+  "book_uuid": "9f095766-9737-4363-a887-c49dd651ddb5",
+  "title": "CUDA for Engineers: An Introduction to High-Performance Parallel Computing",
+  "pubdate": "2015-11-02 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Duane Storti",
+  "publisher_name": "Addison-Wesley Professional",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    217,
+    218,
+    223,
+    3223
+  ],
+  "description": "<div>\n<p>CUDA for Engineers gives you direct, hands-on engagement with personal, high-performance parallel computing, enabling you to do computations on a gaming-level PC that would have required a supercomputer just a few years ago. The authors introduce the essentials of CUDA C programming clearly and concisely, quickly guiding you from running sample programs to building your own code. Throughout, you\u2019ll learn from complete examples you can build, run, and modify, complemented by additional projects that deepen your understanding. All projects are fully developed, with detailed building instructions for all major platforms. Ideal for any scientist, engineer, or student with at least introductory programming experience, this guide assumes no specialized background in GPU-based or parallel computing. In an appendix, the authors also present a refresher on C programming for those who need it. Coverage includes Preparing your computer to run CUDA programs Understanding CUDA\u2019s parallelism model and C extensions Transferring data between CPU and GPU Managing timing, profiling, error handling, and debugging Creating 2D grids Interoperating with OpenGL to provide real-time user interactivity Performing basic simulations with differential equations Using stencils to manage related computations across threads Exploiting CUDA\u2019s shared memory capability to enhance performance Interacting with 3D data: slicing, volume rendering, and ray casting Using CUDA libraries Finding more CUDA resources and code Realistic example applications include Visualizing functions in 2D and 3D Solving differential equations while changing initial or boundary conditions Viewing/processing images or image stacks Computing inner products and centroids Solving systems of linear algebraic equations Monte-Carlo computations</p></div>"
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 2882,
+  "book_uuid": "83fe530a-7ea8-42d5-8747-a18dfb9cb71b",
+  "title": "Python for DevOps: Learn Ruthlessly Effective Automation",
+  "pubdate": "2019-12-12 20:26:31.539831+00:00",
+  "isbn": "",
+  "author_name": "Noah Gift",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    223,
+    227,
+    229,
+    232,
+    258,
+    259,
+    3158
+  ],
+  "description": "<p>Much has changed in technology over the past decade. Data is hot, the cloud is ubiquitous, and many organizations need some form of automation. Throughout these transformations, Python has become one of the most popular languages in the world. This practical resource shows you how to use Python for everyday Linux systems administration tasks with today\u2019s most useful DevOps tools, including Docker, Kubernetes, and Terraform.</p>\n\n<p>Learning how to interact and automate with Linux is essential for millions of professionals. Python makes it much easier. With this book, you\u2019ll learn how to develop software and solve problems using containers, as well as how to monitor, instrument, load-test, and operationalize your software. Looking for effective ways to \"get stuff done\" in Python? This is your guide.</p>\n\n<p>Python foundations, including a brief introduction to the languageHow to automate text, write command-line tools, and automate the filesystemLinux utilities, package management, build systems, monitoring and instrumentation, and automated testingCloud computing, infrastructure as code, Kubernetes, and serverlessMachine learning operations and data engineering from a DevOps perspectiveBuilding, deploying, and operationalizing a machine learning project</p>"
+}

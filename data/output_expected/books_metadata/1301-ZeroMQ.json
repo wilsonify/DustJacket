@@ -1,0 +1,15 @@
+{
+  "book_id": 1301,
+  "book_uuid": "f81a4b97-b4ab-459a-a27e-4ab0dde79072",
+  "title": "ZeroMQ",
+  "pubdate": "2013-03-12 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Pieter Hintjens",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    509
+  ],
+  "description": "<p>Dive into &#216;MQ (aka ZeroMQ), the smart socket library that gives you fast, easy, message-based concurrency for your applications. With this quick-paced guide, you&#8217;ll learn hands-on how to use this scalable, lightweight, and highly flexible networking tool for exchanging messages among clusters, the cloud, and other multi-system environments.</p>"
+}

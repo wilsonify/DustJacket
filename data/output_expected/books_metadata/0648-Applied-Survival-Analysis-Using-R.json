@@ -1,0 +1,22 @@
+{
+  "book_id": 648,
+  "book_uuid": "edaf972d-d92e-497a-914c-a19e0bd5deb1",
+  "title": "Applied Survival Analysis Using R",
+  "pubdate": "2016-05-11 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Dirk F. Moore",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    202,
+    234,
+    236,
+    255,
+    256,
+    3154
+  ],
+  "description": "<div>\n<p>Applied Survival Analysis Using R covers the main principles of survival analysis, gives examples of how it is applied, and teaches how to put those principles to use to analyze data using R as a vehicle. Survival data, where the primary outcome is time to a specific event, arise in many areas of biomedical research, including clinical trials, epidemiological studies, and studies of animals. Many survival methods are extensions of techniques used in linear regression and categorical data, while other aspects of this field are unique to survival data. This text employs numerous actual examples to illustrate survival curve estimation, comparison of survivals of different groups, proper accounting for censoring and truncation, model variable selection, and residual analysis. </p>\n<p>Because explaining survival analysis requires more advanced mathematics than many other statistical topics, this book is organized with basic concepts and most frequently used procedures covered in earlier chapters, with more advanced topics near the end and in the appendices. A background in basic linear regression and categorical data analysis, as well as a basic knowledge of calculus and the R system, will help the reader to fully appreciate the information presented. Examples are simple and straightforward while still illustrating key points, shedding light on the application of survival analysis in a way that is useful for graduate students, researchers, and practitioners in biostatistics.</p></div>"
+}

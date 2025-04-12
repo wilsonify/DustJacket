@@ -1,0 +1,18 @@
+{
+  "book_id": 1228,
+  "book_uuid": "57039370-b8ff-4de9-91ca-1a1663a0cc46",
+  "title": "Spark in Action: Covers Apache Spark 3 With Examples in Java, Python, and Scala",
+  "pubdate": "2020-05-12 18:29:11.094681+00:00",
+  "isbn": "",
+  "author_name": "Jean-Georges Perrin",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    229,
+    230,
+    232
+  ],
+  "description": "<p>Summary The Spark distributed data processing platform provides an easy-to-implement tool for ingesting, streaming, and processing data from any source. In Spark in Action, Second Edition, you\u2019ll learn to take advantage of Spark\u2019s core features and incredible processing speed, with applications including real-time computation, delayed evaluation, and machine learning. Spark skills are a hot commodity in enterprises worldwide, and with Spark\u2019s powerful and flexible Java APIs, you can reap all the benefits without first learning Scala or Hadoop.  Foreword by Rob Thomas.  About the technology Analyzing enterprise data starts by reading, filtering, and merging files and streams from many sources. The Spark data processing engine handles this varied volume like a champ, delivering speeds 100 times faster than Hadoop systems. Thanks to SQL support, an intuitive interface, and a straightforward multilanguage API, you can use Spark without learning a complex new ecosystem.  About the book Spark in Action, Second Edition, teaches you to create end-to-end analytics applications. In this entirely new book, you\u2019ll learn from interesting Java-based examples, including a complete data pipeline for processing NASA satellite data. And you\u2019ll discover Java, Python, and Scala code samples hosted on GitHub that you can explore and adapt, plus appendixes that give you a cheat sheet for installing tools and understanding Spark-specific terms.  What's inside  Writing Spark applications in Java Spark application architecture Ingestion through files, databases, streaming, and Elasticsearch Querying distributed datasets with Spark SQL  About the reader This book does not assume previous experience with Spark, Scala, or Hadoop.  About the author Jean-Georges Perrin is an experienced data and software architect. He is France\u2019s first IBM Champion and has been honored for 12 consecutive years.  Table of Contents  PART 1 - THE THEORY CRIPPLED BY AWESOME EXAMPLES  1 So, what is Spark, anyway?  2 Architecture and flow  3 The majestic role of the dataframe  4 Fundamentally lazy  5 Building a simple app for deployment  6 Deploying your simple app  PART 2 - INGESTION  7 Ingestion from files  8 Ingestion from databases  9 Advanced ingestion: finding data sources and building  your own  10 Ingestion through structured streaming  PART 3 - TRANSFORMING YOUR DATA  11 Working with SQL  12 Transforming your data  13 Transforming entire documents  14 Extending transformations with user-defined functions  15 Aggregating your data  PART 4 - GOING FURTHER  16 Cache and checkpoint: Enhancing Spark\u2019s performances  17 Exporting data and building full data pipelines  18 Exploring deployment</p>"
+}

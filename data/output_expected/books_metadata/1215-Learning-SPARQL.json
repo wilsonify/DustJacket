@@ -1,0 +1,15 @@
+{
+  "book_id": 1215,
+  "book_uuid": "ff7eed89-c783-4842-9806-a54c3231dcac",
+  "title": "Learning SPARQL",
+  "pubdate": "2013-07-03 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Bob DuCharme",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    503
+  ],
+  "description": "<p>Get hands-on experience with SPARQL, the RDF query language. With this concise book, you will learn how to use the latest version of this W3C standard to retrieve and manipulate the increasing amount of public and private data available via SPARQL endpoints. Several open source and commercial tools already support SPARQL, and this introduction gets you started right away. Substantially expanded and updated to reflect SPARQL 1.1 Recommendation version of specifications.</p>"
+}

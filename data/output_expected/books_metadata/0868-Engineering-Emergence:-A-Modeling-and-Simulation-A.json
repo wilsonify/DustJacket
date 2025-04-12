@@ -1,0 +1,22 @@
+{
+  "book_id": 868,
+  "book_uuid": "786e1161-8af4-4f80-a5c3-6cf8ff429d80",
+  "title": "Engineering Emergence: A Modeling and Simulation Approach",
+  "pubdate": "2018-09-03 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Larry B. Rainey",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    211,
+    215,
+    221,
+    251,
+    560,
+    1780,
+    1781
+  ],
+  "description": "<div>\n<p>This book examines the nature of emergence in context of man-made (i.e. engineered) systems, in general, and system of systems engineering applications, specifically. It investigates emergence to interrogate or explore the domain space from a modeling and simulation perspective to facilitate understanding, detection, classification, prediction, control, and visualization of the phenomenon. Written by leading international experts, the text is the first to address emergence from an engineering perspective. \"System engineering has a long and proud tradition of establishing the integrative view of systems. The field, however, has not always embraced and assimilated well the lessons and implications from research on complex adaptive systems. As the editors' note, there have been no texts on Engineering Emergence: Principles and Applications. It is therefore especially useful to have this new, edited book that pulls together so many of the key elements, ranging from the theoretical to the practical, and tapping into advances in methods, tools, and ways to study system complexity. Drs. Rainey and Jamshidi are to be congratulated both for their vision of the book and their success in recruiting contributors with so much to say. Most notable, however, is that this is a book with engineering at its core. It uses modeling and simulation as the language in which to express principles and insights in ways that include tight thinking and rigor despite dealing with notably untidy and often surprising phenomena. </p>\n<p>\" -- Paul K. Davis, RAND and Frederick S. Pardee RAND Graduate School The first chapter is an introduction and overview to the text. The book provides 12 chapters that have a theoretical foundation for this subject. Includes 7 specific example chapters of how various modeling and simulation paradigms/techniques can be used to investigate emergence in an engineering context to facilitate understanding, detection, classification, prediction, control and visualization of emergent behavior. The final chapter offers lessons learned and the proposed way-ahead for this discipline.</p></div>"
+}

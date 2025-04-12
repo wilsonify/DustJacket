@@ -1,0 +1,20 @@
+{
+  "book_id": 669,
+  "book_uuid": "c4d4804f-a10d-468f-b783-f424cf2e2e44",
+  "title": "Handbook of Markov Chain Monte Carlo",
+  "pubdate": "2011-05-10 23:14:41.529350+00:00",
+  "isbn": "",
+  "author_name": "Steve Brooks",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    201,
+    202,
+    255,
+    256,
+    257
+  ],
+  "description": "<p>Since their popularization in the 1990s, Markov chain Monte Carlo (MCMC) methods have revolutionized statistical computing and have had an especially profound impact on the practice of Bayesian statistics. Furthermore, MCMC methods have enabled the development and use of intricate models in an astonishing array of disciplines as diverse as fisherie</p>"
+}

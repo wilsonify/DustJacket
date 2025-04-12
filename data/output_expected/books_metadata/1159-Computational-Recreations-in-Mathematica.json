@@ -1,0 +1,23 @@
+{
+  "book_id": 1159,
+  "book_uuid": "922223f6-fafe-44e6-8a5c-904df162d373",
+  "title": "Computational Recreations in Mathematica",
+  "pubdate": "1991-03-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Ilan Vardi",
+  "publisher_name": "Addison-Wesley",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    209,
+    223,
+    224,
+    226,
+    286,
+    3535
+  ],
+  "description": "<div>\n<p>Presents some common problems in mathematics and how they can be investigated using the Mathematica computer system. Problems and exercises include the calendar, sequences, the n-Queens problems, digital computing, blackjack and computing pi. This book is for those that would like to see how Mathematica is applied to real-world mathematics.</p></div>"
+}

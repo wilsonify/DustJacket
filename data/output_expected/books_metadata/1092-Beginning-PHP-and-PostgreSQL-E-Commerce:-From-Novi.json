@@ -1,0 +1,18 @@
+{
+  "book_id": 1092,
+  "book_uuid": "47686988-8082-4f8f-89f0-9e5fe2eb3201",
+  "title": "Beginning PHP and PostgreSQL E-Commerce: From Novice to Professional",
+  "pubdate": "2006-12-27 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Cristian Darie",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    207,
+    217
+  ],
+  "description": "<div>\n<p>The first book to show readers how to create a complete e-commerce driven website using two of the most popular open source technologies, PHP and PostgreSQL Adapted from the strong selling Beginning PHP 5 and MySQL E-Commerce, this book is based on a proven and popular instructional model. PostgreSQL, long the second most popular open source database in the world, has seen a significant resurgence in interest throughout 2005 due to software enhancements and considerable capital injections. It stands to reason already strong interest in this database will continue to grow for the foreseeable future.</p></div>"
+}

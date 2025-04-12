@@ -1,0 +1,21 @@
+{
+  "book_id": 64,
+  "book_uuid": "c59f13da-9844-491c-942b-7c9d985d5a07",
+  "title": "Machine Learning in Dentistry",
+  "pubdate": "2021-07-24 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Ching-Chang Ko",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    201,
+    202,
+    214,
+    234,
+    3587
+  ],
+  "description": "<div>\n<p>This book reviews all aspects of the use of machine learning in contemporary dentistry, clearly explaining its significance for dental imaging, oral diagnosis and treatment, dental designs, and dental research. Machine learning is an emerging field of artificial intelligence research and practice in which computer agents are employed to improve perception, cognition, and action based on their ability to \u201clearn\u201d, for example through use of big data techniques. Its application within dentistry is designed to promote personalized and precision patient care, with enhancement of diagnosis and treatment planning. In this book, readers will find up-to-date information on different machine learning tools and their applicability in various dental specialties. The selected examples amply illustrate the opportunities to employ a machine learning approach within dentistry while also serving to highlight the associated challenges. Machine Learning in Dentistry will be of value for alldental practitioners and researchers who wish to learn more about the potential benefits of using machine learning techniques in their work.</p></div>"
+}

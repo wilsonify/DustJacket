@@ -1,0 +1,19 @@
+{
+  "book_id": 85,
+  "book_uuid": "847900d8-e41e-4446-90a5-7ad89754bf69",
+  "title": "State Estimation in Chemometrics: The Kalman Filter and Beyond",
+  "pubdate": "2008-02-28 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Pierre C. Thijssen",
+  "publisher_name": "Elsevier Science",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    226,
+    255,
+    277,
+    278
+  ],
+  "description": "<div>\n<p>This unique text blends together state estimation and chemometrics for the application of advanced data-processing techniques. It further applies system theory in order to develop a modular framework to be implemented on computer for the development of simple intelligent analyzers. Short reviews on the history of state estimation and chemometrics are given, together with examples of the applications described, including classical estimation, state estimation, non-linear estimation, the multi-component, calibration and titration systems and the Kalman filter. The contents are very systematic and build the ideas up logically to appeal to specialist post-graduates working in this area, together with professionals in other areas of chemistry and engineering. Blends together state estimation and chemometrics for the application of advanced data-processing techniquesProvides short reviews on the history of state estimation and chemometrics, together with examples of the applications described</p></div>"
+}

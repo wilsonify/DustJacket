@@ -1,0 +1,19 @@
+{
+  "book_id": 1289,
+  "book_uuid": "b048e26e-a87b-4004-8d49-332472dd2d0a",
+  "title": "Python in a Nutshell",
+  "pubdate": "2003-03-15 20:19:30.187709+00:00",
+  "isbn": "",
+  "author_name": "Alex Martelli",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    226,
+    229,
+    232,
+    3198
+  ],
+  "description": "<p>Ask any Python aficionado and you'll hear that Python programmers have it all: an elegant language that offers object-oriented programming support, a readable, maintainable syntax, integration with C components, and an enormous collection of precoded standard library and extension modules. Moreover, Python is easy to learn but powerful enough to take on the most ambitious programming challenges. But what Python programmers have lacked is one concise and clear reference resource, with the appropriate measure of guidance in how best to use Python's great power. NowPython in a Nutshellfills this need. In the tradition of O'Reilly's \"In a Nutshell\" series, this book offers Python programmers one place to look when they need help remembering or deciphering the syntax of this open source language and its many modules. This comprehensive reference guide makes it easy to look up all the most frequently needed information--not just about the Python language itself, but also the most frequently used parts of the standard library and the most important third-party extensions. Python in a Nutshellfocuses on Python 2.2 (and all its point releases), currently the most stable and widespread Python release. This book includes:  A fast-paced tutorial on the syntax of the Python language itself An explanation of object-oriented programming in Python, covering both the classic and new-style object models Coverage of other core topics, including exceptions, modules, strings, and regular expressions A quick reference for Python's built-in types and functions, as well as the key modules in the Python standard library, including sys, os, time, thread, math, and socket, among many others Reference material on important third-party extensions, such as Numeric and Tkinter Information about extending Python and embedding it into other applications  Python in a Nutshellprovides a solid, no-nonsense quick reference to information that programmers rely on the most. This latest addition to the best-selling \"In a Nutshell\" series will immediately earn its place in any Python programmer's library.</p>"
+}

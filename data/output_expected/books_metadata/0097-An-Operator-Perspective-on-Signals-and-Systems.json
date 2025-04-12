@@ -1,0 +1,27 @@
+{
+  "book_id": 97,
+  "book_uuid": "9c9df335-efe9-412e-9c2d-2a74107e8940",
+  "title": "An Operator Perspective on Signals and Systems",
+  "pubdate": "2009-12-29 19:12:59.377054+00:00",
+  "isbn": "",
+  "author_name": "Arthur Frazho",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    40,
+    41,
+    79,
+    197,
+    201,
+    226,
+    255,
+    573,
+    1347,
+    3130,
+    3133,
+    3135,
+    3261
+  ],
+  "description": "<p>In this monograph, we combine operator techniques with state space methods to solve factorization, spectral estimation, and interpolation problems arising in control and signal processing. We present both the theory and algorithms with some Matlab code to solve these problems. A classical approach to spectral factorization problems in control theory is based on Riccati equations arising in linear quadratic control theory and Kalman ?ltering. One advantage of this approach is that it readily leads to algorithms in the non-degenerate case. On the other hand, this approach does not easily generalize to the nonrational case, and it is not always transparent where the Riccati equations are coming from. Operator theory has developed some elegant methods to prove the existence of a solution to some of these factorization and spectral estimation problems in a very general setting. However, these techniques are in general not used to develop computational algorithms. In this monograph, we will use operator theory with state space methods to derive computational methods to solve factorization, sp- tral estimation, and interpolation problems. It is emphasized that our approach is geometric and the algorithms are obtained as a special application of the theory. We will present two methods for spectral factorization. One method derives al- rithms based on ?nite sections of a certain Toeplitz matrix. The other approach uses operator theory to develop the Riccati factorization method. Finally, we use isometric extension techniques to solve some interpolation problems.</p>"
+}

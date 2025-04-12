@@ -1,0 +1,27 @@
+{
+  "book_id": 1337,
+  "book_uuid": "8fe0e1b4-23fb-4164-8bc7-d1d152b71d1b",
+  "title": "Let\u2019s Calculate Bach: Applying Information Theory and Statistics to Numbers in Music",
+  "pubdate": "2021-07-06 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Alan Shepherd",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    158,
+    197,
+    201,
+    248,
+    252,
+    261,
+    268,
+    286,
+    573,
+    752,
+    1347,
+    3130
+  ],
+  "description": "<div>\n<p>This book shows how information theory, probability, statistics, mathematics and personal computers can be applied to the exploration of numbers and proportions in music. It brings the methods of scientific and quantitative thinking to questions like: What are the ways of encoding a message in music and how can we be sure of the correct decoding? How do claims of names hidden in the notes of a score stand up to scientific analysis? How many ways are there of obtaining proportions and are they due to chance?After thoroughly exploring the ways of encoding information in music, the ambiguities of numerical alphabets and the words to be found \u201chidden\u201d in a score, the book presents a novel way of exploring the proportions in a composition with a purpose-built computer program and gives example results from the application of the techniques. These include information theory, combinatorics, probability, hypothesis testing, Monte Carlo simulation and Bayesian networks, presented in an easily understandable form including their development from ancient history through the life and times of J. S. Bach, making connections between science, philosophy, art, architecture, particle physics, calculating machines and artificial intelligence. For the practitioner the book points out the pitfalls of various psychological fallacies and biases and includes succinct points of guidance for anyone involved in this type of research. </p>\n<p>This book will be useful to anyone who intends to use a scientific approach to the humanities, particularly music, and will appeal to anyone who is interested in the intersection between the arts and science. </p>\n<p>With a foreword by Ruth Tatlow (Uppsala University), award winning author of Bach\u2019s Numbers: Compositional Proportion and Significance and Bach and the Riddle of the Number Alphabet. </p>\n<p>\u201cWith this study Alan Shepherd opens a much-needed examination of the wide range of mathematical claims that have been made about J. S. Bach's music, offering both tools and methodological cautions with the potential to help clarify old problems.\u201d Daniel R. Melamed, Professor of Music in Musicology, Indiana University</p></div>"
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 1137,
+  "book_uuid": "17058669-a196-41ed-b9ef-1880908f9027",
+  "title": "Introduction to Scientific Programming: Computational Problem Solving Using Maple and C",
+  "pubdate": "2012-12-06 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Joseph L. Zachary",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    79,
+    197,
+    199,
+    201,
+    217,
+    223,
+    224,
+    229,
+    3244
+  ],
+  "description": "<div>\n<p>\"Introduction to Computational Science\" was developed over a period of two years at the University of Utah Department of Computer Science in conjunction with the U.S. Department of Energy-funded Undergraduate Computation in Engineering Science (UCES) program. Each chapter begins by introducing a problem and then guiding the student through its solution. The computational techniques needed to solve the problem are developed as necassary, making the motivation for learning the computing alwasy apparent. Each chapter will introduce a single problem that will be used to motivate a single computing concept. The notes currently consist of 15 chapters. The first seven chapters deal with Maple and the last eight with C. The textbook will contain 20 to 30 chapters covering a similar mix of concepts at a finer level of detail.</p></div>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 53,
+  "book_uuid": "b0cc1df5-aa1f-4fea-93a5-6fb692155e36",
+  "title": "Algorithms for Decision Making",
+  "pubdate": "2022-08-16 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mykel J. Kochenderfer",
+  "publisher_name": "MIT Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    197,
+    199,
+    222,
+    223,
+    224,
+    225
+  ],
+  "description": "<div>\n<p>A broad introduction to algorithms for decision making under uncertainty, introducing the underlying mathematical problem formulations and the algorithms for solving them. </p>\n<p>Automated decision-making systems or decision-support systems\u2014used in applications that range from aircraft collision avoidance to breast cancer screening\u2014must be designed to account for various sources of uncertainty while carefully balancing multiple objectives. This textbook provides a broad introduction to algorithms for decision making under uncertainty, covering the underlying mathematical problem formulations and the algorithms for solving them. The book first addresses the problem of reasoning about uncertainty and objectives in simple decisions at a single point in time, and then turns to sequential decision problems in stochastic environments where the outcomes of our actions are uncertain. It goes on to address model uncertainty, when we do not start with a known model and must learn how to act through interaction with the environment; state uncertainty, in which we do not know the current state of the environment due to imperfect perceptual information; and decision contexts involving multiple agents. The book focuses primarily on planning and reinforcement learning, although some of the techniques presented draw on elements of supervised learning and optimization. Algorithms are implemented in the Julia programming language. Figures, examples, and exercises convey the intuition behind the various approaches presented.</p></div>"
+}
