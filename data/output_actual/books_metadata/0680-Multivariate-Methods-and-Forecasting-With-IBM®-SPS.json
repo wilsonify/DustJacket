@@ -1,0 +1,25 @@
+{
+  "book_id": 680,
+  "book_uuid": "fc18ab59-0720-4d88-9181-93d28166ab71",
+  "title": "Multivariate Methods and Forecasting With IBM\u00ae SPSS\u00ae Statistics",
+  "pubdate": "2017-07-06 14:12:20.295321+00:00",
+  "isbn": "",
+  "author_name": "Abdulkader Aljandali",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Business & Economics",
+    "Industries",
+    "Computers & Information Technology",
+    "Statistics",
+    "Applied",
+    "Corporate Finance",
+    "Business Mathematics",
+    "Accounting"
+  ],
+  "description": "<p>This is the second of a two-part guide to quantitative analysis using the IBM SPSS Statistics software package; this volume focuses on multivariate statistical methods and advanced forecasting techniques. More often than not, regression models involve more than one independent variable. For example, forecasting methods are commonly applied to aggregates such as inflation rates, unemployment, exchange rates, etc., that have complex relationships with determining variables. This book introduces multivariate regression models and provides examples to help understand theory underpinning the model. The book presents the fundamentals of multivariate regression and then moves on to examine several related techniques that have application in business-orientated fields such as logistic and multinomial regression. Forecasting tools such as the Box-Jenkins approach to time series modeling are introduced, as well as exponential smoothing and na\u00efve techniques. This part also covers hot topics such as Factor Analysis, Discriminant Analysis and Multidimensional Scaling (MDS).</p>"
+}

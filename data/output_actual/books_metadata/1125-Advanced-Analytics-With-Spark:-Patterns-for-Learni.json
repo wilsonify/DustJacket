@@ -1,0 +1,22 @@
+{
+  "book_id": 1125,
+  "book_uuid": "89be186f-c905-4a90-8b51-08e4d82b56f5",
+  "title": "Advanced Analytics With Spark: Patterns for Learning From Data at Scale",
+  "pubdate": "2017-06-12 20:47:28.880942+00:00",
+  "isbn": "",
+  "author_name": "Josh Wills",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Data Analytics",
+    "Programming",
+    "Algorithms",
+    "Data Modeling & Design",
+    "Distributed Systems"
+  ],
+  "description": "<p>In the second edition of this practical book, four Cloudera data scientists present a set of self-contained patterns for performing large-scale data analysis with Spark. The authors bring Spark, statistical methods, and real-world data sets together to teach you how to approach analytics problems by example. Updated for Spark 2.1, this edition acts as an introduction to these techniques and other best practices in Spark programming.</p>\n\n<p>You\u2019ll start with an introduction to Spark and its ecosystem, and then dive into patterns that apply common techniques\u2014including classification, clustering, collaborative filtering, and anomaly detection\u2014to fields such as genomics, security, and finance.</p>\n\n<p>If you have an entry-level understanding of machine learning and statistics, and you program in Java, Python, or Scala, you\u2019ll find the book\u2019s patterns useful for working on your own data applications.</p>\n\n<p>With this book, you will:Familiarize yourself with the Spark programming modelBecome comfortable within the Spark ecosystemLearn general approaches in data scienceExamine complete implementations that analyze large public data setsDiscover which machine learning tools make sense for particular problemsAcquire code that can be adapted to many uses</p>"
+}

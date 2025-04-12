@@ -1,0 +1,20 @@
+{
+  "book_id": 663,
+  "book_uuid": "13e9a6af-f9b3-4030-b852-14444a8db1ba",
+  "title": "Multivariate Time Series Analysis and Applications",
+  "pubdate": "2018-12-31 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "William W. S. Wei",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Stochastic Processes",
+    "Multivariate Analysis",
+    "Time Series"
+  ],
+  "description": "<div>\n<p>An essential guide on high dimensional multivariate time series including all the latest topics from one of the leading experts in the field Following the highly successful and much lauded book, Time Series Analysis\u2014Univariate and Multivariate Methods, this new work by William W.S. Wei focuses on high dimensional multivariate time series, and is illustrated with numerous high dimensional empirical time series. Beginning with the fundamentalconcepts and issues of multivariate time series analysis,this book covers many topics that are not found in general multivariate time series books. Some of these are repeated measurements, space-time series modelling, and dimension reduction. The book also looks at vector time series models, multivariate time series regression models, and principle component analysis of multivariate time series. Additionally, it provides readers with information on factor analysis of multivariate time series, multivariate GARCH models, and multivariate spectral analysis of time series. With the development of computers and the internet, we have increased potential for data exploration. In the next few years, dimension will become a more serious problem. Multivariate Time Series Analysis and its Applications provides some initial solutions, which may encourage the development of related software needed for the high dimensional multivariate time series analysis. Written by bestselling author and leading expert in the field Covers topics not yet explored in current multivariate books Features classroom tested material Written specifically for time series courses Multivariate Time Series Analysis and its Applications is designed for an advanced time series analysis course. It is a must-have for anyone studying time series analysis and is also relevant for students in economics, biostatistics, and engineering.</p></div>"
+}

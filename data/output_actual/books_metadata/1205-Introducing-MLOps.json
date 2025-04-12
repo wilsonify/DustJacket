@@ -1,0 +1,13 @@
+{
+  "book_id": 1205,
+  "book_uuid": "541ed990-d2c7-4785-965c-e77f19c098ca",
+  "title": "Introducing MLOps",
+  "pubdate": "2020-12-07 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mark Treveil",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>More than half of the analytics and machine learning (ML) models created by organizations today never make it into production. Some of the challenges and barriers to operationalization are technical, but others are organizational. Either way, the bottom line is that models not in production can't provide business impact.</p><p>This book introduces the key concepts of MLOps to help data scientists and application engineers not only operationalize ML models to drive real business change but also maintain and improve those models over time. Through lessons based on numerous MLOps applications around the world, nine experts in machine learning provide insights into the five steps of the model life cycle--Build, Preproduction, Deployment, Monitoring, and Governance--uncovering how robust MLOps processes can be infused throughout.</p><p>This book helps you:</p><ul><li>Fulfill data science value by reducing friction throughout ML pipelines and workflows</li><li>Refine ML models through retraining, periodic tuning, and complete remodeling to ensure long-term accuracy</li><li>Design the MLOps life cycle to minimize organizational risks with models that are unbiased, fair, and explainable</li><li>Operationalize ML models for pipeline deployment and for external business systems that are more complex and less standardized</li></ul></div></span>"
+}

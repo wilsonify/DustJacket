@@ -1,0 +1,13 @@
+{
+  "book_id": 1242,
+  "book_uuid": "63fa51c4-d3b1-40bd-8099-7af66025f0fe",
+  "title": "Architecture Patterns with Python",
+  "pubdate": "2020-03-12 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Bob Gregory",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>As Python continues to grow in popularity, projects are becoming larger and more complex. Many Python developers are now taking an interest in high-level software design patterns such as hexagonal/clean architecture, event-driven architecture, and the strategic patterns prescribed by domain-driven design (DDD). But translating those patterns into Python isn\u2019t always straightforward.</p><p>With this hands-on guide, Harry Percival and Bob Gregory from MADE.com introduce proven architectural design patterns to help Python developers manage application complexity\u2014and get the most value out of their test suites.</p><p>Each pattern is illustrated with concrete examples in beautiful, idiomatic Python, avoiding some of the verbosity of Java and C# syntax. Patterns include:</p><ul><li>Dependency inversion and its links to ports and adapters (hexagonal/clean architecture)</li><li>Domain-driven design\u2019s distinction between entities, value objects, and aggregates</li><li>Repository and Unit of Work patterns for persistent storage</li><li>Events, commands, and the message bus</li><li>Command-query responsibility segregation (CQRS)</li><li>Event-driven architecture and reactive microservices</li></ul></div></span>"
+}

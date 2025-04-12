@@ -1,0 +1,19 @@
+{
+  "book_id": 14,
+  "book_uuid": "b0b6b27c-0e9f-4e13-b750-a7cec1b702a1",
+  "title": "JMP 11 Quality and Process Methods",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<div>\n<p>Quality and Process Methods describes tools for evaluating and improving processes. The book begins by discussing creating control charts, which let you visualize process measurements over time, quantify common cause variation, and identify special cause variation. Details about estimating your process capability based on measurement systems analysis studies are included. Lastly, the book discusses Pareto plots and cause-and-effect diagrams to identify root causes of variability.</p></div>"
+}

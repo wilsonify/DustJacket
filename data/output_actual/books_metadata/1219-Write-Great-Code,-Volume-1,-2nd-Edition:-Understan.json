@@ -1,0 +1,20 @@
+{
+  "book_id": 1219,
+  "book_uuid": "26341c64-9989-4b04-927f-7431441507ac",
+  "title": "Write Great Code, Volume 1, 2nd Edition: Understanding the Machine",
+  "pubdate": "2020-07-31 14:34:51.269831+00:00",
+  "isbn": "",
+  "author_name": "Randall Hyde",
+  "publisher_name": "No Starch Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Languages",
+    "Machine Theory",
+    "Assembly Language"
+  ],
+  "description": "<p>Understanding the Machine, the first volume in the landmark Write Great Code series by Randall Hyde, explains the underlying mechanics of how a computer works.</p>\n\n<p>This, the first volume in Randall Hyde's Write Great Code series, dives into machine organization without the extra overhead of learning assembly language programming. Written for high-level language programmers, Understanding the Machine fills in the low-level details of machine organization that are often left out of computer science and engineering courses. Learn:How the machine represents numbers, strings, and high-level data structures, so you'll know the inherent cost of using them.</p>\n\n<p>How to organize your data, so the machine can access it efficiently.</p>\n\n<p>How the CPU operates, so you can write code that works the way the machine does.</p>\n\n<p>How I/O devices operate, so you can maximize your application's performance when accessing those devices.</p>\n\n<p>How to best use the memory hierarchy to produce the fastest possible programs.</p>\n\n<p>Great code is efficient code. But before you can write truly efficient code, you must understand how computer systems execute programs and how abstractions in programming languages map to the machine's low-level hardware. After all, compilers don't write the best machine code; programmers do. This book gives you the foundation upon which all great software is built.</p>\n\n<p>NEW IN THIS EDITION, COVERAGE OF:Programming languages like Swift and JavaCode generation on modern 64-bit CPUsARM processors on mobile phones and tabletsNewer peripheral devicesLarger memory systems and large-scale SSDs</p>"
+}

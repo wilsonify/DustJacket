@@ -1,0 +1,19 @@
+{
+  "book_id": 1126,
+  "book_uuid": "6e80c596-9844-4d0e-9037-f487f2f68f6b",
+  "title": "Learn Quantum Computing With Python and Q#: A Hands-On Approach",
+  "pubdate": "2021-07-27 20:03:05.875358+00:00",
+  "isbn": "",
+  "author_name": "Sarah C. Kaiser",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Languages",
+    "Python",
+    "MEAP Version 5",
+    "Quantum Computing"
+  ],
+  "description": "<p>Learn Quantum Computing with Python and Q# introduces quantum computing from a practical perspective.</p>\n\n<p>Summary  Learn Quantum Computing with Python and Q# demystifies quantum computing. Using Python and the new quantum programming language Q#, you\u2019ll build your own quantum simulator and apply quantum programming techniques to real-world examples including cryptography and chemical analysis.  Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.  About the technology  Quantum computers present a radical leap in speed and computing power. Improved scientific simulations and new frontiers in cryptography that are impossible with classical computing may soon be in reach. Microsoft\u2019s Quantum Development Kit and the Q# language give you the tools to experiment with quantum computing without knowing advanced math or theoretical physics.  About the book  Learn Quantum Computing with Python and Q# introduces quantum computing from a practical perspective. Use Python to build your own quantum simulator and take advantage of Microsoft\u2019s open source tools to fine-tune quantum algorithms. The authors explain complex math and theory through stories, visuals, and games. You\u2019ll learn to apply quantum to real-world applications, such as sending secret messages and solving chemistry problems.  What's inside  The underlying mechanics of quantum computers Simulating qubits in Python Exploring quantum algorithms with Q# Applying quantum computing to chemistry, arithmetic, and data  About the reader  For software developers. No prior experience with quantum computing required.  About the author  Dr. Sarah Kaiser works at the Unitary Fund, a non-profit organization supporting the quantum open-source ecosystem, and is an expert in building quantum tech in the lab. Dr. Christopher Granade works in the Quantum Systems group at Microsoft, and is an expert in characterizing quantum devices.  Table of Contents  PART 1 GETTING STARTED WITH QUANTUM 1 Introducing quantum computing 2 Qubits: The building blocks 3 Sharing secrets with quantum key distribution 4 Nonlocal games: Working with multiple qubits 5 Nonlocal games: Implementing a multi-qubit simulator 6 Teleportation and entanglement: Moving quantum data around PART 2 PROGRAMMING QUANTUM ALGORITHMS IN Q# 7 Changing the odds: An introduction to Q# 8 What is a quantum algorithm? 9 Quantum sensing: It\u2019s not just a phase PART 3 APPLIED QUANTUM COMPUTING 10 Solving chemistry problems with quantum computers 11 Searching with quantum computers 12 Arithmetic with quantum computers</p>"
+}

@@ -1,0 +1,21 @@
+{
+  "book_id": 682,
+  "book_uuid": "07aaabfe-4d61-4d95-9909-ea9594ac3a0c",
+  "title": "Bayesian Networks in R: With Applications in Systems Biology",
+  "pubdate": "2014-07-08 14:12:24.519339+00:00",
+  "isbn": "",
+  "author_name": "Radhakrishnan Nagarajan",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Languages",
+    "Stochastic Processes",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<p>Bayesian Networks in R with Applications in Systems Biology is unique as it introduces the reader to the essential concepts in Bayesian network modeling and inference in conjunction with examples in the open-source statistical environment R. The level of sophistication is also gradually increased across the chapters with exercises and solutions for enhanced understanding for hands-on experimentation of the theory and concepts. The application focuses on systems biology with emphasis on modeling pathways and signaling mechanisms from high-throughput molecular data. Bayesian networks have proven to be especially useful abstractions in this regard. Their usefulness is especially exemplified by their ability to discover new associations in addition to validating known ones across the molecules of interest. It is also expected that the prevalence of publicly available high-throughput biological data sets may encourage the audience to explore investigating novel paradigms using the approaches presented in the book.</p>"
+}

@@ -1,0 +1,28 @@
+{
+  "book_id": 1243,
+  "book_uuid": "f3898208-6344-470f-83e3-56f635f0022d",
+  "title": "Data Governance: The Definitive Guide: People, Processes, and Tools to Operationalize Data Trustworthiness",
+  "pubdate": "2021-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Evren Eryurek",
+  "publisher_name": "O'Reilly Media, Incorporated",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Machine Learning",
+    "Computer Science",
+    "Business & Economics",
+    "Industries",
+    "Computers & Information Technology",
+    "Leadership",
+    "Data Modeling & Design",
+    "Distributed Systems",
+    "Data Warehousing",
+    "Cloud Computing",
+    "Commerce"
+  ],
+  "description": "<div>\n<p>As you move data to the cloud, you need to consider a comprehensive approach to data governance, along with well-defined and agreed-upon policies to ensure your organization meets compliance requirements. Data governance incorporates the ways people, processes, and technology work together to ensure data is trustworthy and can be used effectively. This practical guide shows you how to effectively implement and scale data governance throughout your organization. Chief information, data, and security officers and their teams will learn strategy and tooling to support democratizing data and unlocking its value while enforcing security, privacy, and other governance standards. Through good data governance, you can inspire customer trust, enable your organization to identify business efficiencies, generate more competitive offerings, and improve customer experience. This book shows you how. You'll learn: Data governance strategies addressing people, processes, and tools Benefits and challenges of a cloud-based data governance approach How data governance is conducted from ingest to preparation and use How to handle the ongoing improvement of data quality Challenges and techniques in governing streaming data Data protection for authentication, security, backup, and monitoring How to build a data culture in your organization</p></div>"
+}

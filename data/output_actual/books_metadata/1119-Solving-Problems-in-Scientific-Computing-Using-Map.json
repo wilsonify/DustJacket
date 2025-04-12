@@ -1,0 +1,20 @@
+{
+  "book_id": 1119,
+  "book_uuid": "ec3b8b64-3bba-451c-b3f2-8bdde86b6651",
+  "title": "Solving Problems in Scientific Computing Using Maple and MATLAB",
+  "pubdate": "1995-03-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Walter Gander",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Mathematical & Statistical Software",
+    "Science",
+    "Physics"
+  ],
+  "description": "<div>\n<p>Modern computing tools like Maple (symbolic computation) and MATLAB (a numeric computation and visualization program) make it possible to easily solve realistic nontrivial problems in scientific computing. In education, traditionally, complicated problems were avoided, since the amount of work for obtaining the solutions was not feasible for students. This situation has changed now, and students can be taught real-life problems that they can actually solve using the new powerful software. The reader will improve his knowledge through learning by examples and he will learn how both systems, MATLAB and Maple, may be used to solve problems interactively in an elegant way. Readers will learn to solve similar problems by understanding and applying the techniques presented in the book. All programs can be obtained from a server at ETH Zurich.</p></div>"
+}

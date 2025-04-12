@@ -1,0 +1,17 @@
+{
+  "book_id": 2961,
+  "book_uuid": "27514b4a-1701-491d-9e4b-621eeccd4ea7",
+  "title": "Machine Learning for Business: Using Amazon SageMaker and Jupyter",
+  "pubdate": "2019-12-24 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Doug Hudgeon",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Data Science",
+    "Neural Networks"
+  ],
+  "description": "<div>\n<p>Summary Imagine predicting which customers are thinking about switching to a competitor or flagging potential process failures before they happen Think about the benefits of forecasting tedious business processes and back-office tasks Envision quickly gauging customer sentiment from social media content (even large volumes of it). Consider the competitive advantage of making decisions when you know the most likely future events Machine learning can deliver these and other advantages to your business, and it\u2019s never been easier to get started! Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology Machine learning can deliver huge benefits for everyday business tasks. With some guidance, you can get those big wins yourself without complex math or highly paid consultants! If you can crunch numbers in Excel, you can use modern ML services to efficiently direct marketing dollars, identify and keep your best customers, and optimize back office processes. This book shows you how. About the book Machine Learning for Business teaches business-oriented machine learning techniques you can do yourself. Concentrating on practical topics like customer retention, forecasting, and back office processes, you\u2019ll work through six projects that help you form an ML-for-business mindset. To guarantee your success, you\u2019ll use the Amazon SageMaker ML service, which makes it a snap to turn your questions into results. What's inside Identifying tasks suited to machine learning Automating back office processes Using open source and cloud-based tools Relevant case studies About the reader For technically inclined business professionals or business application developers. About the author Doug Hudgeon and Richard Nichol specialize in maximizing the value of business data through AI and machine learning for companies of any size. Table of Contents: PART 1 MACHINE LEARNING FOR BUSINESS 1 \u00a6 How machine learning applies to your business PART 2 SIX SCENARIOS: MACHINE LEARNING FOR BUSINESS 2 \u00a6 Should you send a purchase order to a technical approver? 3 \u00a6 Should you call a customer because they are at risk of churning? 4 \u00a6 Should an incident be escalated to your support team? 5 \u00a6 Should you question an invoice sent by a supplier? 6 \u00a6 Forecasting your company\u2019s monthly power usage 7 \u00a6 Improving your company\u2019s monthly power usage forecast PART 3 MOVING MACHINE LEARNING INTO PRODUCTION 8 \u00a6 Serving predictions over the web 9 \u00a6 Case studies</p></div>"
+}

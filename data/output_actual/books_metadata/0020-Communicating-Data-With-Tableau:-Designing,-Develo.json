@@ -1,0 +1,13 @@
+{
+  "book_id": 20,
+  "book_uuid": "fae61874-1983-4c54-83aa-f48db78b4d92",
+  "title": "Communicating Data With Tableau: Designing, Developing, and Delivering Data Visualizations",
+  "pubdate": "2014-07-03 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Ben Jones",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p>Go beyond spreadsheets and tables and design a data presentation that really makes an impact. This practical guide shows you how to use Tableau Software to convert raw data into compelling data visualizations that provide insight or allow viewers to explore the data for themselves.</p>\n<p>Ideal for analysts, engineers, marketers, journalists, and researchers, this book describes the principles of communicating data and takes you on an in-depth tour of common visualization methods. You\u2019ll learn how to craft articulate and creative data visualizations with Tableau Desktop 8.1 and Tableau Public 8.1.</p>\n<ul>\n<li>Present comparisons of how much and how many</li>\n<li>Use blended data sources to create ratios and rates</li>\n<li>Create charts to depict proportions and percentages</li>\n<li>Visualize measures of mean, median, and mode</li>\n<li>Lean how to deal with variation and uncertainty</li>\n<li>Communicate multiple quantities in the same view</li>\n<li>Show how quantities and events change over time</li>\n<li>Use maps to communicate positional data</li>\n<li>Build dashboards to combine several visualizations</li>\n</ul>\n<p>**</p></html>"
+}

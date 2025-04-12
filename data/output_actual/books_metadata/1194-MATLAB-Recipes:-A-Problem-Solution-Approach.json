@@ -1,0 +1,19 @@
+{
+  "book_id": 1194,
+  "book_uuid": "0814fe4f-a87a-41fc-bf48-e5a1a48b70a8",
+  "title": "MATLAB Recipes: A Problem-Solution Approach",
+  "pubdate": "2015-11-23 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Michael Paluszek",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Programming",
+    "Mathematical & Statistical Software",
+    "Programming Languages"
+  ],
+  "description": "<div>\n<p>Learn from state-of-the-art examples in robotics, motors, detection filters, chemical processes, aircraft, and spacecraft. This is a practical reference for industry engineers using MATLAB to solve everyday problems. With MATLAB Recipes: A Problem-Solution Approach you will review contemporary MATLAB coding including the latest language features and use MATLAB as a software development environment including code organization, GUI development, and algorithm design and testing. This book provides practical guidance for using MATLAB to build a body of code you can turn to time and again for solving technical problems in your line of work. Develop algorithms, test them, visualize the results, and pass the code along to others to create a functional code base for your firm.</p></div>"
+}

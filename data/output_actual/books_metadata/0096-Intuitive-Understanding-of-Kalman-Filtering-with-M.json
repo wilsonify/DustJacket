@@ -1,0 +1,20 @@
+{
+  "book_id": 96,
+  "book_uuid": "fdda5a13-079c-4ddc-a9bb-f32646d9594d",
+  "title": "Intuitive Understanding of Kalman Filtering with MATLAB\u00ae",
+  "pubdate": "2021-02-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Armando Barreto",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "game design",
+    "multimedia",
+    "retention",
+    "game development",
+    "player outreach",
+    "player communication"
+  ],
+  "description": "The emergence of affordable micro sensors, such as MEMS Inertial Measurement Systems, which are being applied in embedded systems and Internet-of-Things devices, has brought techniques such as Kalman Filtering, capable of combining information from multiple sensors or sources, to the interest of students and hobbyists. This will book will develop just the necessary background concepts, helping a much wider audience of readers develop an understanding and intuition that will enable them to follow the explanation for the Kalman Filtering algorithm. Key Features:\nProvides intuitive understanding of Kalman Filtering approach Succinct overview of concepts to enhance accessibility and appeal to wide audience Interactive learning techniques with code examples"
+}

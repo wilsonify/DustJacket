@@ -1,0 +1,22 @@
+{
+  "book_id": 1173,
+  "book_uuid": "edd35e95-0b7f-43a9-9c91-ccea56ae0a38",
+  "title": ". NET Core in Action",
+  "pubdate": "2018-08-03 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Dustin Metzgar",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Business & Productivity Software",
+    "Software Development & Engineering",
+    "Programming",
+    "Languages",
+    "Computer Architecture",
+    "C#"
+  ],
+  "description": "<div>\n<p>Summary .NET Core in Action shows .NET developers how to build professional software applications with .NET Core. Learn how to convert existing .NET code to work on multiple platforms or how to start new projects with knowledge of the tools and capabilities of .NET Core. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the Technology .NET Core is an open source framework that lets you write and run .NET applications on Linux and Mac, without giving up on Windows. Built for everything from lightweight web apps to industrial-strength distributed systems, it's perfect for deploying .NET servers to any cloud platform, including AWS and GCP. About the Book .NET Core in Action introduces you to cross-platform development with .NET Core. This hands-on guide concentrates on new Core features as you walk through familiar tasks like testing, logging, data access, and networking. As you go, you'll explore modern architectures like microservices and cloud data storage, along with practical matters like performance profi ling, localization, and signing assemblies. What's Inside Choosing the right tools Testing, profiling, and debugging Interacting with web services Converting existing projects to .NET Core Creating and using NuGet packages About the Reader All examples are in C#. About the Author Dustin Metzgar is a seasoned developer and architect involved in numerous .NET Core projects. Dustin works for Microsoft. Table of Contents Why .NET Core? Building your first .NET Core applications How to build with .NET Core Unit testing with xUnit Working with relational databases Simplify data access with object-relational mappers Creating a microservice Debugging Performance and profiling Building world-ready applications Multiple frameworks and runtimes Preparing for release appendix A - Frameworks and runtimes appendix B - xUnit command-line options appendix C - What's in the .NET Standard Library? appendix D - NuGet cache locations</p></div>"
+}

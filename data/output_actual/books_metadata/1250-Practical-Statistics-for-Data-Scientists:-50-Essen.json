@@ -1,0 +1,19 @@
+{
+  "book_id": 1250,
+  "book_uuid": "4fc9379b-cd73-4e3c-ae0d-e6a2ba93b19d",
+  "title": "Practical Statistics for Data Scientists: 50 Essential Concepts",
+  "pubdate": "2017-05-10 20:35:28.892328+00:00",
+  "isbn": "",
+  "author_name": "Peter Bruce",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Database Administration & Management",
+    "Data Warehousing"
+  ],
+  "description": "<p>Statistical methods are a key part of of data science, yet very few data scientists have any formal statistics training. Courses and books on basic statistics rarely cover the topic from a data science perspective. This practical guide explains how to apply various statistical methods to data science, tells you how to avoid their misuse, and gives you advice on what's important and what's not.</p>\n\n<p>Many data science resources incorporate statistical methods but lack a deeper statistical perspective. If you\u2019re familiar with the R programming language, and have some exposure to statistics, this quick reference bridges the gap in an accessible, readable format.</p>\n\n<p>With this book, you\u2019ll learn:Why exploratory data analysis is a key preliminary step in data scienceHow random sampling can reduce bias and yield a higher quality dataset, even with big dataHow the principles of experimental design yield definitive answers to questionsHow to use regression to estimate outcomes and detect anomaliesKey classification techniques for predicting which categories a record belongs toStatistical machine learning methods that \u201clearn\u201d from dataUnsupervised learning methods for extracting meaning from unlabeled data</p>"
+}

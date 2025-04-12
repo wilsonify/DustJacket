@@ -1,0 +1,20 @@
+{
+  "book_id": 1134,
+  "book_uuid": "2d3631b6-c182-48ea-92f5-8c8804d857b9",
+  "title": "Programming Rust: Fast, Safe Systems Development",
+  "pubdate": "2017-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jim Blandy",
+  "publisher_name": "O'Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Programming",
+    "Computer Science",
+    "Languages",
+    "Object Oriented"
+  ],
+  "description": "<div>\n<p>Rust is a new systems programming language that combines the performance and low-level control of C and C++ with memory safety and thread safety. Rust's modern, flexible types ensure your program is free of null pointer dereferences, double frees, dangling pointers, and similar bugs, all at compile time, without runtime overhead. In multi-threaded code, Rust catches data races at compile time, making concurrency much easier to use. </p>\n<p>Written by two experienced systems programmers, this book explains how Rust manages to bridge the gap between performance and safety, and how you can take advantage of it. Topics include: How Rust represents values in memory (with diagrams)Complete explanations of ownership, moves, borrows, and lifetimesCargo, rustdoc, unit tests, and how to publish your code on crates.io, Rust's public package repositoryHigh-level features like generic code, closures, collections, and iterators that make Rust productive and flexibleConcurrency in Rust: threads, mutexes, channels, and atomics, all much safer to use than in C or C++Unsafe code, and how to preserve the integrity of ordinary code that uses itExtended examples illustrating how pieces of the language fit together</p></div>"
+}

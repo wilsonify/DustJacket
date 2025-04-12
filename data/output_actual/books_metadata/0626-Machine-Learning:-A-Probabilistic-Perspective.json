@@ -1,0 +1,22 @@
+{
+  "book_id": 626,
+  "book_uuid": "6251b67c-95a7-4864-8cb9-bfea7b9dadc1",
+  "title": "Machine Learning: A Probabilistic Perspective",
+  "pubdate": "2012-08-24 23:14:33.012121+00:00",
+  "isbn": "",
+  "author_name": "Kevin P. Murphy",
+  "publisher_name": "MIT Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Mathematics",
+    "Machine Learning",
+    "Computer Vision & Pattern Recognition",
+    "Algebra",
+    "Linear"
+  ],
+  "description": "<p>A comprehensive introduction to machine learning that uses probabilistic models and inference as a unifying approach.</p>\n\n<p>Today's Web-enabled deluge of electronic data calls for automated methods of data analysis. Machine learning provides these, developing methods that can automatically detect patterns in data and then use the uncovered patterns to predict future data. This textbook offers a comprehensive and self-contained introduction to the field of machine learning, based on a unified, probabilistic approach.</p>\n\n<p>The coverage combines breadth and depth, offering necessary background material on such topics as probability, optimization, and linear algebra as well as discussion of recent developments in the field, including conditional random fields, L1 regularization, and deep learning. The book is written in an informal, accessible style, complete with pseudo-code for the most important algorithms. All topics are copiously illustrated with color images and worked examples drawn from such application domains as biology, text processing, computer vision, and robotics. Rather than providing a cookbook of different heuristic methods, the book stresses a principled model-based approach, often using the language of graphical models to specify models in a concise and intuitive way. Almost all the models described have been implemented in a MATLAB software package\u2014PMTK (probabilistic modeling toolkit)\u2014that is freely available online. The book is suitable for upper-level undergraduates with an introductory-level college math background and beginning graduate students.</p>"
+}

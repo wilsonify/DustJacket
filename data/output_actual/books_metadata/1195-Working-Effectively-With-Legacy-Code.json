@@ -1,0 +1,19 @@
+{
+  "book_id": 1195,
+  "book_uuid": "9b314abf-4cf3-490e-9220-b7d901ba9f32",
+  "title": "Working Effectively With Legacy Code",
+  "pubdate": "2004-03-15 19:42:09.058181+00:00",
+  "isbn": "",
+  "author_name": "Michael C. Feathers",
+  "publisher_name": "Prentice Hall",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Quality Assurance & Testing"
+  ],
+  "description": "<p>\u00cdndice: Preface.</p>\n\n<p>Introduction.</p>\n\n<p>I. THE MECHANICS OF CHANGE. 1. Changing Software. 2. Working with Feedback. 3. Sensing and Separation. 4. The Seam Model. 5. Tools.</p>\n\n<p>II. CHANGING SOFTWARE. 6. I Don't Have Much Time and I Have To Change It. 7. It Takes Forever To Make a Change. 8. How Do I Add a Feature? 9. I Can't Get This Class into a Test Harness.10. I Can't Run This Method into a Test Harness.11. I Need to Make a Change.</p>\n\n<p>What Methods Should I Test?12. I Need to Make Many Changes In One Area Do I Have To Break. 13. I Need To Make a Change but I Don't Know What Tests To Write.14. Dependencies on Libraries Are Killing Me.15. My Application Is All API Calls.16. I Don't Understand the Code Well Enough To Change It.17. My Application Has No Structure.18. My Test Code Is in the Way.19. My Project Is Not Object-Oriented.</p>\n\n<p>How Do I Make Safe Changes?20. This Class Is Too Big and I Don't Want It to Get Any Bigger.21. I'm Changing The Same Code All Over the Place.22. I Need To Change a Monster Method and I Can't Write Tests for It.23. How Do I Know That I'm Not Breaking Anything?24. We Feel Overwhelmed. It Isn't Going To Get Any Better.</p>\n\n<p>III. DEPENDENCY BREAKING TECHNIQUES.25. Dependency Breaking Techniques.</p>\n\n<p>Appendix: Refactoring.</p>\n\n<p>Glossary.</p>"
+}

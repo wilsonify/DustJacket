@@ -1,0 +1,22 @@
+{
+  "book_id": 1292,
+  "book_uuid": "0e477be3-9b6c-40f1-9917-d16f09afb0d5",
+  "title": "Reactive Programming With Scala and Akka",
+  "pubdate": "2016-03-15 23:18:42.957147+00:00",
+  "isbn": "",
+  "author_name": "Prasanna Kumar Sathyanarayanan",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Languages",
+    "Java",
+    "Distributed Systems",
+    "Tools"
+  ],
+  "description": "<p>Harness reactive programming to build scalable and fault-tolerant distributed systems using Scala and AkkaAbout This Book- Use the concepts of reactive programming to build distributed systems running on multiple nodes- Get to grips with the full range of Akka features including the upcoming and cutting edge experimental modules- A comprehensive coverage of the principles of FRP with real-world use cases to solve scalability issues Who This Book Is ForIf you are a developer who is passionate about building fault-tolerant, scalable distributed applications using Scala and Akka, then this book will give you a jump start. You should be familiar with Scala, but no prior knowledge of Akka and reactive programming is required.</p>\n\n<p>What You Will Learn- Explore functional programming using Scala- Design an asynchronous, non-blocking shopping cart application using Futures- Understand the Akka actor model and the relationship between actors and threads- Use the Actor Supervision feature to build a fault tolerant and resilient application- Create your own distributed system framework using an Akka cluster- Take a look under the hood to gain perspective on the Akka engine- See a comprehensive case study of a key value store with concurrent reads and writes- Model a finite state machine using state-driven actorsIn DetailToday's web-based applications need to scale quickly to tackle the demands of modern users. Reactive programming is the solution developed to ensure the fault tolerant and robust scaling that is essential for professional applications. Reactive programming in Scala and Akka provides a great platform to develop low latency resilient, concurrent Internet scale applications on the Java Virtual Machine.</p>\n\n<p>This comprehensive guide will help you get to grips with the concepts of reactive programming in order to build a robust distributed system in Scala and Akka. Written in two parts, you will first take a walkthrough of the reactive, asynchronous, and functional concepts in Scala before focusing on Akka and getting to grips with the details of real-world use cases.</p>\n\n<p>Begin with an introduction into functional reactive programming, before moving on to writing asynchronous application with non-blocking constructs in Scala. Get familiar with the concept of actor-based concurrency using Akka, and features such as Akka remoting, routing, and persistence capabilities to build distributed applications. Learn to scale applications using a multi-node Akka cluster and unit test Akka actors and get to grips with state machines and how to implement state-driven actors using Akka. Finally, put your skills to the test with a case study where you will concurrently and asynchronously store and retrieve data from a key value store. By progressively working through the Akka concepts, you will not only be able to write your own distributed system, but also appreciate the hidden complexity within the Akka ecosystem.</p>\n\n<p>Style and approachThis comprehensive guide walks you through the basics of reactive programming in Scala and Akka, explaining some of the most frequently used constructs to the most advanced features, and taking you through building a full-blown distributed system with the help of real-world examples.</p>"
+}

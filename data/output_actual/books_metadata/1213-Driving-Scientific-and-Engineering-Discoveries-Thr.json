@@ -1,0 +1,25 @@
+{
+  "book_id": 1213,
+  "book_uuid": "a190b6bc-92bf-4f2f-87d4-c0351ff03386",
+  "title": "Driving Scientific and Engineering Discoveries Through the Convergence of HPC, Big Data and AI: 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, Oak Ridge, TN, USA, August 26-28, 2020, Revised Selected Papers",
+  "pubdate": "2020-12-22 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jeffrey Nichols",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Networking",
+    "Information Technology",
+    "Expert Systems",
+    "Hardware",
+    "Software Development & Engineering",
+    "Systems Analysis & Design",
+    "Internet",
+    "Online Services"
+  ],
+  "description": "<div>\n<p>This book constitutes the revised selected papers of the 17th Smoky Mountains Computational Sciences and Engineering Conference, SMC 2020, held in Oak Ridge, TN, USA*, in August 2020.The 36 full papers and 1 short paper presented were carefully reviewed and selected from a total of 94 submissions. The papers are organized in topical sections of computational applications: converged HPC and artificial intelligence; system software: data infrastructure and life cycle; experimental/observational applications: use cases that drive requirements for AI and HPC convergence; deploying computation: on the road to a converged ecosystem; scientific data challenges.*The conference was held virtually due to the COVID-19 pandemic.</p></div>"
+}

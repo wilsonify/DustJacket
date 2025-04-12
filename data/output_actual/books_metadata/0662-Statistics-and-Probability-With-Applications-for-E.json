@@ -1,0 +1,19 @@
+{
+  "book_id": 662,
+  "book_uuid": "73e52475-e698-402a-b546-31c047fbd01d",
+  "title": "Statistics and Probability With Applications for Engineers and Scientists Using MINITAB, R and JMP",
+  "pubdate": "2019-12-24 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Bhisham C. Gupta",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Stochastic Processes",
+    "Applied"
+  ],
+  "description": "<div>\n<p>Introduces basic concepts in probability and statistics to data science students, as well as engineers and scientists Aimed at undergraduate/graduate-level engineering and natural science students, this timely, fully updated edition of a popular book on statistics and probability shows how real-world problems can be solved using statistical concepts. It removes Excel exhibits and replaces them with R software throughout, and updates both MINITAB and JMP software instructions and content. A new chapter discussing data mining\u2014including big data, classification, machine learning, and visualization\u2014is featured. Another new chapter covers cluster analysis methodologies in hierarchical, nonhierarchical, and model based clustering. The book also offers a chapter on Response Surfaces that previously appeared on the book\u2019s companion website. Statistics and Probability with Applications for Engineers and Scientists using MINITAB, R and JMP, Second Edition is broken into two parts. Part I covers topics such as: describing data graphically and numerically, elements of probability, discrete and continuous random variables and their probability distributions, distribution functions of random variables, sampling distributions, estimation of population parameters and hypothesis testing. Part II covers: elements of reliability theory, data mining, cluster analysis, analysis of categorical data, nonparametric tests, simple and multiple linear regression analysis, analysis of variance, factorial designs, response surfaces, and statistical quality control (SQC) including phase I and phase II control charts. The appendices contain statistical tables and charts and answers to selected problems. Features two new chapters\u2014one on Data Mining and another on Cluster Analysis Now contains R exhibits including code, graphical display, and some results MINITAB and JMP have been updated to their latest versions Emphasizes the p-value approach and includes related practical interpretations Offers a more applied statistical focus, and features modified examples to better exhibit statistical concepts Supplemented with an Instructor's-only solutions manual on a book\u2019s companion website Statistics and Probability with Applications for Engineers and Scientists using MINITAB, R and JMP is an excellent text for graduate level data science students, and engineers and scientists. It is also an ideal introduction to applied statistics and probability for undergraduate students in engineering and the natural sciences.</p></div>"
+}

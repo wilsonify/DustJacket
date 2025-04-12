@@ -1,0 +1,23 @@
+{
+  "book_id": 1229,
+  "book_uuid": "f2bb8906-5ad8-4f52-8119-5c55dc22bde8",
+  "title": "Agile Modeling With UML: Code Generation, Testing, Refactoring",
+  "pubdate": "2017-04-26 14:35:17.352885+00:00",
+  "isbn": "",
+  "author_name": "Bernhard Rumpe",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Business & Productivity Software",
+    "Information Technology",
+    "Software Development & Engineering",
+    "Business & Economics",
+    "Information Management",
+    "Computer Architecture",
+    "Business Mathematics"
+  ],
+  "description": "<p>This book focuses on the methodological treatment of UML/P and addresses three core topics of model-based software development: code generation, the systematic testing of programs using a model-based definition of test cases, and the evolutionary refactoring and transformation of models. For each of these topics, it first details the foundational concepts and techniques, and then presents their application with UML/P. This separation between basic principles and applications makes the content more accessible and allows the reader to transfer this knowledge directly to other model-based approaches and languages.</p>\n\n<p>After an introduction to the book and its primary goals in Chapter 1, Chapter 2 outlines an agile UML-based approach using UML/P as the primary development language for creating executable models, generating code from the models, designing test cases, and planning iterative evolution through refactoring. In the interest of completeness, Chapter 3 provides a brief summary of UML/P, which is used throughout the book. Next, Chapters 4 and 5 discuss core techniques for code generation, addressing the architecture of a code generator and methods for controlling it, as well as the suitability of UML/P notations for test or product code. Chapters 6 and 7 then discuss general concepts for testing software as well as the special features which arise due to the use of UML/P. Chapter 8 details test patterns to show how to use UML/P diagrams to define test cases and emphasizes in particular the use of functional tests for distributed and concurrent software systems. In closing, Chapters 9 and 10 examine techniques for transforming models and code and thus provide a solid foundation for refactoring as a type of transformation that preserves semantics.</p>\n\n<p>Overall, this book will be of great benefit for practical software development, for academic training in the field of Software Engineering, and for research in the area of model-based software development. Practitioners will learn how to use modern model-based techniques to improve the production of code and thus significantly increase quality. Students will find both important scientific basics as well as direct applications of the techniques presented. And last but not least, the book will offer scientists a comprehensive overview of the current state of development in the three core topics it covers.</p>"
+}

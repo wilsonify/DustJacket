@@ -1,0 +1,25 @@
+{
+  "book_id": 1095,
+  "book_uuid": "04131b73-7d31-4991-bf3b-07cb86589085",
+  "title": "Generative AI on AWS",
+  "pubdate": "2023-11-13 19:24:52.264190+00:00",
+  "isbn": "",
+  "author_name": "Shelbee Eigenbrode",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Machine Learning",
+    "Internet",
+    "Web Programming",
+    "Computer Vision & Pattern Recognition",
+    "Distributed Systems",
+    "Natural Language Processing",
+    "Cloud Computing"
+  ],
+  "description": "<p>Companies today are moving rapidly to integrate generative AI into their products and services. But there's a great deal of hype (and misunderstanding) about the impact and promise of this technology. With this book, Chris Fregly, Antje Barth, and Shelbee Eigenbrode from AWS help CTOs, ML practitioners, application developers, business analysts, data engineers, and data scientists find practical ways to use this exciting new technology.</p>\n\n<p>You'll learn the generative AI project life cycle including use case definition, model selection, model fine-tuning, retrieval-augmented generation, reinforcement learning from human feedback, and model quantization, optimization, and deployment. And you'll explore different types of models including large language models (LLMs) and multimodal models such as Stable Diffusion for generating images and Flamingo/IDEFICS for answering questions about images.</p>\n\n<p>Apply generative AI to your business use casesDetermine which generative AI models are best suited to your task Perform prompt engineering and in-context learningFine-tune generative AI models on your datasets with low-rank adaptation (LoRA)Align generative AI models to human values with reinforcement learning from human feedback (RLHF)Augment your model with retrieval-augmented generation (RAG)Explore libraries such as LangChain and ReAct to develop agents and actionsBuild generative AI applications with Amazon Bedrock</p>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 1085,
+  "book_uuid": "dd2d0d16-2800-4bd3-979c-e8b26a5145f9",
+  "title": "Composing Software: An Exploration of Functional Programming and Object Composition in JavaScript",
+  "pubdate": "2024-09-30 19:39:30.130212+00:00",
+  "isbn": "",
+  "author_name": "Eric Elliott",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Languages",
+    "JavaScript"
+  ],
+  "description": "<p>Unlock the power of functional programming in JavaScript with this detailed guide. Master essential techniques like function composition, immutability, and higher-order functions to create modular, maintainable code that's easy to understand and reuse.</p>\n\n<p>Key FeaturesAn exploration of functional programming in JavaScript, from basics to advanced conceptsAn extensive focus on real-world applications &amp; problem-solving techniquesAn introduction to both functional and object-oriented programming for a holistic viewBook DescriptionThis book delves into functional programming and composition techniques in JavaScript, starting with core concepts like pure functions, shared state avoidance, and higher-order functions to build modular, maintainable code. Early chapters explore the fundamentals of functional programming, immutability, and its growing influence in the JavaScript community. You'll learn essential topics such as function composition, currying, and higher-order functions, as well as advanced concepts like abstract data types, functors, and monads. The book discusses the evolution of functional programming, its role in modern software development, and addresses challenges like the software crisis and composing with classes. You'll learn essential topics like object-oriented programming, focusing on factory functions, functional mixins, and object composition. You'll also understand why traditional classes complicate composition and discover strategies for creating custom data types, lenses, and transducers. The book also covers best practices, emphasizing clean, reusable code and avoiding anti-patterns like excessive mocking. By the end, you'll be ready to apply functional programming techniques to tackle complex design challenges and write more maintainable JavaScript code.</p>\n\n<p>What you will learnGrasp core principles for writing clean, efficient codeCombine functions to create complex operations with easeWrite functions that are predictable and easy to testEliminate shared state and side effects for more reliable codeUse functions as arguments or return values for flexibilityLearn data transformations and side effect managementWho this book is forThe book is ideal for JavaScript developers who want to deepen their understanding of functional programming and software composition. Familiarity with JavaScript basics is required. This book is suitable for both intermediate and advanced programmers who want to write more maintainable and modular code.</p>"
+}

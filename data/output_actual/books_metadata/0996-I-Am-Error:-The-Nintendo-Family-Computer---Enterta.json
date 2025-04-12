@@ -1,0 +1,19 @@
+{
+  "book_id": 996,
+  "book_uuid": "54d903ee-2912-4e84-9441-904900b13733",
+  "title": "I Am Error: The Nintendo Family Computer / Entertainment System Platform",
+  "pubdate": "2015-05-01 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Nathan Altice",
+  "publisher_name": "MIT Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Programming",
+    "Games",
+    "Games & Activities",
+    "Video & Mobile"
+  ],
+  "description": "<div>\n<p>The complex material histories of the Nintendo Entertainment System platform, from code to silicon, focusing on its technical constraints and its expressive affordances. In the 1987 Nintendo Entertainment System videogame Zelda II: The Adventure of Link, a character famously declared: I AM ERROR. Puzzled players assumed that this cryptic mesage was a programming flaw, but it was actually a clumsy Japanese-English translation of \u201cMy Name is Error,\u201d a benign programmer's joke. In I AM ERROR Nathan Altice explores the complex material histories of the Nintendo Entertainment System (and its Japanese predecessor, the Family Computer), offering a detailed analysis of its programming and engineering, its expressive affordances, and its cultural significance. </p>\n<p>Nintendo games were rife with mistranslated texts, but, as Altice explains, Nintendo's translation challenges were not just linguistic but also material, with consequences beyond simple misinterpretation. Emphasizing the technical and material evolution of Nintendo's first cartridge-based platform, Altice describes the development of the Family Computer (or Famicom) and its computational architecture; the \u201ctranslation\u201d problems faced while adapting the Famicom for the U.S. videogame market as the redesigned Entertainment System; Nintendo's breakthrough console title Super Mario Bros. and its remarkable software innovations; the introduction of Nintendo's short-lived proprietary disk format and the design repercussions on The Legend of Zelda; Nintendo's efforts to extend their console's lifespan through cartridge augmentations; the Famicom's Audio Processing Unit (APU) and its importance for the chiptunes genre; and the emergence of software emulators and the new kinds of play they enabled.</p></div>"
+}

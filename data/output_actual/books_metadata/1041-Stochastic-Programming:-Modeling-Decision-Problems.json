@@ -1,0 +1,23 @@
+{
+  "book_id": 1041,
+  "book_uuid": "91f638a9-a3ec-4afd-95db-747ba83e14ba",
+  "title": "Stochastic Programming: Modeling Decision Problems Under Uncertainty",
+  "pubdate": "2019-10-24 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Willem K. Klein Haneveld",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Business & Economics",
+    "Operations Research",
+    "Economics",
+    "Applied",
+    "Optimization",
+    "Theory"
+  ],
+  "description": "<div>\n<p>This book provides an essential introduction to Stochastic Programming, especially intended for graduate students. The book begins by exploring a linear programming problem with random parameters, representing a decision problem under uncertainty. Several models for this problem are presented, including the main ones used in Stochastic Programming: recourse models and chance constraint models. The book not only discusses the theoretical properties of these models and algorithms for solving them, but also explains the intrinsic differences between the models. In the book\u2019s closing section, several case studies are presented, helping students apply the theory covered to practical problems. The book is based on lecture notes developed for an Econometrics and Operations Research course for master students at the University of Groningen, the Netherlands - the longest-standing Stochastic Programming course worldwide.</p></div>"
+}

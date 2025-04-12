@@ -1,0 +1,21 @@
+{
+  "book_id": 32,
+  "book_uuid": "a30afac3-7a10-4a01-961b-8dcbfa3d9880",
+  "title": "Bayesian Optimization in Action",
+  "pubdate": "2023-11-14 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Quan Nguyen",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Data Science",
+    "Software Development & Engineering",
+    "Machine Learning",
+    "Neural Networks",
+    "Systems Analysis & Design",
+    "Data Modeling & Design"
+  ],
+  "description": "<div>\n<p>Bayesian optimization helps pinpoint the best configuration for your machine learning models with speed and accuracy. Put its advanced techniques into practice with this hands-on guide. </p>\n<p>In Bayesian Optimization in Action you will learn how to: Train Gaussian processes on both sparse and large data sets Combine Gaussian processes with deep neural networks to make them flexible and expressive Find the most successful strategies for hyperparameter tuning Navigate a search space and identify high-performing regions Apply Bayesian optimization to cost-constrained, multi-objective, and preference optimization Implement Bayesian optimization with PyTorch, GPyTorch, and BoTorch Bayesian Optimization in Action shows you how to optimize hyperparameter tuning, A/B testing, and other aspects of the machine learning process by applying cutting-edge Bayesian techniques. Using clear language, illustrations, and concrete examples, this book proves that Bayesian optimization doesn\u2019t have to be difficult! You\u2019ll get in-depth insights into how Bayesian optimization works and learn how to implement it with cutting-edge Python libraries. The book\u2019s easy-to-reuse code samples let you hit the ground running by plugging them straight into your own projects. Forewords by Luis Serrano and David Sweet. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology In machine learning, optimization is about achieving the best predictions\u2014shortest delivery routes, perfect price points, most accurate recommendations\u2014in the fewest number of steps. Bayesian optimization uses the mathematics of probability to fine-tune ML functions, algorithms, and hyperparameters efficiently when traditional methods are too slow or expensive. About the book Bayesian Optimization in Action teaches you how to create efficient machine learning processes using a Bayesian approach. In it, you\u2019ll explore practical techniques for training large datasets, hyperparameter tuning, and navigating complex search spaces. This interesting book includes engaging illustrations and fun examples like perfecting coffee sweetness, predicting weather, and even debunking psychic claims. You\u2019ll learn how to navigate multi-objective scenarios, account for decision costs, and tackle pairwise comparisons. What's inside Gaussian processes for sparse and large datasets Strategies for hyperparameter tuning Identify high-performing regions Examples in PyTorch, GPyTorch, and BoTorch About the reader For machine learning practitioners who are confident in math and statistics. About the author Quan Nguyen is a research assistant at Washington University in St. Louis. He writes for the Python Software Foundation and has authored several books on Python programming. Table of Contents 1 Introduction to Bayesian optimization PART 1 MODELING WITH GAUSSIAN PROCESSES 2 Gaussian processes as distributions over functions 3 Customizing a Gaussian process with the mean and covariance functions PART 2 MAKING DECISIONS WITH BAYESIAN OPTIMIZATION 4 Refining the best result with improvement-based policies 5 Exploring the search space with bandit-style policies 6 Leveraging information theory with entropy-based policies PART 3 EXTENDING BAYESIAN OPTIMIZATION TO SPECIALIZED SETTINGS 7 Maximizing throughput with batch optimization 8 Satisfying extra constraints with constrained optimization 9 Balancing utility and cost with multifidelity optimization 10 Learning from pairwise comparisons with preference optimization 11 Optimizing multiple objectives at the same time PART 4 SPECIAL GAUSSIAN PROCESS MODELS 12 Scaling Gaussian processes to large datasets 13 Combining Gaussian processes with neural networks</p></div>"
+}

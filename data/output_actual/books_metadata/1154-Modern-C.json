@@ -1,0 +1,24 @@
+{
+  "book_id": 1154,
+  "book_uuid": "fc8ed43e-58d3-417a-8299-4c80454e9fe9",
+  "title": "Modern C",
+  "pubdate": "2019-11-26 19:51:32.869563+00:00",
+  "isbn": "",
+  "author_name": "Jens Gustedt",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Programming",
+    "Languages",
+    "C",
+    "C11",
+    "C17",
+    "ISO",
+    "Operating Systems",
+    "Unix",
+    "Compilers"
+  ],
+  "description": "<p>Summary Modern C focuses on the new and unique features of modern C programming. The book is based on the latest C standards and offers an up-to-date perspective on this tried-and-true language.  About the technology C is extraordinarily modern for a 50-year-old programming language. Whether you\u2019re writing embedded code, low-level system routines, or high-performance applications, C is up to the challenge. This unique book, based on the latest C standards, exposes a modern perspective of this tried-and-true language.  About the book Modern C introduces you to modern day C programming, emphasizing the unique and new features of this powerful language. For new C coders, it starts with fundamentals like structure, grammar, compilation, and execution. From there, you\u2019ll advance to control structures, data types, operators, and functions, as you gain a deeper understanding of what\u2019s happening under the hood. In the final chapters, you\u2019ll explore performance considerations, reentrancy, atomicity, threads, and type-generic programming. You\u2019ll code as you go with concept-reinforcing exercises and skill-honing challenges along the way.  What's inside  Operators and functions Pointers, threading, and atomicity C\u2019s memory model Hands-on exercises About the reader For programmers comfortable writing simple programs in a language like Java, Python, Ruby, C#, C++, or C.  About the author Jens Gustedt is a senior scientist at the French National Institute for Computer Science and Control (INRIA) and co-editor of the ISO C standard.</p>"
+}

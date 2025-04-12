@@ -1,0 +1,30 @@
+{
+  "book_id": 120,
+  "book_uuid": "3d5046e6-b5ce-4ee9-820e-9320559fd69c",
+  "title": "Spark",
+  "pubdate": "2018-02-08 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Bill Chambers",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "<p>Learn how to use",
+    "deploy",
+    "and maintain Apache Spark with this comprehensive guide",
+    "written by the creators of the open-source cluster-computing framework. With an emphasis on improvements and new features in Spark 2.0",
+    "authors Bill Chambers and Matei Zaharia break down Spark topics into distinct sections",
+    "each with unique goals.</p><p>You'll explore the basic operations and common functions of Spark's structured APIs",
+    "as well as Structured Streaming",
+    "a new high-level API for building end-to-end streaming applications. Developers and system administrators will learn the fundamentals of monitoring",
+    "tuning",
+    "and debugging Spark",
+    "and explore machine learning techniques and scenarios for employing MLlib",
+    "Spark's scalable machine-learning library.</p><li>Get a gentle overview of big data and Spark</li><li>Learn about DataFrames",
+    "Sql",
+    "and Datasets&#8212;Spark's core APIs&#8212;through worked examples</li><li>Dive into Spark's low-level APIs",
+    "RDDs",
+    "and execution of SQL and..."
+  ],
+  "description": "<p>Learn how to use, deploy, and maintain Apache Spark with this comprehensive guide, written by the creators of the open-source cluster-computing framework. With an emphasis on improvements and new features in Spark 2.0, authors Bill Chambers and Matei Zaharia break down Spark topics into distinct sections, each with unique goals.</p><p>You'll explore the basic operations and common functions of Spark's structured APIs, as well as Structured Streaming, a new high-level API for building end-to-end streaming applications. Developers and system administrators will learn the fundamentals of monitoring, tuning, and debugging Spark, and explore machine learning techniques and scenarios for employing MLlib, Spark's scalable machine-learning library.</p><li>Get a gentle overview of big data and Spark</li><li>Learn about DataFrames, SQL, and Datasets&#8212;Spark's core APIs&#8212;through worked examples</li><li>Dive into Spark's low-level APIs, RDDs, and execution of SQL and..."
+}

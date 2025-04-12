@@ -1,0 +1,21 @@
+{
+  "book_id": 684,
+  "book_uuid": "4c0a9c14-6c9b-4073-9983-c9556238a130",
+  "title": "Quality Control With R: An ISO Standards Approach",
+  "pubdate": "2015-11-20 14:12:40.709200+00:00",
+  "isbn": "",
+  "author_name": "Emilio L. Cano",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Business & Economics",
+    "Operations Research",
+    "Applied",
+    "Calculus",
+    "Functional Analysis"
+  ],
+  "description": "<p>Presenting a practitioner's guide to capabilities and best practices of quality control systems using the R programming language, this volume emphasizes accessibility and ease-of-use through detailed explanations of R code as well as standard statistical methodologies. In the interest of reaching the widest possible audience of quality-control professionals and statisticians, examples throughout are structured to simplify complex equations and data structures, and to demonstrate their applications to quality control processes, such as ISO standards. The volume balances its treatment of key aspects of quality control, statistics, and programming in R, making the text accessible to beginners and expert quality control professionals alike. Several appendices serve as useful references for ISO standards and common tasks performed while applying quality control with R.</p>"
+}

@@ -1,0 +1,30 @@
+{
+  "book_id": 105,
+  "book_uuid": "076b0279-90f0-4c89-beed-bd41a3a96afe",
+  "title": "Music Data Analysis: Foundations and Applications",
+  "pubdate": "2017-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Claus Weihs",
+  "publisher_name": "CRC Press, Taylor & Francis Group",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Data Analytics",
+    "Mathematics",
+    "Probability & Statistics",
+    "Business & Economics",
+    "Statistics",
+    "Science",
+    "Life Sciences",
+    "Biology",
+    "Music",
+    "Art",
+    "Instruction & Study",
+    "Theory",
+    "Biotechnology"
+  ],
+  "description": "<div>\n<p>This book provides a comprehensive overview of music data analysis, from introductory material to advanced concepts. It covers various applications including transcription and segmentation as well as chord and harmony, instrument and tempo recognition. It also discusses the implementation aspects of music data analysis such as architecture, user interface and hardware. It is ideal for use in university classes with an interest in music data analysis. It also could be used in computer science and statistics as well as musicology.</p></div>"
+}

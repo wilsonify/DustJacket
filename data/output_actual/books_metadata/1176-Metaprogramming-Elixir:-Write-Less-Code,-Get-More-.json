@@ -1,0 +1,22 @@
+{
+  "book_id": 1176,
+  "book_uuid": "9e774798-b675-4386-b14a-a57d54ea1244",
+  "title": "Metaprogramming Elixir: Write Less Code, Get More Done (And Have Fun!)",
+  "pubdate": "2015-03-15 20:22:17.731607+00:00",
+  "isbn": "",
+  "author_name": "Chris McCord",
+  "publisher_name": "Pragmatic Bookshelf",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Computer Science",
+    "Languages",
+    "Tools",
+    "Compilers"
+  ],
+  "description": "<p>Write code that writes code with Elixir macros. Macros make metaprogramming possible and define the language itself. In this book, you'll learn how to use macros to extend the language with fast, maintainable code and share functionality in ways you never thought possible. You'll discover how to extend Elixir with your own first-class features, optimize performance, and create domain-specific languages.    Metaprogramming is one of Elixir's greatest features. Maybe you've played with the basics or written a few macros. Now you want to take it to the next level. This book is a guided series of metaprogramming tutorials that take you step by step to metaprogramming mastery. You'll extend Elixir with powerful features and write faster, more maintainable programs in ways unmatched by other languages.    You'll start with the basics of Elixir's metaprogramming system and find out how macros interact with Elixir's abstract format. Then you'll extend Elixir with your own first-class features, write a testing framework, and discover how Elixir treats source code as building blocks, rather than rote lines of instructions. You'll continue your journey by using advanced code generation to create essential libraries in strikingly few lines of code. Finally, you'll create domain-specific languages and learn when and where to apply your skills effectively.    When you're done, you will have mastered metaprogramming, gained insights into Elixir's internals, and have the confidence to leverage macros to their full potential in your own projects.</p>"
+}

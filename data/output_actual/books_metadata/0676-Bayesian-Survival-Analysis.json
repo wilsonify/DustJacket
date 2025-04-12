@@ -1,0 +1,23 @@
+{
+  "book_id": 676,
+  "book_uuid": "0533e488-9e86-4149-8192-cc7cb6c906f1",
+  "title": "Bayesian Survival Analysis",
+  "pubdate": "2001-06-26 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Joseph G. Ibrahim",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Medical",
+    "Biostatistics",
+    "Stochastic Processes",
+    "Bayesian Analysis",
+    "Science",
+    "Biotechnology"
+  ],
+  "description": "<div>\n<p>Survival analysis arises in many fields of study including medicine, biology, engineering, public health, epidemiology, and economics. This book provides a comprehensive treatment of Bayesian survival analysis. Several topics are addressed, including parametric models, semiparametric models based on prior processes, proportional and non-proportional hazards models, frailty models, cure rate models, model selection and comparison, joint models for longitudinal and survival data, models with time varying covariates, missing covariate data, design and monitoring of clinical trials, accelerated failure time models, models for multivariate survival data, and special types of hierarchical survival models. Also various censoring schemes are examined including right and interval censored data. Several additional topics are discussed, including noninformative and informative prior specificiations, computing posterior qualities of interest, Bayesian hypothesis testing, variable selection, model selection with nonnested models, model checking techniques using Bayesian diagnostic methods, and Markov chain Monte Carlo (MCMC) algorithms for sampling from the posteiror and predictive distributions. The book presents a balance between theory and applications, and for each class of models discussed, detailed examples and analyses from case studies are presented whenever possible. The applications are all essentially from the health sciences, including cancer, AIDS, and the environment. The book is intended as a graduate textbook or a reference book for a one semester course at the advanced masters or Ph. </p>\n<p>D. level. This book would be most suitable for second or third year graduate students in statistics or biostatistics. It would also serve as a useful reference book for applied or theoretical researchers as well as practitioners. Joseph G. Ibrahim is Associate Professor of Biostatistics at the Harvard School of Public Health and Dana-Farber Cancer Institute; Ming-Hui Chen is Associate Professor of Mathematical Science at Worcester Polytechnic Institute; Debajyoti Sinha is Associate Professor of Biostatistics at the Medical University of South Carolina.</p></div>"
+}

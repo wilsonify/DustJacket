@@ -1,0 +1,19 @@
+{
+  "book_id": 1132,
+  "book_uuid": "7eeebded-7f4c-4251-992f-a9244e27aae5",
+  "title": "Modern Java in Action: Lambdas, Streams, Functional and Reactive Programming",
+  "pubdate": "2018-09-26 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Raoul-Gabriel Urma",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Languages",
+    "Java"
+  ],
+  "description": "<div>\n<p>SummaryManning's bestselling Java 8 book has been revised for Java 9! In Modern Java in Action, you'll build on your existing Java language skills with the newest features and techniques. </p>\n<p>Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. </p>\n<p>About the TechnologyModern applications take advantage of innovative designs, including microservices, reactive architectures, and streaming data. Modern Java features like lambdas, streams, and the long-awaited Java Module System make implementing these designs significantly easier. It's time to upgrade your skills and meet these challenges head on!About the BookModern Java in Action connects new features of the Java language with their practical applications. Using crystal-clear examples and careful attention to detail, this book respects your time. It will help you expand your existing knowledge of core Java as you master modern additions like the Streams API and the Java Module System, explore new approaches to concurrency, and learn how functional concepts can help you write code that's easier to read and maintain. What's insideThoroughly revised edition of Manning's bestselling Java 8 in ActionNew features in Java 8, Java 9, and beyondStreaming data and reactive programmingThe Java Module SystemAbout the ReaderWritten for developers familiar with core Java features. </p>\n<p>About the AuthorRaoul-Gabriel Urma is CEO of Cambridge Spark. Mario Fusco is a senior software engineer at Red Hat. Alan Mycroft is a University of Cambridge computer science professor; he cofounded the Raspberry Pi Foundation. </p>\n<p>Table of ContentsPART 1 - FUNDAMENTALS Java 8, 9, 10, and 11: what's happening? Passing code with behavior parameterization Lambda expressions PART 2 - FUNCTIONAL-STYLE DATA PROCESSING WITH STREAMS Introducing streams Working with streams Collecting data with streams Parallel data processing and performance PART 3 - EFFECTIVE PROGRAMMING WITH STREAMS AND LAMBDASCollection API enhancements Refactoring, testing, and debugging Domain-specific languages using lambdasPART 4 - EVERYDAY JAVA Using Optional as a better alternative to null New Date and Time API Default methods The Java Module System PART 5 - ENHANCED JAVA CONCURRENCY Concepts behind CompletableFuture and reactive programming CompletableFuture: composable asynchronous programming Reactive programming PART 6 - FUNCTIONAL PROGRAMMING AND FUTURE JAVA EVOLUTIONThinking functionally Functional programming techniques Blending OOP and FP: Comparing Java and Scala Conclusions and where next for Java</p></div>"
+}

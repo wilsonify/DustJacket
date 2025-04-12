@@ -1,0 +1,21 @@
+{
+  "book_id": 1133,
+  "book_uuid": "11009344-8e8f-4037-b3eb-55a5adb67381",
+  "title": "Elm in Action",
+  "pubdate": "2020-04-04 19:42:12.001199+00:00",
+  "isbn": "",
+  "author_name": "Richard Feldman",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Languages",
+    "Internet",
+    "Web Programming",
+    "Quality Assurance & Testing"
+  ],
+  "description": "<p>Summary Elm is more than just a cutting-edge programming language, it\u2019s a chance to upgrade the way you think about building web applications. Once you get comfortable with Elm\u2019s refreshingly different approach to application development, you\u2019ll be working with a clean syntax, dependable libraries, and a delightful compiler that essentially eliminates runtime exceptions. Elm compiles to JavaScript, so your code runs in any browser, and Elm\u2019s best-in-class rendering speed will knock your socks off. Let\u2019s get started! Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.  About the technology Simply put, the Elm programming language transforms the way you think about frontend web development. Elm\u2019s legendary compiler is an incredible assistant, giving you the precise and user-friendly support you need to work efficiently. Elm applications have small bundle sizes that run faster than JavaScript frameworks and are famously easy to maintain as they grow. The catch? Elm isn\u2019t JavaScript, so you\u2019ll have some new skills to learn.  About the book Elm in Action teaches you the Elm language along with a new approach to coding frontend applications. Chapter by chapter, you\u2019ll create a full-featured photo-browsing app, learning as you go about Elm\u2019s modular architecture, Elm testing, and how to work seamlessly with your favorite JavaScript libraries. You\u2019ll especially appreciate author and Elm core team member Richard Feldman\u2019s unique insights, based on his thousands of hours writing production code in Elm. When you\u2019re done, you\u2019ll have a toolbox of new development skills and a stunning web app for your portfolio.  What's inside  Scalable design for production web applications Single-page applications in Elm Data modeling in Elm Accessing JavaScript from Elm About the reader For web developers with no prior experience in Elm or functional programming.  About the author Richard Feldman is a software engineer at NoRedInk and a well-known member of the Elm community. Table of Contents PART 1 - GETTING STARTED 1. Welcome to Elm 2. Your first Elm application 3. Compiler as assistant PART 2 - PRODUCTION-GRADE ELM 4. Talking to servers 5. Talking to JavaScript 6. Testing PART 3 - BUILDING BIGGER 7. Data modeling 8. Single-page applications</p>"
+}

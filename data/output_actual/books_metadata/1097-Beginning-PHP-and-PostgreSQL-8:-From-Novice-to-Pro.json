@@ -1,0 +1,17 @@
+{
+  "book_id": 1097,
+  "book_uuid": "340b38ea-4ea5-473f-b42d-f26413ba654d",
+  "title": "Beginning PHP and PostgreSQL 8: From Novice to Professional",
+  "pubdate": "2006-03-01 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "W. Jason Gilmore",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering"
+  ],
+  "description": "<div>\n<p>Beginning PHP and PostgreSQL 8 delves into some of the most popular open-source web development technologies, the PostgreSQL 8 database server and PHP 5 scripting language. You\u2019ll learn to reap the benefits of these core technologies by using them in unison to create dynamic, data-driven web applications. This is an ideal read if you are a web designer, programmer, hobbyist, or novice who wants to create applications with PHP 5 and PostgreSQL 8.</p></div>"
+}

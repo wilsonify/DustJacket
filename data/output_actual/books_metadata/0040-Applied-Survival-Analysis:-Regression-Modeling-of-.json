@@ -1,0 +1,18 @@
+{
+  "book_id": 40,
+  "book_uuid": "e3b1897d-fa7a-42b0-937e-39824064725c",
+  "title": "Applied Survival Analysis: Regression Modeling of Time-To-Event Data",
+  "pubdate": "2008-03-07 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "David W. Hosmer| Jr.",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Stochastic Processes"
+  ],
+  "description": "<div>\n<p>THE MOST PRACTICAL, UP-TO-DATE GUIDE TO MODELLING AND ANALYZING TIME-TO-EVENT DATA\u2014NOW IN A VALUABLE NEW EDITION Since publication of the first edition nearly a decade ago, analyses using time-to-event methods have increase considerably in all areas of scientific inquiry mainly as a result of model-building methods available in modern statistical software packages. However, there has been minimal coverage in the available literature to9 guide researchers, practitioners, and students who wish to apply these methods to health-related areas of study. Applied Survival Analysis, Second Edition provides a comprehensive and up-to-date introduction to regression modeling for time-to-event data in medical, epidemiological, biostatistical, and other health-related research. This book places a unique emphasis on the practical and contemporary applications of regression modeling rather than the mathematical theory. It offers a clear and accessible presentation of modern modeling techniques supplemented with real-world examples and case studies. Key topics covered include: variable selection, identification of the scale of continuous covariates, the role of interactions in the model, assessment of fit and model assumptions, regression diagnostics, recurrent event models, frailty models, additive models, competing risk models, and missing data. Features of the Second Edition include: Expanded coverage of interactions and the covariate-adjusted survival functions The use of the Worchester Heart Attack Study as the main modeling data set for illustrating discussed concepts and techniques New discussion of variable selection with multivariable fractional polynomials Further exploration of time-varying covariates, complex with examples Additional treatment of the exponential, Weibull, and log-logistic parametric regression models Increased emphasis on interpreting and using results as well as utilizing multiple imputation methods to analyze data with missing values New examples and exercises at the end of each chapter Analyses throughout the text are performed using Stata\u00ae Version 9, and an accompanying FTP site contains the data sets used in the book. Applied Survival Analysis, Second Edition is an ideal book for graduate-level courses in biostatistics, statistics, and epidemiologic methods. It also serves as a valuable reference for practitioners and researchers in any health-related field or for professionals in insurance and government.</p></div>"
+}

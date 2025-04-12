@@ -1,0 +1,20 @@
+{
+  "book_id": 93,
+  "book_uuid": "3bf2e7af-36a4-410b-a66d-704b3d8132d0",
+  "title": "Fundamentals of Predictive Analytics With JMP, Second Edition",
+  "pubdate": "2017-12-19 20:09:22.727214+00:00",
+  "isbn": "",
+  "author_name": "Ron Klimberg",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Regression Analysis",
+    "Mathematical & Statistical Software",
+    "Multivariate Analysis"
+  ],
+  "description": "<p>Written for students in undergraduate and graduate statistics courses, as well as for the practitioner who wants to make better decisions from data and models, this updated and expanded second edition of Fundamentals of Predictive Analytics with JMP(R) bridges the gap between courses on basic statistics, which focus on univariate and bivariate analysis, and courses on data mining and predictive analytics. Going beyond the theoretical foundation, this book gives you the technical knowledge and problem-solving skills that you need to perform real-world multivariate data analysis.  First, this book teaches you to recognize when it is appropriate to use a tool, what variables and data are required, and what the results might be. Second, it teaches you how to interpret the results and then, step-by-step, how and where to perform and evaluate the analysis in JMP .  Using JMP 13 and JMP 13 Pro, this book offers the following new and enhanced features in an example-driven format:   an add-in for Microsoft Excel Graph Builder dirty data visualization regression ANOVA logistic regression principal component analysis LASSO elastic net cluster analysis decision trees k-nearest neighbors neural networks bootstrap forests boosted trees text mining association rules model comparison  With today\u2019s emphasis on business intelligence, business analytics, and predictive analytics, this second edition is invaluable to anyone who needs to expand his or her knowledge of statistics and to apply real-world, problem-solving analysis.  This book is part of the SAS Press program.</p>"
+}

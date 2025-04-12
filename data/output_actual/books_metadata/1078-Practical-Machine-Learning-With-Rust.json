@@ -1,0 +1,16 @@
+{
+  "book_id": 1078,
+  "book_uuid": "8ee17798-f8cd-42d4-b01c-27e1b00dfb2f",
+  "title": "Practical Machine Learning With Rust",
+  "pubdate": "2016-08-13 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Joydeep Bhattacharjee",
+  "publisher_name": "Association for Computing Machinery",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Computer Science"
+  ],
+  "description": ""
+}

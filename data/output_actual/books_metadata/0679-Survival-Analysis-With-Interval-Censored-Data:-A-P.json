@@ -1,0 +1,17 @@
+{
+  "book_id": 679,
+  "book_uuid": "c17fd29d-cee1-4bfe-96e0-141e2d2f70a7",
+  "title": "Survival Analysis With Interval-Censored Data: A Practical Approach With Examples in R, SAS, and BUGS",
+  "pubdate": "2017-11-20 20:11:37.974211+00:00",
+  "isbn": "",
+  "author_name": "Kris Bogaerts",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics"
+  ],
+  "description": "<p>Survival Analysis with Interval-Censored Data: A Practical Approach with Examples in R, SAS, and BUGS provides the reader with a practical introduction into the analysis of interval-censored survival times. Although many theoretical developments have appeared in the last fifty years, interval censoring is often ignored in practice. Many are unaware of the impact of inappropriately dealing with interval censoring. In addition, the necessary software is at times difficult to trace. This book fills in the gap between theory and practice.  Features: -Provides an overview of frequentist as well as Bayesian methods. -Include a focus on practical aspects and applications. -Extensively illustrates the methods with examples using R, SAS, and BUGS. Full programs are available on a supplementary website. The authors: Kris Bogaerts is project manager at I-BioStat, KU Leuven. He received his PhD in science (statistics) at KU Leuven on the analysis of interval-censored data. He has gained expertise in a great variety of statistical topics with a focus on the design and analysis of clinical trials. Arno\u0161t Kom\u00e1rek is associate professor of statistics at Charles University, Prague. His subject area of expertise covers mainly survival analysis with the emphasis on interval-censored data and classification based on longitudinal data. He is past chair of the Statistical Modelling Society and editor of Statistical Modelling: An International Journal. Emmanuel Lesaffre is professor of biostatistics at I-BioStat, KU Leuven. His research interests include Bayesian methods, longitudinal data analysis, statistical modelling, analysis of dental data, interval-censored data, misclassification issues, and clinical trials. He is the founding chair of the Statistical Modelling Society, past-president of the International Society for Clinical Biostatistics, and fellow of ISI and ASA.</p>"
+}

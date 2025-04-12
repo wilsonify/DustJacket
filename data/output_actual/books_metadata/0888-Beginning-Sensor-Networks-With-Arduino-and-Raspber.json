@@ -1,0 +1,21 @@
+{
+  "book_id": 888,
+  "book_uuid": "c4387483-f491-473f-873f-2bdc83155226",
+  "title": "Beginning Sensor Networks With Arduino and Raspberry Pi",
+  "pubdate": "2013-11-20 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Charles Bell",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Hardware",
+    "Technology & Engineering",
+    "Software Development & Engineering",
+    "Robotics",
+    "Sensors"
+  ],
+  "description": "<p><em>Beginning Sensor Networks with Arduino and Raspberry Pi </em>teaches you how to build sensor networks with Arduino, Raspberry Pi, and XBee radio modules, and even shows you how to turn your Raspberry Pi into a MySQL database server to store your sensor data!  </p><p>First you'll learn about the different types of sensors and sensor networks, including how to build a simple XBee network. Then you'll walk through building an Arduino-based temperature sensor and data collector, followed by building a Raspberry Pi-based sensor node. </p><p>Next you'll learn different ways to store sensor data, including writing to an SD card, sending data to the cloud, and setting up a Raspberry Pi MySQL server to host your data. You even learn how to connect to and interact with a MySQL database server directly from an Arduino! Finally you'll learn how to put it all together by connecting your Arduino sensor node to your new Raspberry Pi database server.  </p><p>If you want to see how well Arduino and Raspberry Pi can get along, especially to create a sensor network, then <em>Beginning Sensor Networks with Arduino and Raspberry Pi</em> is just the book you need.</p><h3>What you\u2019ll learn</h3><ul><li>How to build sensor nodes with both Arduino and Raspberry Pi! </li><li>What is XBee? </li><li>What methods you have for storing sensor data </li><li>How you can host your data on the Raspberry Pi </li><li>How to get started with the MySQL database connector for Arduino</li><li>How to build database enabled sensor networks</li></ul><h3>Who this book is for</h3><p>Electronics enthusiasts, Arduino and Raspberry Pi fans, and anyone who wants hands-on experience seeing how these two amazing platforms, Arduino and Raspberry Pi,\u00a0can work together with MySQL. </p><h3>Table of Contents</h3><ol><li>Introduction to Sensor Networks  </li><li>Tiny Talking Modules: An Intro to Xbee Wireless Modules  </li><li>Arduino-Based Sensor Node  </li><li>Rapberry Pi-based Sensor Notes \u00a0 \u00a0  </li><li>Where to Put It All: Storing Sensor Data  </li><li>Turning Your Raspberry Pi into a Database Server \u00a0  </li><li>MySQL and Arduino: United at Last! \u00a0\u00a0  </li><li>Building Your Network: Arduino Wireless Aggregator + Wireless Sensor Node + Raspberry Pi Server  </li><li>Planning Wireless Sensor Networks  </li><li>Shopping List</li></ol><h3>About the Author</h3><p><strong>Charles Andrew Bell</strong> works for Oracle Corporation and is a senior member of the MySQL engineering team. He is the team lead for MySQL Utilities and has over'eight years experience in developing the MySQL server. He lives in a small town in rural Virginia with his loving wife, and'received his Doctor of Philosophy in Engineering from Virginia Commonwealth University in 2005. His research interests include database systems, versioning systems, semantic web, and agile software development.  </p><p>Dr. Bell's research projects and development of an advanced database versioning system make him uniquely qualified to author this book. He is an expert in the database field and has extensive knowledge and experience in modifying the MySQL source code. With over 25 years experience in enterprise development and systems architecture, his experience provides him excellent insight into developing and modifying open source systems. </p>"
+}

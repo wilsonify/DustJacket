@@ -1,0 +1,23 @@
+{
+  "book_id": 1297,
+  "book_uuid": "e5f6a7f4-9235-4dd0-b280-f35fa41fbfe9",
+  "title": "Architecture Patterns With Python: Enabling Test-Driven Development, Domain-Driven Design, and Event-Driven Microservices",
+  "pubdate": "2020-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Bob Gregory",
+  "publisher_name": "O'Reilly",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Computer Science",
+    "Languages",
+    "Python",
+    "Computer Architecture",
+    "Distributed Systems",
+    "Cloud Computing"
+  ],
+  "description": "<div>\n<p>As Python continues to grow in popularity, projects are becoming larger and more complex. Many Python developers are now taking an interest in high-level software architecture patterns such as hexagonal/clean architecture, event-driven architecture, and strategic patterns prescribed by domain-driven design (DDD). But translating those patterns into Python isn't always straightforward. </p>\n<p>With this practical guide, Harry Percival and Bob Gregory from MADE.com introduce proven architectural design patterns to help Python developers manage application complexity. Each pattern is illustrated with concrete examples in idiomatic Python that explain how to avoid some of the unnecessary verbosity of Java and C# syntax. You'll learn how to implement each of these patterns in a Pythonic way. </p>\n<p>Architectural design patterns include: Dependency inversion, and its links to ports and adapters (hexagonal/clean architecture)Domain-driven design's distinction between entities, value objects, and aggregatesRepository and Unit of Work patterns for persistent storageEvents, commands, and the message busCommand Query Responsibility Segregation (CQRS)Event-driven architecture and reactive microservices</p></div>"
+}

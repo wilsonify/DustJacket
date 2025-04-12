@@ -1,0 +1,26 @@
+{
+  "book_id": 2960,
+  "book_uuid": "0324a8e8-d908-4af3-a33d-3131d83d7f03",
+  "title": "D3.js in Action: Data Visualization With JavaScript",
+  "pubdate": "2017-11-17 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Elijah Meeks",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Software Development & Engineering",
+    "Computer Graphics",
+    "Languages",
+    "Internet",
+    "Data Visualization",
+    "JavaScript",
+    "Design; Graphics & Media",
+    "Graphics Tools",
+    "Html"
+  ],
+  "description": "<div>\n<p>SummaryD3.js in Action, Second Edition is completely revised and updated for D3 v4 and ES6. It's a practical tutorial for creating interactive graphics and data-driven applications using D3. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. </p>\n<p>About the TechnologyVisualizing complex data is hard. Visualizing complex data on the web is darn near impossible without D3.js. D3 is a JavaScript library that provides a simple but powerful data visualization API over HTML, CSS, and SVG. Start with a structure, dataset, or algorithm; mix in D3; and you can programmatically generate static, animated, or interactive images that scale to any screen or browser. It's easy, and after a little practice, you'll be blown away by how beautiful your results can be!About the BookD3.js in Action, Second Edition is a completely updated revision of Manning's bestselling guide to data visualization with D3. You'll explore dozens of real-world examples, including force and network diagrams, workflow illustrations, geospatial constructions, and more. Along the way, you'll pick up best practices for building interactive graphics, animations, and live data representations. You'll also step through a fully interactive application created with D3 and React. What's InsideUpdated for D3 v4 and ES6Reusable layouts and componentsGeospatial data visualizationsMixed-mode renderingAbout the ReaderSuitable for web developers with HTML, CSS, and JavaScript skills. No specialized data science skills required. </p>\n<p>About the AuthorElijah Meeks is a senior data visualization engineer at Netflix. </p>\n<p>Table of ContentsPART 1 - D3.JS FUNDAMENTALSAn introduction to D3.js Information visualization data flow Data-driven design and interaction Chart components Layouts PART 2 - COMPLEX DATA VISUALIZATIONHierarchical visualization Network visualization Geospatial information visualization PART 3 - ADVANCED TECHNIQUES Interactive applications with React and D3 Writing layouts and components Mixed mode rendering</p></div>"
+}

@@ -1,0 +1,18 @@
+{
+  "book_id": 636,
+  "book_uuid": "bd9779bd-0fce-4a3a-a026-5d01b8dfe18e",
+  "title": "Chemometrics: Statistics and Computer Application in Analytical Chemistry",
+  "pubdate": "2016-09-30 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Matthias Otto",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Science",
+    "Chemistry",
+    "Analytic"
+  ],
+  "description": "<div>\n<p>The third edition of this long-selling introductory textbook and ready reference covers all pertinent topics, from basic statistics via modeling and databases right up to the latest regulatory issues. The experienced and internationally recognized author, Matthias Otto, introduces the statistical-mathematical evaluation of chemical measurements, especially analytical ones, going on to provide a modern approach to signal processing, designing and optimizing experiments, pattern recognition and classification, as well as modeling simple and nonlinear relationships. Analytical databases are equally covered as are applications of multiway analysis, artificial intelligence, fuzzy theory, neural networks, and genetic algorithms. The new edition has 10% new content to cover such recent developments as orthogonal signal correction and new data exchange formats, tree based classification and regression, independent component analysis, ensemble methods and neuro-fuzzy systems. It still retains, however, the proven features from previous editions: worked examples, questions and problems, additional information and brief explanations in the margin.</p></div>"
+}

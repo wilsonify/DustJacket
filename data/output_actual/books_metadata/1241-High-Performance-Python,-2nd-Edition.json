@@ -1,0 +1,13 @@
+{
+  "book_id": 1241,
+  "book_uuid": "dd7f034b-919c-468f-96bc-5736c811fecd",
+  "title": "High Performance Python, 2nd Edition",
+  "pubdate": "2020-05-07 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Micha Gorelick",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Your Python code may run correctly, but you need it to run faster. Updated for Python 3, this expanded edition shows you how to locate performance bottlenecks and significantly speed up your code in high-data-volume programs. By exploring the fundamental theory behind design choices, High Performance Python helps you gain a deeper understanding of Python\u2019s implementation.</p><p>How do you take advantage of multicore architectures or clusters? Or build a system that scales up and down without losing reliability? Experienced Python programmers will learn concrete solutions to many issues, along with war stories from companies that use high-performance Python for social media analytics, productionized machine learning, and more.</p><ul><li>Get a better grasp of NumPy, Cython, and profilers</li><li>Learn how Python abstracts the underlying computer architecture</li><li>Use profiling to find bottlenecks in CPU time and memory usage</li><li>Write efficient programs by choosing appropriate data structures</li><li>Speed up matrix and vector computations</li><li>Use tools to compile Python down to machine code</li><li>Manage multiple I/O and computational operations concurrently</li><li>Convert multiprocessing code to run on local or remote clusters</li><li>Deploy code faster using tools like Docker</li></ul></div></span>"
+}

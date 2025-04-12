@@ -1,0 +1,20 @@
+{
+  "book_id": 1104,
+  "book_uuid": "4d5a883d-2d09-4d00-a7af-18c11ce8f620",
+  "title": "Becoming a Rockstar SRE: Electrify Your Site Reliability Engineering Mindset to Build Reliable, Resilient, and Efficient Systems",
+  "pubdate": "2023-04-28 20:40:24.926202+00:00",
+  "isbn": "",
+  "author_name": "Jeremy Proffitt",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Software Development & Engineering",
+    "System Administration",
+    "Storage & Retrieval",
+    "Systems Analysis & Design",
+    "Quality Assurance & Testing"
+  ],
+  "description": "<p>Excel in site reliability engineering by learning from field-driven lessons on observability and reliability in code, architecture, process, systems management, costs, and people to minimize downtime and enhance developers' outputPurchase of the print or Kindle book includes a free eBook in the PDF formatKey FeaturesUnderstand the goals of an SRE in terms of reliability, efficiency, and constant improvementMaster highly resilient architecture in server, serverless, and containerized workloadsLearn the why and when of employing Kubernetes, GitHub, Prometheus, Grafana, Terraform, Python, Argo CD, and GitOpsBook DescriptionSite reliability engineering is all about continuous improvement, finding the balance between business and product demands while working within technological limitations to drive higher revenue. But quantifying and understanding reliability, handling resources, and meeting developer requirements can sometimes be overwhelming. With a focus on reliability from an infrastructure and coding perspective, Becoming a Rockstar SRE brings forth the site reliability engineer (SRE) persona using real-world examples. This book will acquaint you the role of an SRE, followed by the why and how of site reliability engineering. It walks you through the jobs of an SRE, from the automation of CI/CD pipelines and reducing toil to reliability best practices. You'll learn what creates bad code and how to circumvent it with reliable design and patterns. The book also guides you through interacting and negotiating with businesses and vendors on various technical matters and exploring observability, outages, and why and how to craft an excellent runbook. Finally, you'll learn how to elevate your site reliability engineering career, including certifications and interview tips and questions. By the end of this book, you'll be able to identify and measure reliability, reduce downtime, troubleshoot outages, and enhance productivity to become a true rockstar SRE!What you will learnGet insights into the SRE role and its evolution, starting from Google's original visionUnderstand the key terms, such as golden signals, SLO, SLI, MTBF, MTTR, and MTTDOvercome the challenges in adopting site reliability engineeringEmploy reliable architecture and deployments with serverless, containerization, and release strategiesIdentify monitoring targets and determine observability strategyReduce toil and leverage root cause analysis to enhance efficiency and reliabilityRealize how business decisions can impact quality and reliabilityWho this book is forThis book is for IT professionals, including developers looking to advance into an SRE role, system administrators mastering technologies, and executives experiencing repeated downtime in their organizations. Anyone interested in bringing reliability and automation to their organization to drive down customer impact and revenue loss while increasing development throughput will find this book useful. A basic understanding of API and web architecture and some experience with cloud computing and services will assist with understanding the concepts covered.</p>"
+}

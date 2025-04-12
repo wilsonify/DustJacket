@@ -1,0 +1,22 @@
+{
+  "book_id": 1179,
+  "book_uuid": "046d9833-e888-4166-b3b7-ff01a8533377",
+  "title": "Grokking Simplicity: Taming Complex Software With Functional Thinking",
+  "pubdate": "2021-05-18 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Eric Normand",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Software Development & Engineering",
+    "Programming",
+    "Languages",
+    "JavaScript",
+    "Object Oriented"
+  ],
+  "description": "<div>\n<p>Grokking Simplicity is a friendly, practical guide that will change the way you approach software design and development. </p>\n<p>Summary Distributed across servers, difficult to test, and resistant to modification\u2014modern software is complex. Grokking Simplicity is a friendly, practical guide that will change the way you approach software design and development. It introduces a unique approach to functional programming that explains why certain features of software are prone to complexity, and teaches you the functional techniques you can use to simplify these systems so that they\u2019re easier to test and debug. Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. About the technology Developers rightly fear the unintended complexity that infects most code. This book shows you how to write software that keeps complexity close to its inherent minimum. As you write software you should distinguish between code that alters your system\u2019s state, and code that does not. Once you learn to make that distinction, you can refactor much of your state-altering \u201cactions\u201d into stateless \u201ccalculations.\u201d Your software will be simpler. About the book The book also teaches you to solve the complex timing bugs that inevitably creep into asynchronous and multithreaded code. In ad\u00advanced sections of the book you learn how composable abstractions help avoid repeating code and open up new levels of expressivity. What's inside Patterns for simpler code Powerful time modeling approaches to simplify asynchronous code How higher-order functions can make code reusable and composable About the reader For intermediate and advanced developers building complex software. Exercises, illustrations, self-assessments, and hands-on examples lock in each new idea. About the author Eric Normand is an expert software developer who has been an influential teacher of functional programming since 2007. Table of Contents 1 Welcome to Grokking Simplicity 2 Functional thinking in action PART 1 - ACTIONS, CALCULATIONS, AND DATA 3 Distinguishing actions, calculations, and data 4 Extracting calculations from actions 5 Improving the design of actions 6 Staying immutable in a mutable language 7 Staying immutable with untrusted code 8 Stratified design, part 1 9 Stratified design, part 2 PART 2 - FIRST-CLASS ABSTRACTIONS 10 First-class functions, part 1 11 First-class functions, part 2 12 Functional iteration 13 Chaining functional tools 14 Functional tools for nested data 15 Isolating timelines 16 Sharing resources between timelines 17 Coordinating timelines 18 Reactive and onion architectures 19 The functional journey ahead</p></div>"
+}

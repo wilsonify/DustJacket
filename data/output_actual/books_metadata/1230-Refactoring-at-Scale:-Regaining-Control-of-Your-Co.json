@@ -1,0 +1,24 @@
+{
+  "book_id": 1230,
+  "book_uuid": "962d106a-f7c4-4327-9d0d-38e9b5e7aa07",
+  "title": "Refactoring at Scale: Regaining Control of Your Codebase",
+  "pubdate": "2020-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Maude Lemaire",
+  "publisher_name": "O'Reilly Media, Incorporated",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Software Development & Engineering",
+    "Programming",
+    "Computer Science",
+    "Systems Analysis & Design",
+    "Computer Architecture",
+    "Object Oriented",
+    "Quality Assurance & Testing"
+  ],
+  "description": "<div>\n<p>Making significant changes to large, complex codebases is a daunting task--one that's nearly impossible to do successfully unless you have the right team, tools, and mindset. If your application is in need of a substantial overhaul and you're unsure how to go about implementing those changes in a sustainable way, then this book is for you. Software engineer Maude Lemaire walks you through the entire refactoring process from start to finish. You'll learn from her experience driving performance and refactoring efforts at Slack during a period of critical growth, including two case studies illustrating the impact these techniques can have in the real world. This book will help you achieve a newfound ability to productively introduce important changes in your codebase. Understand how code degrades and why some degradation is inevitable Quantify and qualify the state of your codebase before refactoring Draft a well-scoped execution plan with strategic milestones Win support from engineering leadership Build and coordinate a team best suited for the project Communicate effectively inside and outside your team Adopt best practices for successfully executing the refactor</p></div>"
+}

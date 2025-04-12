@@ -1,0 +1,29 @@
+{
+  "book_id": 84,
+  "book_uuid": "c223a079-d895-4d58-bfeb-3b59f4d1a0b1",
+  "title": "Advanced Analytics and Learning on Temporal Data: 5th ECML PKDD Workshop, AALTD 2020, Ghent, Belgium, September 18, 2020, Revised Selected Papers",
+  "pubdate": "2020-12-16 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Vincent Lemaire",
+  "publisher_name": "Springer International Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Data Analytics",
+    "Mathematics",
+    "Probability & Statistics",
+    "Business & Productivity Software",
+    "Education",
+    "Computers & Technology",
+    "Networking",
+    "Information Technology",
+    "Expert Systems",
+    "Desktop Applications",
+    "Hardware"
+  ],
+  "description": "<div>\n<p>This book constitutes the refereed proceedings of the 4th ECML PKDD Workshop on Advanced Analytics and Learning on Temporal Data, AALTD 2019, held in Ghent, Belgium, in September 2020. The 15 full papers presented in this book were carefully reviewed and selected from 29 submissions. The selected papers are devoted to topics such as Temporal Data Clustering; Classification of Univariate and Multivariate Time Series; Early Classification of Temporal Data; Deep Learning and Learning Representations for Temporal Data; Modeling Temporal Dependencies; Advanced Forecasting and Prediction Models; Space-Temporal Statistical Analysis; Functional Data Analysis Methods; Temporal Data Streams; Interpretable Time-Series Analysis Methods; Dimensionality Reduction, Sparsity, Algorithmic Complexity and Big Data Challenge; and Bio-Informatics, Medical, Energy Consumption, Temporal Data.</p></div>"
+}

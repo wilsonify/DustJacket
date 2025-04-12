@@ -1,0 +1,26 @@
+{
+  "book_id": 854,
+  "book_uuid": "690caad1-04e9-49d0-84f2-fea31b9db991",
+  "title": "Jumpstarting Your Own PCB: Learn How to Design and Make Customized Circuit Boards",
+  "pubdate": "2018-10-23 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Shawn Wallace",
+  "publisher_name": "Make Community, LLC",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Technology & Engineering",
+    "Manufacturing",
+    "Electronics",
+    "Circuits",
+    "Logic Design",
+    "Design; Graphics & Media",
+    "Graphics Tools",
+    "Integrated",
+    "Solid State",
+    "Transistors"
+  ],
+  "description": "<div>\n<p>Learn to make your own printed circuit boards, using open source software and inexpensive manufacturing techniques!</p></div>"
+}

@@ -1,0 +1,13 @@
+{
+  "book_id": 2970,
+  "book_uuid": "618421e1-5359-4d9d-a98f-ffd793940771",
+  "title": "The Design and Analysis of Computer Experiments",
+  "pubdate": "2018-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Thomas J. Santner",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<div>\n<p>This book describes methods for designing and analyzing experiments that are conducted using a computer code, a computer experiment, and, when possible, a physical experiment. Computer experiments continue to increase in popularity as surrogates for and adjuncts to physical experiments. Since the publication of the first edition, there have been many methodological advances and software developments to implement these new methodologies. The computer experiments literature has emphasized the construction of algorithms for various data analysis tasks (design construction, prediction, sensitivity analysis, calibration among others), and the development of web-based repositories of designs for immediate application. While it is written at a level that is accessible to readers with Masters-level training in Statistics, the book is written in sufficient detail to be useful for practitioners and researchers. New to this revised and expanded edition: An expanded presentation of basic material on computer experiments and Gaussian processes with additional simulations and examples; A new comparison of plug-in prediction methodologies for real-valued simulator output ; An enlarged discussion of space-filling designs including Latin Hypercube designs (LHDs), near-orthogonal designs, and nonrectangular regions; A chapter length description of process-based designs for optimization, to improve good overall fit, quantile estimation, and Pareto optimization; A new chapter describing graphical and numerical sensitivity analysis tools; Substantial new material on calibration-based prediction and inference for calibration parameters; Lists of software that can be used to fit models discussed in the book to aid practitioners.</p></div>"
+}

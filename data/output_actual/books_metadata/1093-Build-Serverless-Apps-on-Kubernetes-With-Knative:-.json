@@ -1,0 +1,18 @@
+{
+  "book_id": 1093,
+  "book_uuid": "6572d45b-82d1-41cc-af94-328f7b93a670",
+  "title": "Build Serverless Apps on Kubernetes With Knative: Build, Deploy, and Manage Serverless Applications on Kubernetes (English Edition)",
+  "pubdate": "2023-08-21 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Amit Deshpande",
+  "publisher_name": "BPB Publications",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Information Technology",
+    "Internet"
+  ],
+  "description": "<div>\n<p>Learn how to deploy and maintain high-performing, resilient serverless applications using KnativeKEY FEATURES\u00a0\u00a0\u25cf Understand the benefits of using Knative as the framework for your serverless applications.\u25cf Stay up-to-date with the latest features and capabilities of Knative.\u25cf Harness Knative's capabilities to build, deploy, and manage serverless containers. </p>\n<p>DESCRIPTION\u00a0As cloud computing has become increasingly important in modern development workflows, developers have begun to look for ways to harness its full potential. Serverless architecture is one such approach, and Knative is a powerful and versatile solution for deploying and managing serverless containers. </p>\n<p>This book is a comprehensive guide to Knative serverless containers. It begins by introducing the core concepts of serverless architecture and its benefits. Then, it provides an in-depth exploration of Knative, its components, and how it fits within the broader Kubernetes ecosystem. The book demonstrates how to build, deploy, and manage serverless containers using Knative through practical examples and case studies. It covers topics such as setting up a development environment, creating custom serverless applications, integrating with other cloud-native tools and services, and best practices for monitoring, logging, and troubleshooting. Toward the end, the book delves into advanced topics such as scaling, performance optimization, and security. </p>\n<p>By the book's end, you can run serverless applications on Kubernetes using Knative. </p>\n<p>WHAT YOU WILL LEARN\u25cf Get familiar with the core concepts of serverless architecture, the Knative project, and its components.\u25cf Learn how to set up a development environment for Knative.\u25cf Learn how to build and deploy Knative Functions effortlessly.\u25cf Build enterprise-grade apps using Knative components such as Serving and Eventing.\u25cf Optimize the performance and scalability of your serverless applications. </p>\n<p>WHO THIS BOOK IS FORWhether you're a current or aspiring tech/IT professional, a student, or someone who wants to start or advance their career in serverless architecture, this book is for you. </p>\n<p>TABLE OF CONTENTS1. Serverless and Knative in a Nutshell2. Installation and Configuration of Knative \u2013 Part I3. Installation and Configuration \u2013 Part II4. Knative Functions \u2013 An Overview5. Knative Serving6. Knative Eventing7. Scaling and Routing8. Knative Best Practices</p></div>"
+}

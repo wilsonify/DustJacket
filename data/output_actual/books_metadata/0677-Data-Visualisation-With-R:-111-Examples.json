@@ -1,0 +1,21 @@
+{
+  "book_id": 677,
+  "book_uuid": "09c28d3b-104a-4891-b505-4121647f7061",
+  "title": "Data Visualisation With R: 111 Examples",
+  "pubdate": "2019-11-23 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Thomas Rahlf",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Mathematics",
+    "Probability & Statistics",
+    "Software Development & Engineering",
+    "Computer Graphics"
+  ],
+  "description": "<div>\n<p>This book introduces readers to the fundamentals of creating presentation graphics using R, based on 111 detailed and complete scripts. It shows how bar and column charts, population pyramids, Lorenz curves, box plots, scatter plots, time series, radial polygons, Gantt charts, heat maps, bump charts, mosaic and balloon charts, and a series of different thematic map types can be created using R\u2019s Base Graphics System. Every example uses real data and includes step-by-step explanations of the figures and their programming. This second edition contains additional examples for cartograms, chord-diagrams and networks, and interactive visualizations with Javascript. </p>\n<p>The open source software R is an established standard and a powerful tool for various visualizing applications, integrating nearly all technologies relevant for data visualization. The basic software, enhanced by more than 14000 extension packs currently freely available, is intensively used by organizations including Google, Facebook and the CIA. The book serves as a comprehensive reference guide to a broad variety of applications in various fields. </p>\n<p>This book is intended for all kinds of R users, ranging from experts, for whom especially the example codes are particularly useful, to beginners, who will find the finished graphics most helpful in learning what R can actually deliver.</p></div>"
+}

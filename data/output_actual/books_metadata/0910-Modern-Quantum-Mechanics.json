@@ -1,0 +1,17 @@
+{
+  "book_id": 910,
+  "book_uuid": "4b841f7c-c86f-4210-97ac-38654192953a",
+  "title": "Modern Quantum Mechanics",
+  "pubdate": "2020-09-17 14:34:00.555955+00:00",
+  "isbn": "",
+  "author_name": "J. J. Sakurai",
+  "publisher_name": "Cambridge University Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Science",
+    "Physics",
+    "Quantum Theory"
+  ],
+  "description": "<p>Modern Quantum Mechanics is a classic graduate level textbook, covering the main concepts from quantum mechanics in a clear, organized and engaging manner. The original author, J. J. Sakurai, was a renowned particle theorist. This third edition, revised by Jim Napolitano, introduces topics that extend its value into the twenty-first century, such as modern mathematical techniques for advanced quantum mechanical calculations, while at the same time retaining fundamental topics such as neutron interferometer experiments, Feynman path integrals, correlation measurements, and Bell's inequalities. A solutions manual is available.</p>"
+}

@@ -1,0 +1,22 @@
+{
+  "book_id": 693,
+  "book_uuid": "c234a8b0-2d8f-4d56-b60c-c53b88377fb5",
+  "title": "Analysis of Integrated and Cointegrated Time Series With R",
+  "pubdate": "2008-09-03 14:35:13.015461+00:00",
+  "isbn": "",
+  "author_name": "Bernhard Pfaff",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Business & Economics",
+    "Mathematical & Statistical Software",
+    "Discrete Mathematics",
+    "Econometrics"
+  ],
+  "description": "<p>The analysis of integrated and co-integrated time series can be considered as the main methodology employed in applied econometrics. This book not only introduces the reader to this topic but enables him to conduct the various unit root tests and co-integration methods on his own by utilizing the free statistical programming environment R. The book encompasses seasonal unit roots, fractional integration, coping with structural breaks, and multivariate time series models. The book is enriched by numerous programming examples to artificial and real data so that it is ideally suited as an accompanying text book to computer lab classes. The second edition adds a discussion of vector auto-regressive, structural vector auto-regressive, and structural vector error-correction models. To analyze the interactions between the investigated variables, further impulse response function and forecast error variance decompositions are introduced as well as forecasting. The author explains how these model types relate to each other.</p>"
+}

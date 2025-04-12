@@ -1,0 +1,18 @@
+{
+  "book_id": 1167,
+  "book_uuid": "13c93a24-7c75-4829-8fa3-ab03feeb24fa",
+  "title": "Modern Full-Stack Development: Using TypeScript, React, Node.js, Webpack, and Docker",
+  "pubdate": "2020-03-29 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Frank Zammetti",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Information Technology",
+    "Internet",
+    "Web Programming"
+  ],
+  "description": "<div>\n<p>Explore what React, Node, TypeScript, Webpack, and Docker have to offer individually, and how they all fit together in modern app development. React is one of the most popular web development tools available today, and Node.js is extremely popular for server-side development. The fact that both utilize JavaScript is a big selling point, but as developers use the language more, they begin to recognize the shortcomings, and that\u2019s where TypeScript comes in and why it\u2019s gaining in popularity quickly. Add Webpack and Docker to the mix, and you\u2019ve got a potent full development stack on which to build applications. </p>\n<p>You\u2019ll begin by building a solid foundation of knowledge and quickly expand it by constructing two different real-world apps. These aren\u2019t just simple, contrived examples but real apps that you can choose to install on your servers and use for real. By the end, you will have a solid grasp of building apps with React, Node.js, and TypeScript and a good grasp on how Webpack can be used to optimize and organize your code for deployment. You\u2019ll also understand how Docker can be used to run the apps you build in a clear and well-defined way, all of which will be able to springboard you into creating more advanced apps on your own. What You'll Learn Get a project started and logically structure itConstruct a user interface with React and Material-UI Use WebSockets for real-time communication between client and serverBuild a REST API with Node and Express as another approach to client-server communicationPackage the app with Webpack for optimized deliveryTake a completed app and wrap it up with Docker for easy distributionReview a host of other ancillary topics including NPM, Semantic versioning, Babel, NoSQL, and more Who This Book Is For Web developers with basic knowledge of HTML, JavaScript, CSS, and CLI tools who are interested in and in all aspects of application development, and using TypeScript instead of straight JavaScript.</p></div>"
+}

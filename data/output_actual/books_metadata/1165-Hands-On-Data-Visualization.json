@@ -1,0 +1,24 @@
+{
+  "book_id": 1165,
+  "book_uuid": "49ca0c40-2214-4427-a904-56f36f6da953",
+  "title": "Hands-On Data Visualization",
+  "pubdate": "2021-03-11 19:38:23.671139+00:00",
+  "isbn": "",
+  "author_name": "Jack Dougherty",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Data Science",
+    "Business & Productivity Software",
+    "Business & Economics",
+    "Statistics",
+    "Data Modeling & Design",
+    "Marketing",
+    "Research",
+    "Data Visualization",
+    "Business Intelligence"
+  ],
+  "description": "<p>Tell your story and show it with data, using free and easy-to-learn tools on the web. This introductory book teaches you how to design interactive charts and customized maps for your website, beginning with simple drag-and-drop tools such as Google Sheets, Datawrapper, and Tableau Public. You'll also gradually learn how to edit open source code templates like Chart.js, Highcharts, and Leaflet on GitHub.</p>\n\n<p>Hands-On Data Visualization takes you step-by-step through tutorials, real-world examples, and online resources. This practical guide is ideal for students, nonprofit organizations, small business owners, local governments, journalists, academics, and anyone who wants to take data out of spreadsheets and turn it into lively interactive stories. No coding experience is required.</p>\n\n<p>Build interactive charts and maps and embed them in your websiteUnderstand the principles for designing effective charts and mapsLearn key data visualization concepts to help you choose the right toolsConvert and transform tabular and spatial data to tell your data storyEdit and host Chart.js, Highcharts, and Leaflet map code templates on GitHubLearn how to detect bias in charts and maps produced by others</p>"
+}

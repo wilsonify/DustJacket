@@ -1,0 +1,23 @@
+{
+  "book_id": 22,
+  "book_uuid": "abbd0872-ed2a-4342-be25-481670dd64f3",
+  "title": "JMP 11 Essential Graphing",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "JMP\u00ae The Statistical Discovery Software\u2122",
+    "JMP",
+    "JSL",
+    "JMP Scripting Language",
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<div>\n<p>Start with JMP 11 Essential Graphing to find the ideal graph for your data. The book begins with Graph Builder, a quick way to create graphs in a drag-and-drop window. Line charts, ellipses, box plots, and maps are just a few of the graphs available in Graph Builder. Find information about creating other types of plots: bubble plots, scatterplots, parallel plots, and more.</p></div>"
+}

@@ -1,0 +1,18 @@
+{
+  "book_id": 1098,
+  "book_uuid": "2dee1e59-d358-4514-a53a-03d83d07c626",
+  "title": "Serverless Architectures on AWS: With Examples Using AWS Lambda",
+  "pubdate": "2017-04-17 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Peter Sbarski",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Database Administration & Management",
+    "Internet",
+    "Web Programming"
+  ],
+  "description": "<div>\n<p>SummaryServerless Architectures on AWS teaches you how to build, secure and manage serverless architectures that can power the most demanding web and mobile apps. Forewords by Patrick Debois (Founder of devopsdays) and Dr. Donald F. Ferguson (Columbia University). </p>\n<p>Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. </p>\n<p>About the TechnologyThere's a shift underway toward serverless cloud architectures. With the release of serverless computer technologies such as AWS Lambda, developers are now building entirely serverless platforms at scale. In these new architectures, traditional back-end servers are replaced with cloud functions acting as discrete single-purpose services. By composing and combining these serverless cloud functions together in a loose orchestration and adopting useful third-party services, developers can create powerful yet easy-to-understand applications. </p>\n<p>About the BookServerless Architectures on AWS teaches you how to build, secure, and manage serverless architectures that can power the most demanding web and mobile apps. You'll get going quickly with this book's ready-made real-world examples, code snippets, diagrams, and descriptions of architectures that can be readily applied. By the end, you'll be able to architect and build your own serverless applications on AWS.What's InsideFirst steps with serverless computingImportant patterns and architecturesWriting AWS Lambda functions and using the API GatewayComposing serverless applications using key services like Auth0 and FirebaseSecuring, deploying, and managing serverless architecturesAbout the ReaderThis book is for software developers interested in back end technologies. Experience with JavaScript (node.js) and AWS is useful but not required. </p>\n<p>About the AuthorDr. Peter Sbarski is a well-known AWS expert, VP of engineering at A Cloud Guru, and head of Serverlessconf. </p>\n<p>Table of ContentsPART 1 - FIRST STEPSGoing serverlessArchitectures and patternsBuilding a serverless applicationSetting up your cloudPART 2 - CORE IDEASAuthentication and authorizationLambda the orchestratorAPI GatewayPART 3 - GROWING YOUR ARCHITECTUREStorageDatabaseGoing the last mileAPPENDIXESServices for your serverless architectureInstallation and setupMore about authentication and authorizationLambda insiderModels and mapping</p></div>"
+}

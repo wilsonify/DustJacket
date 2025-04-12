@@ -1,0 +1,22 @@
+{
+  "book_id": 12,
+  "book_uuid": "4d001549-e678-4c0f-a4c8-f73538702e54",
+  "title": "JMP 11 Reliability and Survival Methods",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "JMP",
+    "JSL",
+    "JMP Scripting Language",
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<div>\n<p>JMP 11 Reliability and Survival Methods provides details about evaluating and improving reliability in a product or system and analyzing survival data for people and products. The book explains how to fit the best distribution to your time-to-event data or analyze destruction data. A few other topics include analyzing competing causes of failure, modeling reliability as improvements are made over time, and analyzing recurring events.</p></div>"
+}

@@ -1,0 +1,22 @@
+{
+  "book_id": 1122,
+  "book_uuid": "d088a803-def0-4cab-bf5d-4525d304d09a",
+  "title": "Creative DIY Microcontroller Projects With TinyGo and WebAssembly: A Practical Guide to Building Embedded Applications for Low-Powered Devices, IoT, and Home Automation",
+  "pubdate": "2021-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Tobias Theel",
+  "publisher_name": "Packt Publishing, Limited",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Hardware",
+    "Technology & Engineering",
+    "Engineering (General)",
+    "Programming",
+    "Open Source",
+    "Printers; Scanners & External Accessories",
+    "Chips & Processors"
+  ],
+  "description": "<div>\n<p>Explore embedded programming, and get hands-on with real-world embedded projects relating to IoT, low-powered devices, and other complex systems using TinyGo and WebAssemblyKey features: Build creative embedded apps with TinyGo using low-powered devices and microcontrollersUnderstand the practicality involved in integrating hardware and sensors while programming them using TinyGoUse TinyGo in modern browsers to display embedded applications' statistics on WebAssembly dashboardsBook Description: While often considered a fast and compact programming language, Go usually creates large executables that are difficult to run on low-memory or low-powered devices such as microcontrollers or IoT. TinyGo is a new compiler that allows developers to compile their programs for such low-powered devices. As TinyGo supports all the standard features of the Go programming language, you won't have to tweak the code to fit on the microcontroller. </p>\n<p>This book is a hands-on guide packed full of interesting DIY projects that will show you how to build embedded applications. You will learn how to program sensors and work with microcontrollers such as Arduino UNO and Arduino Nano IoT 33. The chapters that follow will show you how to develop multiple real-world embedded projects using a variety of popular devices such as LEDs, 7-segment displays, and timers. Next, you will progress to build interactive prototypes such as a traffic lights system, touchless hand wash timer, and more. As you advance, you'll create an IoT prototype of a weather alert system and display those alerts on the TinyGo WASM dashboard. Finally, you will build a home automation project that displays stats on the TinyGo WASM dashboard. </p>\n<p>By the end of this microcontroller book, you will be equipped with the skills you need to build real-world embedded projects using the power of TinyGo. </p>\n<p>What You Will Learn: Discover a variety of TinyGo features and capabilities while programming your embedded devicesExplore how to use display devices to present your dataFocus on how to make TinyGo interact with multiple sensors for sensing temperature, humidity, and pressureProgram hardware devices such as Arduino Uno and Arduino Nano IoT 33 using TinyGoUnderstand how TinyGo works with GPIO, ADC, I2C, SPI, and MQTT network protocolsBuild your first TinyGo IoT and home automation prototypesIntegrate TinyGo in modern browsers using WebAssemblyWho this book is for: If you are a Go developer who wants to program low-powered devices and hardware such as Arduino UNO and Arduino Nano IoT 33, or if you are a Go developer who wants to extend your knowledge of using Go with WebAssembly while programming Go in the browser, then this book is for you. Go hobbyist programmers who are interested in learning more about TinyGo by working through the DIY projects covered in the book will also find this hands-on guide useful.</p></div>"
+}

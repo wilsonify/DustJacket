@@ -1,0 +1,25 @@
+{
+  "book_id": 840,
+  "book_uuid": "91ca0818-5e3b-4ef2-87a7-a797ed75955d",
+  "title": "Fuzzy Logic and Control: Software and Hardware Applications",
+  "pubdate": "1993-03-15 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mohammad Jamshidi",
+  "publisher_name": "PTR Prentice Hall",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Technology & Engineering",
+    "Software Development & Engineering",
+    "Electrical",
+    "Electronics",
+    "Automation",
+    "Logic",
+    "Robotics",
+    "Mechanical"
+  ],
+  "description": "<div>\n<p>The second in the new PH Series on Environmental and Intelligent Manufacturing Systems, this volume explores the state of the art in software and hardware implementations of fuzzy logic and fuzzy control. KEY TOPICS: Covers fuzzy set theory, fuzzy logic theory, and fuzzy control theory, and discusses applications to various systems -- from air conditioners to computer network security. MARKET: For manufacturing engineers and computer scientists.</p></div>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 2880,
+  "book_uuid": "222c85a7-2ce0-4ae9-aa8c-ed4341d00420",
+  "title": "Black Hat GraphQL: Attacking Next Generation APIs",
+  "pubdate": "2023-05-23 19:08:49.186534+00:00",
+  "isbn": "",
+  "author_name": "Nick Aleks",
+  "publisher_name": "No Starch Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Internet",
+    "Web Programming",
+    "Security",
+    "Network Security",
+    "Web Services & APIs"
+  ],
+  "description": "<p>Written by hackers for hackers, this hands-on book teaches penetration testers how to identify vulnerabilities in apps that use GraphQL, a data query and manipulation language for APIs adopted by major companies like Facebook and GitHub.</p>\n\n<p>Black Hat GraphQL is for anyone interested in learning how to break and protect GraphQL APIs with the aid of offensive security testing. Whether you\u2019re a penetration tester, security analyst, or software engineer, you\u2019ll learn how to attack GraphQL APIs, develop hardening procedures, build automated security testing into your development pipeline, and validate controls, all with no prior exposure to GraphQL required.</p>\n\n<p>Following an introduction to core concepts, you\u2019ll build your lab, explore the difference between GraphQL and REST APIs, run your first query, and learn how to create custom queries.</p>\n\n<p>You\u2019ll also learn how to:Use data collection and target mapping to learn about targets Defend APIs against denial-of-service attacks and exploit insecure configurations in GraphQL servers to gather information on hardened targetsImpersonate users and take admin-level actions on a remote serverUncover injection-based vulnerabilities in servers, databases, and client browsersExploit cross-site and server-side request forgery vulnerabilities, as well as cross-site WebSocket hijacking, to force a server to request sensitive information on your behalfDissect vulnerability disclosure reports and review exploit code to reveal how vulnerabilities have impacted large companiesThis comprehensive resource provides everything you need to defend GraphQL APIs and build secure applications. Think of it as your umbrella in a lightning storm.</p>"
+}

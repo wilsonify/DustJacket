@@ -1,0 +1,13 @@
+{
+  "book_id": 1166,
+  "book_uuid": "7dbe110e-7c29-427d-9ff1-f57023317edb",
+  "title": "Introduction to Apache Flink",
+  "pubdate": "2016-10-19 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Friedman| Ellen",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "Authors Ellen Friedman and Kostas Tzoumas show technical and nontechnical readers alike how Flink is engineered to overcome significant tradeoffs that have limited the effectiveness of other approaches to stream processing. You\u2019ll also learn how Flink has the ability to handle both stream and batch data processing with one technology."
+}

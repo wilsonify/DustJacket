@@ -1,0 +1,20 @@
+{
+  "book_id": 1143,
+  "book_uuid": "0da2a5b9-994d-4f85-a7ac-5750d0bc73db",
+  "title": "Cross-Platform Desktop Applications: Using Node, Electron, and NW.js",
+  "pubdate": "2017-05-03 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Paul Jensen",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Languages",
+    "JavaScript",
+    "Html",
+    "Operating Systems"
+  ],
+  "description": "<div>\n<p>SummaryCross-Platform Desktop Applications guides you step-by-step through creating Node.js desktop applications with NW.js and Electron from GitHub. Foreword by Cheng Zhao, creator of Electron. </p>\n<p>Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. </p>\n<p>About the TechnologyDesktop application development has traditionally required high-level programming languages and specialized frameworks. With Electron and NW.js, you can apply your existing web dev skills to create desktop applications using only HTML, CSS, and JavaScript. And those applications will work across Windows, Mac, and Linux, radically reducing development and training time. </p>\n<p>About the BookCross-Platform Desktop Applications guides you step by step through the development of desktop applications using Electron and NW.js. This example-filled guide shows you how to create your own file explorer, and then steps through some of the APIs provided by the frameworks to work with the camera, access the clipboard, make a game with keyboard controls, and build a Twitter desktop notification tool. You'll then learn how to test your applications, and debug and package them as binaries for various OSs. </p>\n<p>What's InsideCreate a selfie app with the desktop cameraLearn how to test Electron apps with DevtronLearn how to use Node.js with your applicationAbout the ReaderWritten for developers familiar with HTML, CSS, and JavaScript. </p>\n<p>About the AuthorPaul Jensen works at Starcount and lives in London, UK.Table of ContentsPART 1 - WELCOME TO NODE.JS DESKTOP APPLICATION DEVELOPMENTIntroducing Electron and NW.jsLaying the foundation for your first desktop applicationBuilding your first desktop applicationShipping your first desktop applicationPART 2 - DIVING DEEPERUsing Node.js within NW.js and ElectronExploring NW.js and Electron's internalsPART 3 - MASTERING NODE.JS DESKTOP APPLICATION DEVELOPMENTControlling how your desktop app is displayedCreating tray applicationsCreating application and context menusDragging and dropping files and crafting the UIUsing a webcam in your applicationStoring app dataCopying and pasting contents from the clipboardBinding on keyboard shortcutsMaking desktop notificationsPART 4 - GETTING READY TO RELEASETesting desktop appsImproving app performance with debuggingPackaging the application for the wider world</p></div>"
+}

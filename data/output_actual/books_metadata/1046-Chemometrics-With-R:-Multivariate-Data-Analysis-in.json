@@ -1,0 +1,24 @@
+{
+  "book_id": 1046,
+  "book_uuid": "c748066b-d8c0-4896-9e3e-e65c50b698af",
+  "title": "Chemometrics With R: Multivariate Data Analysis in the Natural and Life Sciences",
+  "pubdate": "2020-08-20 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Ron Wehrens",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Medical",
+    "Biostatistics",
+    "Science",
+    "Life Sciences",
+    "Chemistry",
+    "Anatomy & Physiology",
+    "Molecular Biology"
+  ],
+  "description": "<div>\n<p>This book offers readers an accessible introduction to the world of multivariate statistics in the life sciences, providing a comprehensive description of the general data analysis paradigm, from exploratory analysis (principal component analysis, self-organizing maps and clustering) to modeling (classification, regression) and validation (including variable selection). It also includes a special section discussing several more specific topics in the area of chemometrics, such as outlier detection, and biomarker identification. The corresponding R code is provided for all the examples in the book; and scripts, functions and data are available in a separate R package. This second revised edition features not only updates on many of the topics covered, but also several sections of new material (e.g., on handling missing values in PCA, multivariate process monitoring and batch correction).</p></div>"
+}

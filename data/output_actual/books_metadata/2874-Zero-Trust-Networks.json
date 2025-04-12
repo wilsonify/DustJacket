@@ -1,0 +1,22 @@
+{
+  "book_id": 2874,
+  "book_uuid": "a2c03b16-dd59-4f01-b86b-143a95b1ef59",
+  "title": "Zero Trust Networks",
+  "pubdate": "2024-02-23 20:41:54.493150+00:00",
+  "isbn": "",
+  "author_name": "Doug Barth",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Networking",
+    "Internet",
+    "Security",
+    "Network Security",
+    "Network Protocols",
+    "Online Safety & Privacy",
+    "Cryptography & Encryption"
+  ],
+  "description": "<p>This practical book provides a detailed explanation of the zero trust security model. Zero trust is a security paradigm shift that eliminates the concept of traditional perimeter-based security and requires you to \"always assume breach\" and \"never trust but always verify.</p>\n\n<p>\" The updated edition offers more scenarios, real-world examples, and in-depth explanations of key concepts to help you fully comprehend the zero trust security architecture.</p>\n\n<p>Examine fundamental concepts of zero trust security model, including trust engine, policy engine, and context aware agentsUnderstand how this model embeds security within the system's operation, with guided scenarios at the end of each chapterMigrate from a perimeter-based network to a zero trust network in productionExplore case studies that provide insights into organizations' zero trust journeysLearn about the various zero trust architectures, standards, and frameworks developed by NIST, CISA, DoD, and others</p>"
+}

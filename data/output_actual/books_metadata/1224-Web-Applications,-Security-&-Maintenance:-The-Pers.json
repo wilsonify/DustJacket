@@ -1,0 +1,24 @@
+{
+  "book_id": 1224,
+  "book_uuid": "b0702fd6-b0e8-4953-8dd6-3451c6b2df4e",
+  "title": "Web Applications, Security & Maintenance: The Personal Trainer for IIS 7.0 & IIS 7.5",
+  "pubdate": "2014-07-25 20:54:14.015549+00:00",
+  "isbn": "",
+  "author_name": "William Stanek",
+  "publisher_name": "RP Books & Audio",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Internet",
+    "Web Programming",
+    "Programming Languages",
+    "Application Development",
+    "Web",
+    "Web Services & APIs",
+    "Xml"
+  ],
+  "description": "<p>IIS provides the core services for hosting Web servers, Web applications, and Microsoft Windows SharePoint services. To learn how to manage Web applications running on IIS and perform advanced administration tasks, you need practical hands-on advice from an expert who has years of experience working with IIS. William Stanek is such an expert. By reading this book and working step by step through the essential tasks discussed, you can learn to: Manage ISAPI and CGI applications, Configure ASP, ASP.NET, and .NET, Framework settings, Create and configure custom IIS applications, Customize settings for application pools, Start, stop, and recycle worker processes, Maintain application health and performance, Enhance Web server security and permissions, Configure handler mappings and authentication, Install and use Active Directory Certificate Services, Monitor and optimize IIS performance, Manage IIS backups and metabase configurations. This book is designed for anyone who wants to learn how to manage Web applications and perform advanced administration of IIS 7.0 and IIS 7.5. Inside, you'll find comprehensive overviews, step-by-step procedures, frequently used tasks, documented examples, and much more. One of the goals is to keep the content so concise that the book remains compact and easy to navigate while at the same time ensuring that the book is packed with as much information as possible--making it a valuable resource.</p>"
+}

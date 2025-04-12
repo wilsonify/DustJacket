@@ -1,0 +1,20 @@
+{
+  "book_id": 869,
+  "book_uuid": "5bdb3e2f-1ade-45d7-8290-dfda467194b9",
+  "title": "Calculus",
+  "pubdate": "2015-02-05 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "James Stewart",
+  "publisher_name": "Cengage Learning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Algebra",
+    "Elementary",
+    "Calculus",
+    "Functional Analysis"
+  ],
+  "description": "<div>\n<p>Success in your calculus course starts here! James Stewart's CALCULUS: EARLY TRANSCENDENTALS texts are world-wide best-sellers for a reason: they are clear, accurate, and filled with relevant, real-world examples. With CALCULUS: EARLY TRANSCENDENTALS, Eighth Edition, Stewart conveys not only the utility of calculus to help you develop technical competence, but also gives you an appreciation for the intrinsic beauty of the subject. His patient examples and built-in learning aids will help you build your mathematical confidence and achieve your goals in the course.</p></div>"
+}

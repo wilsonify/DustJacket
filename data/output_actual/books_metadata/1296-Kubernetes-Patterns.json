@@ -1,0 +1,24 @@
+{
+  "book_id": 1296,
+  "book_uuid": "c8359d13-b37c-49a2-bb61-0966dd77e7db",
+  "title": "Kubernetes Patterns",
+  "pubdate": "2022-09-15 19:57:14.450344+00:00",
+  "isbn": "",
+  "author_name": "Bilgin Ibryam",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Internet",
+    "Web Programming",
+    "Distributed Systems",
+    "Tools",
+    "Open Source",
+    "Cloud Computing"
+  ],
+  "description": "<p>The way developers design, build, and run software has changed significantly with the evolution of microservices and containers. These modern architectures offer new distributed primitives that require a different set of practices than many developers, tech leads, and architects are accustomed to. With this focused guide, Bilgin Ibryam and Roland Huss provide common reusable patterns and principles for designing and implementing cloud native applications on Kubernetes.</p>\n\n<p>Each pattern includes a description of the problem and a Kubernetes-specific solution. All patterns are backed by and demonstrated with concrete code examples. This updated edition is ideal for developers and architects familiar with basic Kubernetes concepts who want to learn how to solve common cloud native challenges with proven design patterns.</p>\n\n<p>You'll explore:Foundational patterns covering core principles and practices for building and running container-based cloud native applicationsBehavioral patterns that delve into finer-grained concepts for managing various types of container and platform interactionsStructural patterns for organizing containers within a Pod for addressing specific use casesConfiguration patterns that provide insight into how application configurations can be handled in KubernetesSecurity patterns for hardening the access to cloud native applications running on KubernetesAdvanced patterns covering more complex topics such as operators and autoscaling</p>"
+}

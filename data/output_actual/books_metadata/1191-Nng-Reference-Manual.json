@@ -1,0 +1,20 @@
+{
+  "book_id": 1191,
+  "book_uuid": "0f2ec11c-92a5-47aa-bd0c-5f6a77de8270",
+  "title": "Nng Reference Manual",
+  "pubdate": "2018-05-31 19:33:23.358402+00:00",
+  "isbn": "",
+  "author_name": "Garrett D'Amore",
+  "publisher_name": "Staysail Systems, Incorporated",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Networking",
+    "Languages",
+    "C",
+    "Network Protocols"
+  ],
+  "description": "<p>NNG is the next generation communications library in the nanomsg suite of protocols. Implemented as a single library in the C programming language, this framework provides performant, scalable, secure, and reliable interoperability for distributed applications.</p>\n\n<p>Using the API described herein, it is easy to build concurrent distributed applications around common network communications patterns such as publish/subscribe, request/reply, or survey/respond.</p>\n\n<p>This desk reference contains all of the official documentation for NNG version 1.0.0, including documentation for both the new NNG API and the nanomsg historical API.</p>"
+}

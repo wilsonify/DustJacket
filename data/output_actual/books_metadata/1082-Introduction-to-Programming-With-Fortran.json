@@ -1,0 +1,19 @@
+{
+  "book_id": 1082,
+  "book_uuid": "9ff910bf-3812-4743-831b-e4c9b485a8cb",
+  "title": "Introduction to Programming With Fortran",
+  "pubdate": "2018-08-21 22:58:35.621923+00:00",
+  "isbn": "",
+  "author_name": "Ian Chivers",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Languages"
+  ],
+  "description": "<p>This fourth Edition presents new examples on submodules, derived type i/o, object oriented programming, abstract interfaces and procedure pointers, C interop, sorting and searching, statistics and converting to more modern versions of Fortran.</p>\n\n<p>Key FeaturesHighlights the core language features of modern Fortran including data typing, array processing, control structures, functions, subroutines, modules and submodules, user defined types, pointers, operator overloading, generic programming, parallel programming, abstract interfaces, procedure pointersPinpoints common problems that occur when programmingIllustrates the use of several compilersIntroduction to Programming with Fortran has been written for the complete beginner with little or no programming background as well as existing Fortran programmers and those with programming experience in other languages</p>"
+}

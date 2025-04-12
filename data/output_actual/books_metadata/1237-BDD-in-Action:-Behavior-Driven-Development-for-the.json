@@ -1,0 +1,18 @@
+{
+  "book_id": 1237,
+  "book_uuid": "647b3fa7-5369-4dfe-86b0-068579e46035",
+  "title": "BDD in Action: Behavior-Driven Development for the Whole Software Lifecycle",
+  "pubdate": "2014-09-29 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "John Smart",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Systems Analysis & Design"
+  ],
+  "description": "<div>\n<p>SummaryBDD in Action teaches you the Behavior-Driven Development model and shows you how to integrate it into your existing development process. First you'll learn how to apply BDD to requirements analysis to define features that focus your development efforts on underlying business goals. Then, you'll discover how to automate acceptance criteria and use tests to guide and report on the development process. Along the way, you'll apply BDD principles at the coding level to write more maintainable and better documented code. </p>\n<p>Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. </p>\n<p>About the TechnologyYou can't write good software if you don't understand what it's supposed to do. Behavior-Driven Development (BDD) encourages teams to use conversation and concrete examples to build up a shared understanding of how an application should work and which features really matter. With an emerging body of best practices and sophisticated new tools that assist in requirement analysis and test automation, BDD has become a hot, mainstream practice. </p>\n<p>About the BookBDD in Action teaches you BDD principles and practices and shows you how to integrate them into your existing development process, no matter what language you use. First, you'll apply BDD to requirements analysis so you can focus your development efforts on underlying business goals. Then, you'll discover how to automate acceptance criteria and use tests to guide and report on the development process. Along the way, you'll apply BDD principles at the coding level to write more maintainable and better documented code. No prior experience with BDD is required. </p>\n<p>What's InsideBDD theory and practiceHow BDD will affect your teamBDD for acceptance, integration, and unit testingExamples in Java, .NET, JavaScript, and moreReporting and living documentationAbout the AuthorJohn Ferguson Smart is a specialist in BDD, automated testing, and software lifecycle development optimization. Table of ContentsPART 1: FIRST STEPSBuilding software that makes a differenceBDD\u2014the whirlwind tourPART 2: WHAT DO I WANT? DEFINING REQUIREMENTS USING BDDUnderstanding the business goals: Feature Injection and related techniquesDefining and illustrating featuresFrom examples to executable specificationsAutomating the scenariosPART 3: HOW DO I BUILD IT? CODING THE BDD WAYFrom executable specifications to rock-solid automated acceptance testsAutomating acceptance criteria for the UI layerAutomating acceptance criteria for non-UI requirementsBDD and unit testingPART 4: TAKING BDD FURTHERLiving Documentation: reporting and project managementBDD in the build process</p></div>"
+}

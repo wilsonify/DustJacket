@@ -1,0 +1,21 @@
+{
+  "book_id": 1056,
+  "book_uuid": "5a94201a-fa8b-4675-b5bd-35bc681a84d4",
+  "title": "Data Visualization and Knowledge Engineering: Spotting Data Points With Artificial Intelligence",
+  "pubdate": "2019-08-09 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jude Hemanth",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Data Analytics",
+    "Technology & Engineering",
+    "Engineering (General)"
+  ],
+  "description": "<div>\n<p>This book presents the fundamentals and advances in the field of data visualization and knowledge engineering, supported by case studies and practical examples. Data visualization and engineering has been instrumental in the development of many data-driven products and processes. As such the book promotes basic research on data visualization and knowledge engineering toward data engineering and knowledge. Visual data exploration focuses on perception of information and manipulation of data to enable even non-expert users to extract knowledge. A number of visualization techniques are used in a variety of systems that provide users with innovative ways to interact with data and reveal patterns. A variety of scalable data visualization techniques are required to deal with constantly increasing volume of data in different formats. Knowledge engineering deals with the simulation of the exchange of ideas and the development of smart information systems in which reasoning and knowledge play an important role. Presenting research in areas like data visualization and knowledge engineering, this book is a valuable resource for students, scholars and researchers in the field. Each chapter is self-contained and offers an in-depth analysis of real-world applications. It discusses topics including (but not limited to) spatial data visualization; biomedical visualization and applications; image/video summarization and visualization; perception and cognition in visualization; visualization taxonomies and models; abstract data visualization; information and graph visualization; knowledge engineering; human\u2013machine cooperation; metamodeling; natural language processing; architectures of database, expert and knowledge-based systems; knowledge acquisition methods; applications, case studies and management issues: data administration issues and knowledge; tools for specifying and developing data and knowledge bases using tools based on communication aspects involved in implementing, designing and using KBSs in cyberspace; Semantic Web.</p></div>"
+}

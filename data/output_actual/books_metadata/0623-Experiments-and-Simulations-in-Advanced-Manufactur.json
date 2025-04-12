@@ -1,0 +1,18 @@
+{
+  "book_id": 623,
+  "book_uuid": "62183250-caaa-4f35-b409-b4e8c81bec6c",
+  "title": "Experiments and Simulations in Advanced Manufacturing",
+  "pubdate": "2021-04-29 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Panagiotis Kyratsis",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Technology & Engineering",
+    "Manufacturing",
+    "Industrial Engineering"
+  ],
+  "description": "<div>\n<p>This book presents the latest advances in manufacturing from both the experimental and simulation point of view. It covers most aspects of manufacturing engineering, i.e. theoretical, analytical, computational and experimental studies. Experimental studies on manufacturing processes require funds, time and expensive facilities, while numerical simulations and mathematical models can improve the efficiency of using the research results. It also provides high level of prediction accuracy and the basis for novel research directions.</p></div>"
+}

@@ -1,0 +1,13 @@
+{
+  "book_id": 1217,
+  "book_uuid": "787768b5-017a-4f7a-90c7-5ddc7df633ab",
+  "title": "Stream Processing with Apache Flink",
+  "pubdate": "2019-04-21 16:00:00+00:00",
+  "isbn": "",
+  "author_name": "Vasiliki Kalavri",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Get started with Apache Flink, the open source framework that powers some of the world\u2019s largest stream processing applications. With this practical book, you\u2019ll explore the fundamental concepts of parallel stream processing and discover how this technology differs from traditional batch data processing.</p><p>Longtime Apache Flink committers Fabian Hueske and Vasia Kalavri show you how to implement scalable streaming applications with Flink\u2019s DataStream API and continuously run and maintain these applications in operational environments. Stream processing is ideal for many use cases, including low-latency ETL, streaming analytics, and real-time dashboards as well as fraud detection, anomaly detection, and alerting. You can process continuous data of any kind, including user interactions, financial transactions, and IoT data, as soon as you generate them.</p><ul><li>Learn concepts and challenges of distributed stateful stream processing</li><li>Explore Flink\u2019s system architecture, including its event-time processing mode and fault-tolerance model</li><li>Understand the fundamentals and building blocks of the DataStream API, including its time-based and statefuloperators</li><li>Read data from and write data to external systems with exactly-once consistency</li><li>Deploy and configure Flink clusters</li><li>Operate continuously running streaming applications</li></ul></div></span>"
+}

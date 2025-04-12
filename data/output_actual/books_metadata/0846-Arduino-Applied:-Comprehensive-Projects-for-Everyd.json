@@ -1,0 +1,17 @@
+{
+  "book_id": 846,
+  "book_uuid": "c05701ae-9f2d-4e52-93ba-9109fe85bef7",
+  "title": "Arduino Applied: Comprehensive Projects for Everyday Electronics",
+  "pubdate": "2018-12-26 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Neil Cameron",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Hardware"
+  ],
+  "description": "<div>\n<p>Extend the range of your Arduino skills, incorporate the new developments in both hardware and software, and understand how the electronic applications function in everyday life. This project-based book extends the Arduino Uno starter kits and increases knowledge of microcontrollers in electronic applications. Learn how to build complex Arduino projects, break them down into smaller ones, and then enhance them, thereby broadening your understanding of each topic. </p>\n<p>You'll use the Arduino Uno in a range of applications such as a blinking LED, route mapping with a mobile GPS system, and uploading information to the internet. </p>\n<p>You'll also apply the Arduino Uno to sensors, collecting and displaying information, Bluetooth and wireless communications, digital image captures, route tracking with GPS, controlling motors, color and sound, building robots, and internet access. With Arduino Applied, prior knowledge of electronics is not required, as each topic is described and illustrated with examples using the Arduino Uno. </p>\n<p>What You\u2019ll LearnSet up the Arduino Uno and its programming environmentUnderstand the application of electronics in every day systemsBuild projects with a microcontroller and readily available electronic componentsWho This Book Is ForReaders with an Arduino starter-kit and little-to-no programming experience and those interested in \"how electronic appliances work. </p>\n<p>\"</p></div>"
+}
