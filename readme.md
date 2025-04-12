@@ -1,155 +1,132 @@
 
-Introduction: 
+# 📚 DustJacket: Machine Learning-Powered Metadata Cleanup for Calibre
 
-calibre is a powerful and easy to use e-book manager. 
+DustJacket brings the power of machine learning to your Calibre library. This project helps automatically clean, standardize, and enrich your `metadata.db` using a modular and scalable approach inspired by Microsoft’s Team Data Science Process (TDSP).
 
-Users say it’s outstanding and a must-have. 
+---
 
-It’ll allow you to do nearly everything and it takes things a step beyond normal e-book software. 
+## 🧭 Introduction
 
-It’s also completely free and open source.
+[Calibre](https://calibre-ebook.com/) is an outstanding, open-source e-book management tool loved by readers and digital librarians. It allows users to organize, convert, and manage e-books across formats and devices.
 
-What's the problem?
+However, as libraries grow, so does the **metadata chaos**.
 
-Calibre’s metadata.db can get messy over time due to:
+### ⚠️ The Problem
 
-    Inconsistent naming conventions (e.g., J.K. Rowling vs Rowling, J. K.)
+Over time, Calibre’s metadata may suffer from:
 
-    Duplicate or incomplete metadata
+- Inconsistent author name formats (e.g., *J.K. Rowling* vs *Rowling, J. K.*)
+- Duplicates, typos, or missing fields
+- Irregular or user-defined genres and tags
 
-    Incorrect formats or typos
+Manual cleanup is labor-intensive and error-prone. **Machine learning (ML)** can help by identifying patterns and recommending intelligent fixes.
 
-    Non-standard tags or genres
+---
 
-Manually fixing this at scale is tedious. 
+## 💡 Core ML Concepts
 
-This is where machine learning (ML) can assist by detecting patterns, 
-making predictions, and suggesting or automating fixes.
+### 1. Author Name Normalization
 
-# Core Idea: Using ML for Metadata Cleanup
+- **Technique**: TF-IDF + Clustering (DBSCAN) + Named Entity Recognition (NER)
+- **Goal**: Group and normalize variations of author names
+- **Example**: Combine `Rowling, J.K.` and `Joanne Rowling`
 
-The approach can be broken down into key ML applications:
-1. Author Name Normalization
+### 2. Genre/Tag Standardization
 
-    Model Type: Clustering (e.g., DBSCAN, Agglomerative Clustering) + Named Entity Recognition (NER)
+- **Technique**: NLP Classification (Logistic Regression or Transformers)
+- **Inputs**: Title, description, or book content
+- **Output**: Standardized genres like `"Science Fiction"`, `"Biography"`
 
-    Goal: Group similar author names and normalize to a canonical form
+### 3. Duplicate Detection
 
-    Example: Cluster Rowling, J.K. / J.K. Rowling / Joanne Rowling as one entity
+- **Technique**: Fuzzy matching (Levenshtein), cosine similarity
+- **Goal**: Detect near-identical books by comparing titles + authors
 
-2. Genre/Tag Standardization
+### 4. Missing Metadata Imputation
 
-    Model Type: NLP Classification (e.g., using BERT or Logistic Regression)
+- **Technique**: k-Nearest Neighbors or pretrained language models
+- **Goal**: Predict missing fields like `series`, `publisher`, or `tags`
 
-    Goal: Predict the correct genre based on title, description, or content
+---
 
-    Data Input: Book title, summary, or even EPUB/MOBI text
+## ⚙️ How It Works: A Practical Workflow
 
-    Output: Standardized genre labels (e.g., "Science Fiction", "Biography")
+### Step 1: Extract Metadata
 
-3. Duplicate Detection
+```bash
+sqlite3 metadata.db "SELECT title, authors, tags FROM books;"
+```
 
-    Model Type: Record linkage (fuzzy matching, cosine similarity, TF-IDF)
+Or use Python:
 
-    Goal: Find books that are likely duplicates based on title + author + publication year
+```python
+import pandas as pd
+import sqlite3
+conn = sqlite3.connect("metadata.db")
+df = pd.read_sql_query("SELECT * FROM books;", conn)
+```
 
-4. Filling in Missing Fields
+### Step 2: Clean Text
 
-    Model Type: Language Models or k-Nearest Neighbors
+- Lowercase, strip punctuation
+- Normalize whitespace and tokens
+- Optionally, lemmatize or remove stopwords
 
-    Goal: Predict missing values like series name or publisher from similar books
+### Step 3: Train & Apply ML Models
 
-# How To Apply This Practically
+- Author clustering (`code/author_clustering.py`)
+- Genre prediction (`code/genre_classifier.py`)
+- Duplicate detection (`code/duplicate_detector.py`)
 
-## Step 1: Extract Data from metadata.db
+### Step 4: Review & Fix
 
-Calibre uses SQLite, so you can query it like this:
+- Generate a CSV with suggested corrections
+- Apply them using Calibre’s `calibredb` CLI or API
 
-sqlite3 metadata.db "SELECT title, authors, tags, series_index, pubdate, publisher FROM books;"
+---
 
-Use Python's sqlite3 or pandas.read_sql_query() to pull it into a dataframe.
+## 📊 Visual Insights
 
-## Step 2: Clean and Prepare
+- Author clustering (e.g., PCA-reduced scatter plots)
+- Genre frequency bar charts
+- Heatmaps of missing fields
+- Similarity matrices for duplicates
 
-    Strip whitespace
+---
 
-    Normalize case
+## 🔁 Real-World Usage Pattern
 
-    Tokenize names and titles
+```bash
+Extract metadata.db → Analyze with ML → Generate corrections → Review → Re-import via Calibre tools
+```
 
-    Remove stopwords or punctuation if needed
+---
 
-## Step 3: Build and Train Models
+## 🌟 Bonus Ideas
 
-* Author Clustering
+- Fine-tune transformer models for better genre prediction
+- Use OCR on covers to infer missing titles or genres
+- Build a simple web interface for reviewing corrections
+- Automate with scheduled jobs to clean new additions
 
-* Genre Prediction 
+---
 
-* Duplicate Detection
+## 📂 Project Structure (TDSP-Aligned)
 
-## Step 4: Suggest Fixes or Apply Them
-
-Create a CSV with:
-
-    Suggested canonical author names
-
-    Suggested genres
-
-    Detected duplicates
-
-    Missing fields with model predictions
-
-Review manually or use Calibre's calibredb CLI to apply changes.
-
-# Visualization Aids
-
-You can use graphs to assist:
-
-    Clustering result plots (e.g., 2D PCA projection of author clusters)
-
-    Genre frequency histograms
-
-    Missing data heatmaps
-
-    Similarity matrices for duplicates
-
-# Real-World Application Workflow
-
-    Export metadata.db → DataFrame
-
-    Run ML scripts (clean, cluster, predict)
-
-    Generate a CSV or GUI interface for review
-
-    Re-import cleaned data using Calibre’s APIs or calibredb
-
-# Bonus Ideas
-
-    Transformers for more nuanced title/genre understanding
-
-    Fine-tune on your library if you have enough labeled examples
-
-    Automate updates via scheduled scripts if new books are added frequently
-
-# Structure
-
-Follows TDSP principles: modular code, notebooks, documentation, reproducible data pipeline.
-
+```
 DustJacket/
-│
 ├── README.md
 ├── .gitignore
 ├── requirements.txt
 ├── setup.py
 │
 ├── code/
-│   ├── __init__.py
-│   ├── extract_metadata.py     # Pull data from metadata.db
-│   ├── clean_text.py           # Normalize strings
-│   ├── author_clustering.py    # ML logic for author name grouping
-│   ├── genre_classifier.py     # Genre/tag prediction
-│   ├── duplicate_detector.py   # Fuzzy matching logic
-│   └── apply_fixes.py          # Write back or export updated metadata
+│   ├── extract_metadata.py
+│   ├── clean_text.py
+│   ├── author_clustering.py
+│   ├── genre_classifier.py
+│   ├── duplicate_detector.py
+│   └── apply_fixes.py
 │
 ├── data/
 │   ├── raw/
@@ -173,7 +150,9 @@ DustJacket/
 └── tests/
     ├── test_extract_metadata.py
     └── test_duplicate_detection.py
+```
 
+---
 
 ## 🚀 Getting Started
 
@@ -181,3 +160,14 @@ DustJacket/
 git clone https://github.com/yourusername/calibre-ml-cleanup.git
 cd calibre-ml-cleanup
 pip install -r requirements.txt
+```
+
+---
+
+## 🙌 Acknowledgments
+
+- [Calibre](https://calibre-ebook.com/)
+- [scikit-learn](https://scikit-learn.org/)
+- [HuggingFace Transformers](https://huggingface.co/transformers/)
+- [FuzzyWuzzy](https://github.com/seatgeek/fuzzywuzzy)
+- [TDSP Framework](https://learn.microsoft.com/en-us/azure/architecture/data-science-process/)
