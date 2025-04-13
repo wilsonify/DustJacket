@@ -20,25 +20,43 @@ def jaccard_similarity(a: str, b: str) -> float:
 
 
 def cosine_sim(text1: str, text2: str) -> float:
-    vec = TfidfVectorizer().fit_transform([text1, text2])
-    return cosine_similarity(vec[0:1], vec[1:2])[0][0]
+    vectorizer = TfidfVectorizer()
+    try:
+        vec = vectorizer.fit_transform([text1, text2])
+        return cosine_similarity(vec[0:1], vec[1:2])[0][0]
+    except ValueError:
+        # Return 0.0 similarity if text is empty or only has stopwords
+        return 0.0
+
+
+def n_choose_2(n):
+    """
+    the number of ways of picking 2 unordered outcomes from n possibilities
+    also known as a combination.
+    """
+    return n * (n - 1) / 2
 
 
 def main():
     # Setup paths
     metadata_files = glob(f"{path_to_data}/input/books_metadata/*.json")
+    metadata_files_len = len(metadata_files)
+    print(f"len(metadata_files) = {metadata_files_len}")
+    total = n_choose_2(metadata_files_len)
+    print(f"{metadata_files_len} choose 2 = {total}")
 
     # For reproducibility and avoiding self-comparisons
     file_pairs = combinations(metadata_files, 2)
 
     # Store results
     rows = []
-    for f1, f2 in file_pairs:
+    for count, (f1, f2) in enumerate(file_pairs):
         with open(f1, 'r', encoding='utf-8') as file1, open(f2, 'r', encoding='utf-8') as file2:
             try:
                 data1 = json.load(file1)
                 data2 = json.load(file2)
                 print(f"Read pair ({f1}, {f2})")
+                print(f"{count}/{total}")
             except Exception as e:
                 print(f"Skipping pair ({f1}, {f2}) due to error: {e}")
                 continue
