@@ -2,6 +2,9 @@ import json
 import os
 import sqlite3
 
+path_to_here = os.path.abspath(os.path.dirname(__file__))
+path_to_data = os.path.abspath(f"{path_to_here}/../../../data")
+
 
 def safe_filename(book_id, title):
     sanitized_title = (
@@ -84,4 +87,4 @@ def export_books_to_json(sqlite_file, output_dir):
 
 
 if __name__ == "__main__":
-    export_books_to_json("data/input/metadata.db", "data/output_actual/books_metadata")
+    export_books_to_json(f"{path_to_data}/input/metadata.db", f"{path_to_data}/output_actual/books_metadata")
