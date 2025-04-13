@@ -1,10 +1,10 @@
 import json
 import os
+import csv
 from glob import glob
 from itertools import combinations
 from typing import Tuple, List
 
-import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
@@ -58,6 +58,8 @@ def extract_fields(data: dict) -> Tuple[str, str, List[str], str]:
 
 def process_pair(f1: str, f2: str) -> dict:
     data1, data2 = safe_load_json(f1), safe_load_json(f2)
+    if not data1 or not data2:
+        return {}
 
     title1, author1, tags1, desc1 = extract_fields(data1)
     title2, author2, tags2, desc2 = extract_fields(data2)
@@ -77,6 +79,9 @@ def process_pair(f1: str, f2: str) -> dict:
         "author_similarity": jaccard_similarity(author1, author2),
         "description_similarity": cosine_sim(desc1, desc2) if desc1 and desc2 else 0.0,
         "tag_similarity": jaccard_similarity(" ".join(tags1), " ".join(tags2)) if tags1 and tags2 else 0.0,
+        "is_duplicate_rule_based": int(
+            jaccard_similarity(title1, title2) > 0.9 and jaccard_similarity(author1, author2) > 0.9
+        )
     }
 
 
@@ -87,18 +92,23 @@ def main():
     logging.info(f"Found {len(metadata_files)} metadata files")
     logging.info(f"Total comparisons: {total_pairs}")
 
-    results = []
-    for f1, f2 in tqdm(combinations(metadata_files, 2), total=total_pairs, desc="Processing pairs"):
-        row = process_pair(f1, f2)
-        # Simple rule-based label
-        row["is_duplicate_rule_based"] = int(row["title_similarity"] > 0.9 and row["author_similarity"] > 0.9)
-        results.append(row)
-
-    df = pd.DataFrame(results)
     os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
-    df.to_csv(OUTPUT_CSV, index=False)
 
-    logging.info(f"Saved dataset with {len(df)} pairs to {OUTPUT_CSV}")
+    # Write header first
+    with open(OUTPUT_CSV, "w", encoding="utf-8", newline='') as out_csv:
+        writer = None
+        for f1, f2 in tqdm(combinations(metadata_files, 2), total=total_pairs, desc="Comparing pairs"):
+            row = process_pair(f1, f2)
+            if not row:
+                continue
+
+            if writer is None:
+                writer = csv.DictWriter(out_csv, fieldnames=row.keys())
+                writer.writeheader()
+
+            writer.writerow(row)
+
+    logging.info(f"Saved dataset to {OUTPUT_CSV}")
 
 
 if __name__ == "__main__":
