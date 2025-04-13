@@ -1,14 +1,13 @@
-import json
-import os
 import csv
+import json
+import logging
+import os
 from glob import glob
 from itertools import combinations
-from typing import Tuple
 
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
 from tqdm import tqdm
-import logging
 
 # --- Setup Logging ---
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
