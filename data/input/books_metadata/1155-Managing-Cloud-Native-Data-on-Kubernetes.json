@@ -1,0 +1,13 @@
+{
+  "book_id": 1155,
+  "book_uuid": "d66fa61c-e4cd-4877-ac98-b45bdc7de13f",
+  "title": "Managing Cloud Native Data on Kubernetes",
+  "pubdate": "2023-01-25 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jeff Carpenter",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Kubernetes has become the primary platform for deploying and managing cloud native applications. But because it was originally designed for stateless workloads, working with data on Kubernetes has been challenging. If you want to avoid the inefficiencies and duplicative costs of having separate infrastructure for applications and data, this practical guide can help.</p><p>Using Kubernetes as your platform, you'll discover open source technologies that are designed and built for the cloud. Delve into case studies to avoid the pitfalls others have faced and explore new use cases. Get an insider's view of what's coming from the innovators who are creating next-generation architectures and infrastructure. And you'll learn how to:</p><ul><li>Manage different data use cases on Kubernetes</li><li>Reduce costs and simplify application development</li><li>Leverage data and infrastructure to create new use cases and business models</li><li>Make data infrastructure choices that are cost-efficient, secure, scalable, and elastic</li><li>And more</li></ul></div></span>"
+}

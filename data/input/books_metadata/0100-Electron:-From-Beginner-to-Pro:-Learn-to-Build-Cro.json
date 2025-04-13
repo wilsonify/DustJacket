@@ -1,0 +1,18 @@
+{
+  "book_id": 100,
+  "book_uuid": "b2b7a305-546a-47c8-9c71-b8b75d00ecd6",
+  "title": "Electron: From Beginner to Pro: Learn to Build Cross Platform Desktop Applications Using Github's Electron",
+  "pubdate": "2017-11-24 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Chris Griffith",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Information Technology",
+    "Internet",
+    "Web Programming"
+  ],
+  "description": "<div>\n<p>Discover how to take your existing web development skills and learn how to create desktop applications for macOS, Windows, and Linux, using GitHub's Electron. Learn how to combine the power of Node.js and Chromium to provide a powerful development platform for creating web applications that break free from the browser. Electron: From Beginner to Pro guides you through the capabilities that you have available to create desktop applications. Learn to use features like file system access, create native menus, OS-specific dialogs and more. The authors will show you how to package your application for distribution for multiple platforms and enable auto-updating. </p>\n<p>What You Will LearnLeverage your knowledge of HTML, CSS and JavaScriptUse current web applications for the desktopCreate and use Electron\u2019s main process and render process to create effective desktop applicationsCommunicate between processes and between windowsBuild desktop applications that can be updated and distributedWho This Book Is ForWeb developers looking to leverage their HTML, CSS and JavaScript skills to create desktop widgets and applications. Developers wanting to leverage existing a Web application to extend functionality with a desktop application.</p></div>"
+}

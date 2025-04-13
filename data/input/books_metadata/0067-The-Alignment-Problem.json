@@ -1,0 +1,13 @@
+{
+  "book_id": 67,
+  "book_uuid": "9f6897cb-0b97-42ad-a2db-fbfdc9376066",
+  "title": "The Alignment Problem",
+  "pubdate": "2020-08-27 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Brian Christian",
+  "publisher_name": "W. W. Norton & Company",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p><strong>A jaw-dropping exploration of everything that goes wrong when we build AI systems&#8212;and the movement to fix them.</strong></p><p>Today's \"machine-learning\" systems, trained by data, are so effective that we've invited them to see and hear for us&#8212;and to make decisions on our behalf. But alarm bells are ringing. Systems cull r&#233;sum&#233;s until, years later, we discover that they have inherent gender biases. Algorithms decide bail and parole&#8212;and appear to assess black and white defendants differently. We can no longer assume that our mortgage application, or even our medical tests, will be seen by human eyes. And autonomous vehicles on our streets can injure or kill.</p><p>When systems we attempt to teach will not, in the end, do what we want or what we expect, ethical and potentially existential risks emerge. Researchers call this the alignment problem. In best-selling author Brian Christian's riveting account, we meet the alignment problem's..."
+}

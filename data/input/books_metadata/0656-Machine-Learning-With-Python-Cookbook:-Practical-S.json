@@ -1,0 +1,26 @@
+{
+  "book_id": 656,
+  "book_uuid": "f1fb5c09-87dd-4191-be76-dccbc8d261fb",
+  "title": "Machine Learning With Python Cookbook: Practical Solutions From Preprocessing to Deep Learning",
+  "pubdate": "2018-03-15 19:08:38.631185+00:00",
+  "isbn": "",
+  "author_name": "Chris Albon",
+  "publisher_name": "O'Reilly",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Data Analytics",
+    "Machine Learning",
+    "Programming",
+    "Algorithms",
+    "Computer Science",
+    "Languages",
+    "Python",
+    "Data Modeling & Design",
+    "Reference"
+  ],
+  "description": "<p>This practical guide provides nearly 200 self-contained recipes to help you solve machine learning challenges you may encounter in your daily work. If you're comfortable with Python and its libraries, including pandas and scikit-learn, you'll be able to address specific problems such as loading data, handling text or numerical data, model selection, and dimensionality reduction and many other topics.</p>\n\n<p>Each recipe includes code that you can copy and paste into a toy dataset to ensure that it actually works. From there, you can insert, combine, or adapt the code to help construct your application. Recipes also include a discussion that explains the solution and provides meaningful context. This cookbook takes you beyond theory and concepts by providing the nuts and bolts you need to construct working machine learning applications.</p>\n\n<p>You'll find recipes for: Vectors, matrices, and arraysHandling numerical and categorical data, text, images, and dates and timesDimensionality reduction using feature extraction or feature selectionModel evaluation and selectionLinear and logical regression, trees and forests, and k-nearest neighborsSupport vector machines (SVM), na ve Bayes, clustering, and neural networksSaving and loading trained models</p>"
+}

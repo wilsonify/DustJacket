@@ -1,0 +1,23 @@
+{
+  "book_id": 8,
+  "book_uuid": "6b67b323-aad5-45e5-b509-875705e6e909",
+  "title": "Using JMP 11",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "JMP\u00ae The Statistical Discovery Software\u2122",
+    "JMP",
+    "JSL",
+    "JMP Scripting Language",
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<div>\n<p>Using JMP 11 shows you how to perform common tasks such as importing data, setting column properties, exporting analyses as graphics or HTML, and modifying JMP preferences. Details about connecting to SAS and working in the Formula Editor are also provided.</p></div>"
+}

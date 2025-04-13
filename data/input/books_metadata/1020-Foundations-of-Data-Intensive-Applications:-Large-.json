@@ -1,0 +1,20 @@
+{
+  "book_id": 1020,
+  "book_uuid": "634669ee-ac14-4ced-918e-e85937a1b5ef",
+  "title": "Foundations of Data Intensive Applications: Large Scale Data Analytics Under the Hood",
+  "pubdate": "2021-08-11 20:03:23.710803+00:00",
+  "isbn": "",
+  "author_name": "Supun Kamburugamuve",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Information Technology",
+    "Desktop Applications",
+    "Data Modeling & Design"
+  ],
+  "description": "<p>PEEK \u201cUNDER THE HOOD\u201d OF BIG DATA ANALYTICS The world of big data analytics grows ever more complex. And while many people can work superficially with specific frameworks, far fewer understand the fundamental principles of large-scale, distributed data processing systems and how they operate. In Foundations of Data Intensive Applications: Large Scale Data Analytics under the Hood, renowned big-data experts and computer scientists Drs. Supun Kamburugamuve and Saliya Ekanayake deliver a practical guide to applying the principles of big data to software development for optimal performance. The authors discuss foundational components of large-scale data systems and walk readers through the major software design decisions that define performance, application type, and usability. You???ll learn how to recognize problems in your applications resulting in performance and distributed operation issues, diagnose them, and effectively eliminate them by relying on the bedrock big data principles explained within. Moving beyond individual frameworks and APIs for data processing, this book unlocks the theoretical ideas that operate under the hood of every big data processing system. Ideal for data scientists, data architects, dev-ops engineers, and developers, Foundations of Data Intensive Applications: Large Scale Data Analytics under the Hood shows readers how to: Identify the foundations of large-scale, distributed data processing systems Make major software design decisions that optimize performance Diagnose performance problems and distributed operation issues Understand state-of-the-art research in big data Explain and use the major big data frameworks and understand what underpins them Use big data analytics in the real world to solve practical problems</p>"
+}

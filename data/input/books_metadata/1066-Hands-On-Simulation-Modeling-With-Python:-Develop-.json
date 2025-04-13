@@ -1,0 +1,23 @@
+{
+  "book_id": 1066,
+  "book_uuid": "7764c2b5-834c-4c9b-9040-8d55b759b7fa",
+  "title": "Hands-On Simulation Modeling With Python: Develop Simulation Models to Get Accurate Results and Enhance Decision-Making Processes",
+  "pubdate": "2020-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Giuseppe Ciaburro",
+  "publisher_name": "Packt Publishing, Limited",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Mathematics",
+    "Database Administration & Management",
+    "Computer Science",
+    "Data Modeling & Design",
+    "Computer Simulation",
+    "Computer Architecture"
+  ],
+  "description": "<div>\n<p>Enhance your simulation modeling skills by creating and analyzing digital prototypes of a physical model using Python programming with this comprehensive guideKey Features Learn to create a digital prototype of a real model using hands-on examples Evaluate the performance and output of your prototype using simulation modeling techniques Understand various statistical and physical simulations to improve systems using Python Book Description Simulation modeling helps you to create digital prototypes of physical models to analyze how they work and predict their performance in the real world. With this comprehensive guide, you'll understand various computational statistical simulations using Python. Starting with the fundamentals of simulation modeling, you'll understand concepts such as randomness and explore data generating processes, resampling methods, and bootstrapping techniques. You'll then cover key algorithms such as Monte Carlo simulations and Markov decision processes, which are used to develop numerical simulation models, and discover how they can be used to solve real-world problems. As you advance, you'll develop simulation models to help you get accurate results and enhance decision-making processes. Using optimization techniques, you'll learn to modify the performance of a model to improve results and make optimal use of resources. The book will guide you in creating a digital prototype using practical use cases for financial engineering, prototyping project management to improve planning, and simulating physical phenomena using neural networks. By the end of this book, you'll have learned how to construct and deploy simulation models of your own to overcome real-world challenges. What you will learn Gain an overview of the different types of simulation models Get to grips with the concepts of randomness and data generation process Understand how to work with discrete and continuous distributions Work with Monte Carlo simulations to calculate a definite integral Find out how to simulate random walks using Markov chains Obtain robust estimates of confidence intervals and standard errors of population parameters Discover how to use optimization methods in real-life applications Run efficient simulations to analyze real-world systems Who this book is for Hands-On Simulation Modeling with Python is for simulation developers and engineers, model designers, and anyone already familiar with the basic computational methods that are used to study the behavior of systems. This book will help you explore advanced simulation techniques such as Monte Carlo methods, statistical simulations, and much more using Python. Working knowledge of Python programming language is required.</p></div>"
+}

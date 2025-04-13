@@ -1,0 +1,30 @@
+{
+  "book_id": 841,
+  "book_uuid": "efb8d2a9-712d-40d6-85a4-17a4bab1b80b",
+  "title": "Distributed Model Predictive Control Made Easy",
+  "pubdate": "2013-11-10 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jos\u00e9 M. Maestre",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Technology & Engineering",
+    "Electrical",
+    "Business & Economics",
+    "Automation",
+    "Science",
+    "Computer Simulation",
+    "Language Arts & Disciplines",
+    "Mechanical",
+    "Mechanics",
+    "Library & Information Science",
+    "System Theory",
+    "Dynamics",
+    "Strategic Planning",
+    "Organizational Behavior"
+  ],
+  "description": "<div>\n<p>The rapid evolution of computer science, communication, and information technology has enabled the application of control techniques to systems beyond the possibilities of control theory just a decade ago. Critical infrastructures such as electricity, water, traffic and intermodal transport networks are now in the scope of control engineers. The sheer size of such large-scale systems requires the adoption of advanced distributed control approaches. Distributed model predictive control (MPC) is one of the promising control methodologies for control of such systems. </p>\n<p>This book provides a state-of-the-art overview of distributed MPC approaches, while at the same time making clear directions of research that deserve more attention. The core and rationale of 35 approaches are carefully explained. Moreover, detailed step-by-step algorithmic descriptions of each approach are provided. These features make the book a comprehensive guide both for those seeking an introduction to distributed MPC as well as for those who want to gain a deeper insight in the wide range of distributed MPC techniques available.</p></div>"
+}

@@ -1,0 +1,29 @@
+{
+  "book_id": 686,
+  "book_uuid": "44c37531-6016-4c5a-995e-d68903311bdd",
+  "title": "Wavelet Methods in Statistics With R",
+  "pubdate": "2010-07-25 14:18:33.931400+00:00",
+  "isbn": "",
+  "author_name": "Guy Nason",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Psychology",
+    "Computers",
+    "Data Science",
+    "Data Analytics",
+    "Mathematics",
+    "Probability & Statistics",
+    "Stochastic Processes",
+    "Business & Economics",
+    "Science",
+    "Life Sciences",
+    "Anatomy & Physiology",
+    "Molecular Biology",
+    "Econometrics",
+    "Assessment; Testing & Measurement"
+  ],
+  "description": "<p>This book contains information on how to tackle many important problems using a multiscale statistical approach. It focuses on how to use multiscale methods and discusses methodological and applied considerations.</p>"
+}

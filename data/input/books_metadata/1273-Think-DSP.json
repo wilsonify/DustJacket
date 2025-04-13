@@ -1,0 +1,13 @@
+{
+  "book_id": 1273,
+  "book_uuid": "84027088-2bef-40f8-b0d3-ee95203abaa8",
+  "title": "Think DSP",
+  "pubdate": "2016-07-27 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Allen B. Downey",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p>If you understand basic mathematics and know how to program with Python, you're ready to dive into signal processing. While most resources start with theory to teach this complex subject, this practical book introduces techniques by showing you how they're applied in the real world. In the first chapter alone, you'll be able to decompose a sound into its harmonics, modify the harmonics, and generate new sounds.</p><p>Author Allen Downey explains techniques such as spectral decomposition, filtering, convolution, and the Fast Fourier Transform. This book also provides exercises and code examples to help you understand the material.</p><p>You'll explore:</p><li>Periodic signals and their spectrums</li><li>Harmonic structure of simple waveforms</li><li>Chirps and other sounds whose spectrum changes over time</li><li>Noise signals and natural sources of noise</li><li>The autocorrelation function for estimating pitch</li><li>The discrete cosine transform (DCT) for..."
+}

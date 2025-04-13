@@ -1,0 +1,21 @@
+{
+  "book_id": 1164,
+  "book_uuid": "d0c7549d-d63d-4488-a1b7-0a3f92924f75",
+  "title": "Building RESTful Python Web Services",
+  "pubdate": "2016-10-27 19:56:04.820708+00:00",
+  "isbn": "",
+  "author_name": "Gaston C. Hillar",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Software Development & Engineering",
+    "Languages",
+    "Python",
+    "Internet",
+    "Tools",
+    "Web Services & APIs"
+  ],
+  "description": "<p>Create web services that are lightweight, maintainable, scalable, and secure using the best tools and techniques designed for PythonAbout This BookDevelop RESTful Web Services using the most popular frameworks in PythonConfigure and fine-tune your APIs using the best tools and techniques availableThis practical guide will help you to implement complete REST-based APIs from scratchWho This Book Is ForThis book is for web developers who have working knowledge of Python and would like to build amazing web services by taking advantage of the various frameworks of Python. You should have some knowledge of RESTful APIs.</p>\n\n<p>What You Will LearnDevelop complex RESTful APIs from scratch with Python combined with and without data sourcesChoose the most appropriate (micro) framework based on the specific requirements of a RESTful API / web serviceDebug, test, and profile RESTful APIs with each of the frameworksDevelop a complex RESTful API that interacts with a PostgreSQL database Add authentication and permissions to a RESTful API built in each of the frameworksMap URL patterns to request handlers and check how the API worksProfile an existing API and refactor it to take advantage of asynchronous codeIn DetailPython is the language of choice for millions of developers worldwide, due to its gentle learning curve as well as its vast applications in day-to-day programming. It serves the purpose of building great web services in the RESTful architecture. This book will show you the best tools you can use to build your own web services.</p>\n\n<p>Learn how to develop RESTful APIs using the popular Python frameworks and all the necessary stacks with Python, Django, Flask, and Tornado, combined with related libraries and tools. We will dive deep into each of these frameworks to build various web services, and will provide use cases and best practices on when to use a particular framework to get the best results.</p>\n\n<p>We will show you everything required to successfully develop RESTful APIs with the four frameworks such as request handling, URL mapping, serialization, validation, authentication, authorization, versioning, ORMs, databases, custom code for models and views, and asynchronous callbacks. At the end of each framework, we will add authentication and security to the RESTful APIs and prepare tests for it.</p>\n\n<p>By the end of the book, you will have a deep understanding of the stacks needed to build RESTful web services.</p>\n\n<p>Style and approachThe book takes a straightforward approach, not spending time getting you started with RESTful APIs and web services. It will give you the best use cases for each framework to build great web services in Python.</p>"
+}

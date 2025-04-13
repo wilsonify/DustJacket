@@ -1,0 +1,19 @@
+{
+  "book_id": 923,
+  "book_uuid": "5f50223d-6d95-4d65-8202-1c4a9bad9879",
+  "title": "Build Supercomputers With Raspberry Pi 3",
+  "pubdate": "2017-03-23 20:25:53.707417+00:00",
+  "isbn": "",
+  "author_name": "Carlos R. Morrison",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Hardware",
+    "Mainframes & Minicomputers",
+    "Chips & Processors"
+  ],
+  "description": "<p>A step-by-step guide that will enhance your skills in creating powerful systems to solve complex issuesAbout This BookCarlos R. Morrison from NASA will teach you to build a supercomputer with Raspberry Pi 3Deepen your understanding of setting up host nodes, configuring networks, and automating mountable drivesLearn various math, physics, and engineering applications to solve complex problemsWho This Book Is ForThis book targets hobbyists and enthusiasts who want to explore building supercomputers with microcomputers. Researchers will also find this book useful. Prior programming knowledge is necessary; knowledge of supercomputers is not.</p>\n\n<p>What You Will LearnUnderstand the concept of the Message Passing Interface (MPI)Understand node networking.</p>\n\n<p>Configure nodes so that they can communicate with each other via the network switchBuild a Raspberry Pi3 supercomputer.</p>\n\n<p>Test the superclusterUse the supercomputer to calculate MPI p codes.</p>\n\n<p>Learn various practical supercomputer applicationsIn DetailAuthor Carlos R. Morrison (Staff Scientist, NASA) will empower the uninitiated reader to quickly assemble and operate a Pi3 supercomputer in the shortest possible time. The lifeblood of a supercomputer, the MPI code, is introduced early, and sample MPI code provides additional practice opportunities for you to test the effectiveness of your creation. You will learn how to configure various nodes and switches so that they can effectively communicate with each other. By the end of this book, you will have successfully built a supercomputer and the various applications related to it.</p>\n\n<p>Style and approachA progressive guide that will start off with serial coding and MPI concepts, moving towards configuring a complete supercluster, and solving real world problems</p>"
+}

@@ -1,0 +1,22 @@
+{
+  "book_id": 1163,
+  "book_uuid": "f241d1da-7be1-4efc-b60d-c8d7a9a9325e",
+  "title": "Hands-On Software Architecture With C# 8 and . NET Core 3: Architecting Software Solutions Using Microservices, DevOps, and Design Patterns for Azure Cloud",
+  "pubdate": "2019-11-29 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Gabriel Baptista",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Languages",
+    "Systems Analysis & Design",
+    "C#",
+    "Tools"
+  ],
+  "description": "<div>\n<p>Design scalable and high-performance enterprise applications using the latest features of C# 8 and .NET Core 3 Key Features Become a software architect capable of creating modular apps for specific business needs Design high-performance software systems using the latest features of C# 8 and .NET Core 3 Solve scalability problems in web apps using enterprise architectural patterns Book Description Software architecture is the practice of implementing structures and systems that streamline the software development process and improve the quality of an app. With this software architecture book, you'll follow a hands-on approach to learning various architectural methods that will help you develop and deliver high-quality products. You'll begin by understanding how to transform user requirements into architectural needs and exploring the differences between functional and non-functional requirements. Next, you'll explore how to carefully choose a cloud solution for your infrastructure, along with covering dos and don'ts that will help you manage your app in a cloud-based environment. Later chapters will cover techniques and processes such as DevOps, microservices, and continuous integration, along with providing insights into implementing them using Microsoft technologies such as ASP.NET Core, the Entity Framework, Cosmos DB, and Azure DevOps. You will also learn about testing frameworks and automation tools that will help you through the development process. Finally, you'll discover design patterns and various software approaches that will allow you to solve common problems faced during development. By the end of this book, you'll be able to develop and deliver highly scalable enterprise-ready apps that meet customers' business needs. What you will learn Overcome real-world architectural challenges and solve design consideration issues Apply architectural approaches like Layered Architecture, service-oriented architecture (SOA), and microservices Learn to use tools like containers, Docker, and Kubernetes to manage microservices Get up to speed with Azure Cosmos DB for delivering multi-continental solutions Learn how to program and maintain Azure Functions using C# Understand when to use test-driven development (TDD) as an approach for software development Write automated functional test cases for your projects Who this book is for This book is for engineers and senior developers aspiring to become architects or looking to build enterprise applications with the .NET Stack. Experience with C# and .NET is required to understand this book.</p></div>"
+}

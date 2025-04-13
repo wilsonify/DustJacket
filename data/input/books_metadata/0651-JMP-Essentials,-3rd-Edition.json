@@ -1,0 +1,13 @@
+{
+  "book_id": 651,
+  "book_uuid": "6fb9c08b-62af-4b9c-a66c-3ce9c0685ba6",
+  "title": "JMP Essentials, 3rd Edition",
+  "pubdate": "2020-03-17 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Susan Walsh",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><b/><p>Grasp the essentials of JMP to generate rapid results.</p><p><i>JMP Essentials: An Illustrated Guide for New Users, Third Edition,</i> is designed for new or novice JMP users who need to generate meaningful analysis quickly. The book focuses on the most commonly used platforms and typical workflow of the user, from data importing, exploring, and visualizing to modeling and sharing results with others. Throughout the book, the authors emphasize results over theory, providing just the essential steps with corresponding screenshots. In most cases, each section completes a JMP task, which maximizes the book\u2019s utility as a reference.</p><p>This edition has new instructions and screenshots reflecting the features added to the latest release of JMP software, including updated sections on JMP Dashboard Builder, Query Builder, the Fit Model platform, JMP Public and JMP Live, and a more detailed look at the JMP website. Each chapter contains a family of features that are carefully crafted to first introduce you to basic features and then move on to more advanced topics. <i>JMP Essentials: An Illustrated Guide for New Users, Third Edition,</i> is the quickest and most accessible reference book available.</p></span>"
+}

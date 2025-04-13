@@ -1,0 +1,19 @@
+{
+  "book_id": 1074,
+  "book_uuid": "f36785ee-17c4-4664-91c5-cf4d3cd531a3",
+  "title": "JavaScript Everywhere: Building Cross-Platform Applications With GraphQL, React, React Native, and Electron",
+  "pubdate": "2020-02-06 20:48:27.821196+00:00",
+  "isbn": "",
+  "author_name": "Adam D. Scott",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Languages",
+    "Internet",
+    "JavaScript",
+    "Web Services & APIs"
+  ],
+  "description": "<p>JavaScript is the little scripting language that could. Once used chiefly to add interactivity to web browser windows, JavaScript is now a primary building block of powerful and robust applications. In this practical book, new and experienced JavaScript developers will learn how to use this language to create APIs as well as web, mobile, and desktop applications.</p>\n\n<p>Author and engineering leader Adam D. Scott covers technologies such as Node.js, GraphQL, React, React Native, and Electron. Ideal for developers who want to build full stack applications and ambitious web development beginners looking to bootstrap a startup, this book shows you how to create a single CRUD-style application that will work across several platforms.</p>\n\n<p>Explore GraphQL\u2019s simple process for querying dataLearn about shared authentication for APIs, web apps, and native applicationsBuild performant web applications with React and Styled ComponentsUse React Native to write cross-platform applications for iOS and Android that compile to native codeLearn how to write desktop applications with Electron</p>"
+}

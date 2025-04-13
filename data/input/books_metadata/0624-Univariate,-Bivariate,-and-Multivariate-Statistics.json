@@ -1,0 +1,19 @@
+{
+  "book_id": 624,
+  "book_uuid": "a30bd748-8ad5-4b92-9b1b-23a993d3d13c",
+  "title": "Univariate, Bivariate, and Multivariate Statistics Using R: Quantitative Tools for Data Analysis and Data Science",
+  "pubdate": "2020-04-14 19:35:12.224703+00:00",
+  "isbn": "",
+  "author_name": "Daniel J. Denis",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Stochastic Processes",
+    "Multivariate Analysis"
+  ],
+  "description": "<p>A practical source for performing essential statistical analyses and data management tasks in R Univariate, Bivariate, and Multivariate Statistics Using R offers a practical and very user-friendly introduction to the use of R software that covers a range of statistical methods featured in data analysis and data science. The author\u2014 a noted expert in quantitative teaching \u2014has written a quick go-to reference for performing essential statistical analyses and data management tasks in R. Requiring only minimal prior knowledge, the book introduces concepts needed for an immediate yet clear understanding of statistical concepts essential to interpreting software output.  The author explores univariate, bivariate, and multivariate statistical methods, as well as select nonparametric tests. Altogether a hands-on manual on the applied statistics and essential R computing capabilities needed to write theses, dissertations, as well as research publications. The book is comprehensive in its coverage of univariate through to multivariate procedures, while serving as a friendly and gentle introduction to R software for the newcomer. This important resource:  Offers an introductory, concise guide to the computational tools that are useful for making sense out of data using R statistical software Provides a resource for students and professionals in the social, behavioral, and natural sciences Puts the emphasis on the computational tools used in the discovery of empirical patterns Features a variety of popular statistical analyses and data management tasks that can be immediately and quickly applied as needed to research projects Shows how to apply statistical analysis using R to data sets in order to get started quickly performing essential tasks in data analysis and data science  Written for students, professionals, and researchers primarily in the social, behavioral, and natural sciences, Univariate, Bivariate, and Multivariate Statistics Using R offers an easy-to-use guide for performing data analysis fast, with an emphasis on drawing conclusions from empirical observations. The book can also serve as a primary or secondary textbook for courses in data analysis or data science, or others in which quantitative methods are featured.</p>"
+}

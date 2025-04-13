@@ -1,0 +1,19 @@
+{
+  "book_id": 1142,
+  "book_uuid": "21095f3c-559e-4e84-a4df-881c0d069b92",
+  "title": "Asyncio Recipes: A Problem-Solution Approach",
+  "pubdate": "2019-05-21 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mohamed Mustapha Tahrioui",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Programming",
+    "Languages",
+    "Python"
+  ],
+  "description": "<div>\n<p>Get the most out of asyncio and find solutions to your most troubling Python programming problems. This book offers a pragmatic collection of recipes by going beyond online resources and docs to provide guidance on using this complex library. As such, you\u2019ll see how to improve application performance and run computationally intensive programs faster.asyncio Recipes starts with examples illustrating the primitives that come with the asyncio library, and explains how to determine if asyncio is the right choice for your application. It shows how to use asyncio to yield performance gains without multiple threads, and identifies common mistakes and how to prevent them. Later chapters cover error-handling, testing, and debugging. By the end of this book, you'll understand how asyncio runs behind the scenes, and be confident enough to contribute to asyncio-first projects. </p>\n<p>What You Will LearnDiscover quirky APIs such as the event loop policiesWrite asyncio code with native coroutines Use the ast module to find legacy asyncio codeWork with contextvars See what a async context manager is and why a lot of asyncio APIs use themWho This Book Is ForExperienced Python developers or hobbyists who want to understand asyncio and speed up their applications by adding concurrency to their toolkit.</p></div>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 1038,
+  "book_uuid": "ba42df97-3467-49c5-ad73-16879687e2e7",
+  "title": "Embedded and Real Time System Development: A Software Engineering Perspective: Concepts, Methods and Principles",
+  "pubdate": "2013-11-19 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Mohammad Ayoub Khan",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Technology & Engineering",
+    "Engineering (General)",
+    "Software Development & Engineering"
+  ],
+  "description": "<div>\n<p>Nowadays embedded and real-time systems contain complex software. The complexity of embedded systems is increasing, and the amount and variety of software in the embedded products are growing. This creates a big challenge for embedded and real-time software development processes and there is a need to develop separate metrics and benchmarks. </p>\n<p>\u201cEmbedded and Real Time System Development: A Software Engineering Perspective: Concepts, Methods and Principles\u201d presents practical as well as conceptual knowledge of the latest tools, techniques and methodologies of embedded software engineering and real-time systems. Each chapter includes an in-depth investigation regarding the actual or potential role of software engineering tools in the context of the embedded system and real-time system. The book presents state-of-the art and future perspectives with industry experts, researchers, and academicians sharing ideas and experiences including surrounding frontier technologies, breakthroughs, innovative solutions and applications. The book is organized into four parts \u201cEmbedded Software Development Process\u201d, \u201cDesign Patterns and Development Methodology\u201d, \u201cModelling Framework\u201d and \u201cPerformance Analysis, Power Management and Deployment\u201d with altogether 12 chapters. The book is aiming at (i) undergraduate students and postgraduate students conducting research in the areas of embedded software engineering and real-time systems; (ii) researchers at universities and other institutions working in these fields; and (iii) practitioners in the R&amp;D departments of embedded system. It can be used as an advanced reference for a course taught at the postgraduate level in embedded software engineering and real-time systems.</p></div>"
+}

@@ -1,0 +1,19 @@
+{
+  "book_id": 1253,
+  "book_uuid": "5db9432a-85ac-4f26-ae5d-985ffa38c4e5",
+  "title": "Get Programming With Go",
+  "pubdate": "2018-09-30 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Nathan Youngman",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Languages"
+  ],
+  "description": "<div>\n<p>SummaryGet Programming with Go introduces you to the powerful Go language without confusing jargon or high-level theory. By working through 32 quick-fire lessons, you'll quickly pick up the basics of the innovative Go programming language! Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications. </p>\n<p>About the TechnologyGo is a small programming language designed by Google to tackle big problems. Large projects mean large teams with people of varying levels of experience. Go offers a small, yet capable, language that can be understood and used by anyone, no matter their experience. </p>\n<p>About the BookHobbyists, newcomers, and professionals alike can benefit from a fast, modern language; all you need is the right resource! Get Programming with Go provides a hands-on introduction to Go language fundamentals, serving as a solid foundation for your future programming projects. You'll master Go syntax, work with types and functions, and explore bigger ideas like state and concurrency, with plenty of exercises to lock in what you learn. </p>\n<p>What's insideLanguage concepts like slices, interfaces, pointers, and concurrencySeven capstone projects featuring spacefaring gophers, Mars rovers, ciphers, and simulationsAll examples run in the Go Playground - no installation required!About the ReaderThis book is for anyone familiar with computer programming, as well as anyone with the desire to learn. </p>\n<p>About the AuthorNathan Youngman organizes the Edmonton Go meetup and is a mentor with Canada Learning Code. Roger Pepp\u00e9 contributes to Go and runs the Newcastle upon Tyne Go meetup. </p>\n<p>Table of ContentsUnit 0 - GETTING STARTEDGet ready, get set, Go Unit 1 - IMPERATIVE PROGRAMMINGA glorified calculator Loops and branches Variable scope Capstone: Ticket to MarsUnit 2 - TYPESReal numbers Whole numbers Big numbers Multilingual text Converting between types Capstone: The Vigen\u00e8re cipher Unit 3 - BUILDING BLOCKSFunctions Methods First-class functions Capstone: Temperature tables Unit 4 - COLLECTIONSArrayed in splendor Slices: Windows into arrays A bigger slice The ever-versatile map Capstone: A slice of life Unit 5 - STATE AND BEHAVIORA little structure Go's got no class Composition and forwarding Interfaces Capstone: Martian animal sanctuary Unit 6 - DOWN THE GOPHER HOLEA few pointers Much ado about nil To err is human Capstone: Sudoku rules Unit 7 - CONCURRENT PROGRAMMINGGoroutines and concurrency Concurrent state Capstone: Life on Mars</p></div>"
+}

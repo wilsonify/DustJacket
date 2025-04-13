@@ -1,0 +1,13 @@
+{
+  "book_id": 1238,
+  "book_uuid": "269af7f6-cb0b-4a11-b19c-56a13c56a793",
+  "title": "Building Machine Learning Pipelines",
+  "pubdate": "2020-07-20 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Hannes Hapke",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p>Companies are spending billions on machine learning projects, but it's money wasted if the models can't be deployed effectively. In this practical guide, Hannes Hapke and Catherine Nelson walk you through the steps of automating a machine learning pipeline using the TensorFlow ecosystem. You'll learn the techniques and tools that will cut deployment time from days to minutes, so that you can focus on developing new models rather than maintaining legacy systems.</p><p>Data scientists, machine learning engineers, and DevOps engineers will discover how to go beyond model development to successfully productize their data science projects, while managers will better understand the role they play in helping to accelerate these projects.</p><li>Understand the steps to build a machine learning pipeline</li><li>Build your pipeline using components from TensorFlow Extended</li><li>Orchestrate your machine learning pipeline with Apache Beam, Apache Airflow, and Kubeflow..."
+}

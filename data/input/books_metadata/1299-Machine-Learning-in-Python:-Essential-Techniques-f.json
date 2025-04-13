@@ -1,0 +1,21 @@
+{
+  "book_id": 1299,
+  "book_uuid": "629f7d46-09a3-41f8-874d-6dee6c26583a",
+  "title": "Machine Learning in Python: Essential Techniques for Predictive Analysis",
+  "pubdate": "2015-04-27 15:13:41.966177+00:00",
+  "isbn": "",
+  "author_name": "Michael Bowles",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Information Technology",
+    "Languages",
+    "Machine Theory",
+    "Python"
+  ],
+  "description": "<p>Learn a simpler and more effective way to analyze data and predict outcomes with Python Machine Learning in Python shows you how to successfully analyze data using only two core machine learning algorithms, and how to apply them using Python. By focusing on two algorithm families that effectively predict outcomes, this book is able to provide full descriptions of the mechanisms at work, and the examples that illustrate the machinery with specific, hackable code. The algorithms are explained in simple terms with no complex math and applied using Python, with guidance on algorithm selection, data preparation, and using the trained models in practice. You will learn a core set of Python programming techniques, various methods of building predictive models, and how to measure the performance of each model to ensure that the right one is used. The chapters on penalized linear regression and ensemble methods dive deep into each of the algorithms, and you can use the sample code in the book to develop your own data analysis solutions. Machine learning algorithms are at the core of data analytics and visualization. In the past, these methods required a deep background in math and statistics, often in combination with the specialized R programming language. This book demonstrates how machine learning can be implemented using the more widely used and accessible Python programming language.  Predict outcomes using linear and ensemble algorithm families Build predictive models that solve a range of simple and complex problems Apply core machine learning algorithms using Python Use sample code directly to build custom solutions  Machine learning doesn't have to be complex and highly specialized. Python makes this technology more accessible to a much wider audience, using methods that are simpler, effective, and well tested. Machine Learning in Python shows you how to do this, without requiring an extensive background in math or statistics.</p>"
+}

@@ -1,0 +1,23 @@
+{
+  "book_id": 11,
+  "book_uuid": "f8f5acc8-fc94-40a7-911e-b90b15f67568",
+  "title": "JMP 11 Scripting Guide",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "JMP\u00ae The Statistical Discovery Software\u2122",
+    "JMP",
+    "JSL",
+    "JMP Scripting Language",
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<div>\n<p>Scripting Guide provides details for taking advantage of the powerful JMP Scripting Language (JSL). Learn how to write and debug scripts, manipulate data tables, construct display boxes, create JMP applications, and more.</p></div>"
+}

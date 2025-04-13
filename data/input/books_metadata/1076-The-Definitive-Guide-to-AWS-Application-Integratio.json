@@ -1,0 +1,18 @@
+{
+  "book_id": 1076,
+  "book_uuid": "134beb27-3a85-48a1-8855-c1b1a0fc9268",
+  "title": "The Definitive Guide to AWS Application Integration: With Amazon SQS, SNS, SWF and Step Functions",
+  "pubdate": "2019-12-17 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Jyothi Prasad Buddha",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Software Development & Engineering"
+  ],
+  "description": "<div>\n<p>Build reliable, asynchronous, and distributed applications using message queuing and task orchestration capabilities of Amazon Web Services (AWS) Application Integration. This book prepares you to build distributed applications and administrators, and manage queues, workflows, and state machines. </p>\n<p>You'll start by reviewing key AWS prerequisite services such as EC2, Lambda, S3, DynamoDB, CloudWatch, and IAM. Simple Queue Service (SQS) and SNS Simple Notification Service (SNS) are then covered to show how applications interact with each other in a reliable and resilient fashion. Next, workflow building with (Simple Workflow Service (SWF) for orchestration of tasks is explained and in the final chapter learn the techniques for building a state using Step Functions, Simple Workflow Service along with Flow Framework. The book illustrates all the concepts using numerous examples that work with SDK, CLI, and Console. Most of the code examples are in Java, followed by Python and JavaScript. What You Will LearnUnderstand the important prerequisites of AWS, such as EC2, Lambda, S3, and DynamoDBWork with SQS, SNS, and SWS functionsReview Step functionsWho This Book Is ForAWS developers and software developers proficient in Java, Python and JavaScript.</p></div>"
+}

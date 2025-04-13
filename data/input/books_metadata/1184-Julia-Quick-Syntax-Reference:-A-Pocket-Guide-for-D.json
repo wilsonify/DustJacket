@@ -1,0 +1,23 @@
+{
+  "book_id": 1184,
+  "book_uuid": "32826346-988b-41cd-b4db-33298ee3286c",
+  "title": "Julia Quick Syntax Reference: A Pocket Guide for Data Science Programming",
+  "pubdate": "2019-11-11 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Antonello Lobianco",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Data Analytics",
+    "Mathematics",
+    "Programming",
+    "Languages",
+    "Discrete Mathematics"
+  ],
+  "description": "<div>\n<p>This quick Julia programming language guide is a condensed code and syntax reference to the Julia 1.x programming language, updated with the latest features of the Julia APIs, libraries, and packages. It presents the essential Julia syntax in a well-organized format that can be used as a handy reference. This book provides an introduction that reveals basic Julia structures and syntax; discusses data types, control flow, functions, input/output, exceptions, metaprogramming, performance, and more. Additionally, you'll learn to interface Julia with other programming languages such as R for statistics or Python. You will learn how to use Julia packages for data analysis, numerical optimization and symbolic computation, and how to disseminate your results in dynamic documents or interactive web pages. In this book, the focus is on providing important information as quickly as possible. It is packed with useful information and is a must-have for any Julia programmer. </p>\n<p>What You Will Learn Set up the software needed to run Julia and your first Hello World exampleWork with types and the different containers that Julia makes available for rapid application developmentUse vectorized, classical loop-based code, logical operators, and blocksExplore Julia functions by looking at arguments, return values, polymorphism, parameters, anonymous functions, and broadcastsBuild custom structures in JuliaInterface Julia with other languages such as C/C++, Python, and RProgram a richer API, modifying the code before it is executed using expressions, symbols, macros, quote blocks, and moreMaximize your code\u2019s performance Who This Book Is ForExperienced programmers new to Julia, as well as existing Julia coders new to the now stable Julia version 1.0 release.</p></div>"
+}

@@ -1,0 +1,21 @@
+{
+  "book_id": 1033,
+  "book_uuid": "621e4c7e-00ae-4934-b1bc-c74b49c7d20b",
+  "title": "Nature Inspired Computing for Data Science",
+  "pubdate": "2019-11-26 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Himansu Das",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Technology & Engineering",
+    "Database Administration & Management",
+    "Engineering (General)"
+  ],
+  "description": "<div>\n<p>This book discusses the current research and concepts in data science and how these can be addressed using different nature-inspired optimization techniques. Focusing on various data science problems, including classification, clustering, forecasting, and deep learning, it explores how researchers are using nature-inspired optimization techniques to find solutions to these problems in domains such as disease analysis and health care, object recognition, vehicular ad-hoc networking, high-dimensional data analysis, gene expression analysis, microgrids, and deep learning. As such it provides insights and inspiration for researchers to wanting to employ nature-inspired optimization techniques in their own endeavors.</p></div>"
+}

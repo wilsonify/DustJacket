@@ -1,0 +1,22 @@
+{
+  "book_id": 939,
+  "book_uuid": "34cc60e8-abbd-4180-b9e3-786915667109",
+  "title": "Statistical Mechanics: An Introductory Graduate Course",
+  "pubdate": "2019-10-03 22:58:39.834461+00:00",
+  "isbn": "",
+  "author_name": "A. J. Berlinsky",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Science",
+    "Physics",
+    "Quantum Theory",
+    "Mathematical & Computational",
+    "Mechanics",
+    "Thermodynamics",
+    "Astrophysics"
+  ],
+  "description": "<p>In a comprehensive treatment of Statistical Mechanics from thermodynamics through the renormalization group, this book serves as the core text for a full-year graduate course in statistical mechanics at either the Masters or Ph.</p>\n\n<p>D. level. Each chapter contains numerous exercises, and several chapters treat special topics which can be used as the basis for student projects.  The concept of scaling is introduced early and used extensively throughout the text. At the heart of the book is an extensive treatment of mean field theory, from the simplest decoupling approach, through the density matrix formalism, to self-consistent classical and quantum field theory as well as exact solutions on the Cayley tree. Proceeding beyond mean field theory, the book discusses exact mappings involving Potts models, percolation, self-avoiding walks and quenched randomness, connecting various athermal and thermal models. Computational methods such as series expansions and Monte Carlo simulations are discussed, along with exact solutions to the 1D quantum and 2D classical Ising models. The renormalization group formalism is developed, starting from real-space RG and proceeding through a detailed treatment of Wilson\u2019s epsilon expansion. Finally the subject of Kosterlitz-Thouless systems is introduced from a historical perspective and then treated by methods due to Anderson, Kosterlitz, Thouless and Young. Altogether, this comprehensive, up-to-date, and engaging text offers an ideal package for advanced undergraduate or graduate courses or for use in self study.</p>"
+}

@@ -1,0 +1,24 @@
+{
+  "book_id": 874,
+  "book_uuid": "c077e5e0-8a01-4e52-b156-23301b5ccb18",
+  "title": "Data Assimilation: The Ensemble Kalman Filter",
+  "pubdate": "2009-08-17 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Geir Evensen",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Technology & Engineering",
+    "Engineering (General)",
+    "Science",
+    "Physics",
+    "Applied",
+    "Mathematical & Computational",
+    "Earth Sciences"
+  ],
+  "description": "<div>\n<p>Data Assimilation comprehensively covers data assimilation and inverse methods, including both traditional state estimation and parameter estimation. This text and reference focuses on various popular data assimilation methods, such as weak and strong constraint variational methods and ensemble filters and smoothers. It is demonstrated how the different methods can be derived from a common theoretical basis, as well as how they differ and/or are related to each other, and which properties characterize them, using several examples. Rather than emphasize a particular discipline such as oceanography or meteorology, it presents the mathematical framework and derivations in a way which is common for any discipline where dynamics is merged with measurements. The mathematics level is modest, although it requires knowledge of basic spatial statistics, Bayesian statistics, and calculus of variations. Readers will also appreciate the introduction to the mathematical methods used and detailed derivations, which should be easy to follow, are given throughout the book. The codes used in several of the data assimilation experiments are available on a web page. In particular, this webpage contains a complete ensemble Kalman filter assimilation system, which forms an ideal starting point for a user who wants to implement the ensemble Kalman filter with his/her own dynamical model. The focus on ensemble methods, such as the ensemble Kalman filter and smoother, also makes it a solid reference to the derivation, implementation and application of such techniques. Much new material, in particular related to the formulation and solution of combined parameter and state estimation problems and the general properties of the ensemble algorithms, is available here for the first time. The 2nd edition includes a partial rewrite of Chapters 13 an 14, and the Appendix. In addition, there is a completely new Chapter on \"Spurious correlations, localization and inflation\", and an updated and improved sampling discussion in Chap 11.</p></div>"
+}

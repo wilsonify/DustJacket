@@ -1,0 +1,18 @@
+{
+  "book_id": 111,
+  "book_uuid": "f1c8fec0-7786-439e-8fde-1742a03078c4",
+  "title": "Pro D3.js: Use D3.js to Create Maintainable, Modular, and Testable Charts",
+  "pubdate": "2019-10-31 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Marcos Iglesias",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Information Technology",
+    "Internet",
+    "Web Programming"
+  ],
+  "description": "<div>\n<p>Go beyond the basics of D3.js to create maintainable, modular, and testable charts and to package them into a library that can be distributed as open source software or kept for private use. This book will show you how to transform regular D3.js chart code into reusable and extendable modules. </p>\n<p>You know the basics of working with D3.js, but it's time to become a professional D3.js practitioner. This book is your launching pad to refactoring code, composing complex visualizations from small components, working as a team with other developers, and integrating charts with a Continuous Integration system. You'll begin by creating a production-ready chart using D3.js v5, ES2015, and a test-driven approach and then move on to using and extending Britecharts, the reusable charting library based on Reusable API patterns. Finally, you'll see how to use D3.js along with React to document and build your charts to compose a charting library you can release into the NPM repository. With Pro D3.js, you'll become an accomplished D3.js developer in no time. What You Will Learn Create v5 D3.js charts with ES2016 and unit testsDevelop modular, testable and extensible code with the Reusable API patternWork with and extend Britecharts, a reusable charting library created at EventbriteUse Webpack and npm to create and publish a charting library from your own chart collectionsWrite reference documentation and build a documentation homepage for your library. Who This Book Is For Data scientists, data visualization engineers, and frontend developers with a fundamental knowledge of D3.js and some experience with JavaScript, as well as data journalists and consultants.</p></div>"
+}

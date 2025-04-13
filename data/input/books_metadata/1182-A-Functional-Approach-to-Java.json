@@ -1,0 +1,13 @@
+{
+  "book_id": 1182,
+  "book_uuid": "c6b9f07b-8818-454e-9dab-53495351f04d",
+  "title": "A Functional Approach to Java",
+  "pubdate": "2022-12-25 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Ben Weidig",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><div><p>Java developers usually tackle the complexity of software development through object-oriented programming (OOP). But not every problem is a good match for OOP. The functional programming (FP) paradigm offers you another approach to solving problems, and Java provides easy-to-grasp FP tools such as lambdas and streams. If you're interested in applying FP concepts to your Java code, this book is for you.</p><p>Author Ben Weidig highlights different aspects of functional programming and shows you how to incorporate them in your code without going \"fully functional.\" You'll learn how, when, and why to use FP concepts such as immutability and pure functions to write more concise, reasonable, and future-proof code. Many developers seek to expand their horizons by using OOP and FP together. It's no longer either-or; it's both.</p><p>In two parts, this book includes:</p><ul><li><b>A Functional Approach:</b> Get a high-level overview of functional programming, including the types already available to Java developers. Then explore different FP concepts and learn how to use them.</li><li><b>Real-World Problems, Patterns, and Recipes:</b> Apply what you've learned in part one to the typical real-world problems you might encounter in your daily work.</li></ul></div></span>"
+}

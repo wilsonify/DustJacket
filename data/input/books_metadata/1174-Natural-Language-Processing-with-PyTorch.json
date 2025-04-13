@@ -1,0 +1,13 @@
+{
+  "book_id": 1174,
+  "book_uuid": "8cf72e26-25fe-4432-a938-7f683c883083",
+  "title": "Natural Language Processing with PyTorch",
+  "pubdate": "2019-01-24 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "Delip Rao",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p>Natural Language Processing (NLP) provides boundless opportunities for solving problems in artificial intelligence, making products such as Amazon Alexa and Google Translate possible. If you're a developer or data scientist new to NLP and deep learning, this practical guide shows you how to apply these methods using PyTorch, a Python-based deep learning library.</p><p>Authors Delip Rao and Brian McMahon provide you with a solid grounding in NLP and deep learning algorithms and demonstrate how to use PyTorch to build applications involving rich representations of text specific to the problems you face. Each chapter includes several code examples and illustrations.</p><li>Explore computational graphs and the supervised learning paradigm</li><li>Master the basics of the PyTorch optimized tensor manipulation library</li><li>Get an overview of traditional NLP concepts and methods</li><li>Learn the basic ideas involved in building neural networks</li><li>Use embeddings to represent..."
+}

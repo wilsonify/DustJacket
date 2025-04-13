@@ -1,0 +1,25 @@
+{
+  "book_id": 930,
+  "book_uuid": "616959c7-573e-48bd-bc95-6a9dd5c19782",
+  "title": "Random Processes for Engineers",
+  "pubdate": "2015-03-12 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Bruce Hajek",
+  "publisher_name": "Cambridge University Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Technology & Engineering",
+    "Engineering (General)",
+    "Computer Science",
+    "Stochastic Processes",
+    "Signals & Signal Processing",
+    "Number Theory",
+    "Pest Control"
+  ],
+  "description": "<div>\n<p>This engaging introduction to random processes provides students with the critical tools needed to design and evaluate engineering systems that must operate reliably in uncertain environments. A brief review of probability theory and real analysis of deterministic functions sets the stage for understanding random processes, whilst the underlying measure theoretic notions are explained in an intuitive, straightforward style. Students will learn to manage the complexity of randomness through the use of simple classes of random processes, statistical means and correlations, asymptotic analysis, sampling, and effective algorithms. Key topics covered include: \u2022 Calculus of random processes in linear systems \u2022 Kalman and Wiener filtering \u2022 Hidden Markov models for statistical inference \u2022 The estimation maximization (EM) algorithm \u2022 An introduction to martingales and concentration inequalities. Understanding of the key concepts is reinforced through over 100 worked examples and 300 thoroughly tested homework problems (half of which are solved in detail at the end of the book).</p></div>"
+}

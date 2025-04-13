@@ -1,0 +1,17 @@
+{
+  "book_id": 1057,
+  "book_uuid": "6c020498-62e6-4850-8c83-609454297535",
+  "title": "Hands-On Reinforcement Learning for Games",
+  "pubdate": "2020-01-27 10:50:25+00:00",
+  "isbn": "",
+  "author_name": "Micheal Lanham",
+  "publisher_name": "Packt",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "COM044000 - COMPUTERS / Neural Networks",
+    "COM004000 - COMPUTERS / Intelligence (AI) and Semantics",
+    "COM037000 - COMPUTERS / Machine Theory"
+  ],
+  "description": "The AI revolution is here and it is embracing games. Game developers are being challenged to enlist cutting edge AI as part of their games. In this book, we look at the journey into building capable AI. AI that can learn to solve complex tasks using reinforcement learning, and build cutting-edge games."
+}

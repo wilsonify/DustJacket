@@ -1,0 +1,19 @@
+{
+  "book_id": 1274,
+  "book_uuid": "ad16ab57-23e6-43c7-bb76-01539a3b2574",
+  "title": "Mastering Windows Server 2016",
+  "pubdate": "2018-06-13 21:01:50.376740+00:00",
+  "isbn": "",
+  "author_name": "Brian Svidergol",
+  "publisher_name": "John Wiley & Sons",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Networking",
+    "Operating Systems",
+    "Windows Server"
+  ],
+  "description": "<p>The IT pro's must-have guide to Windows Server 2016 Mastering Windows Server 2016 is a complete resource for IT professionals needing to get quickly up to date on the latest release. Designed to provide comprehensive information in the context of real-world usage, this book offers expert guidance through the new tools and features to help you get Windows Server 2016 up and running quickly. Straightforward discussion covers all aspects, including virtualization products, identity and access, automation, networking, security, storage and more, with clear explanations and immediately-applicable instruction. Find the answers you need, and explore new solutions as Microsoft increases their focus on security, software-defined infrastructure, and the cloud; new capabilities including containers and Nano Server, Shielded VMs, Failover Clustering, PowerShell, and more give you plenty of tools to become more efficient, more effective, and more productive. Windows Server 2016 is the ideal server for Windows 10 clients, and is loaded with new features that IT professionals need to know. This book provides a comprehensive resource grounded in real-world application to help you get up to speed quickly.  Master the latest features of Windows Server 2016 Apply new tools in real-world scenarios Explore new capabilities in security, networking, and the cloud Gain expert guidance on all aspect of Windows Server 2016 migration and management  System administrators tasked with upgrading, migrating, or managing Windows Server 2016 need a one-stop resource to help them get the job done. Mastering Windows Server 2016 has the answers you need, the practicality you seek, and the latest information to get you up to speed quickly.</p>"
+}

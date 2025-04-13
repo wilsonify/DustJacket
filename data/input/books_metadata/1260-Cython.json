@@ -1,0 +1,19 @@
+{
+  "book_id": 1260,
+  "book_uuid": "d3fe26ba-22fc-4a98-a5bb-11cc621a7495",
+  "title": "Cython",
+  "pubdate": "2015-03-15 20:51:09.685777+00:00",
+  "isbn": "",
+  "author_name": "Kurt W. Smith",
+  "publisher_name": "O'Reilly",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Python",
+    "Databases",
+    "Programming Languages"
+  ],
+  "description": "<p>Build software that combines Python's expressivity with the performance and control of C (and C++). It's possible with Cython, the compiler and hybrid programming language used by foundational packages such as NumPy, and prominent in projects including Pandas, h5py, and scikits-learn. In this practical guide, you'll learn how to use Cython to improve Python's performance--up to 3000x-- and to wrap C and C++ libraries in Python with ease. Author Kurt Smith takes you through Cython's capabilities, with sample code and in-depth practice exercises. If you're just starting with Cython, or want to go deeper, you'll learn how this language is an essential part of any performance-oriented Python programmer's arsenal.  Use Cython's static typing to speed up Python code Gain hands-on experience using Cython features to boost your numeric-heavy Python Create new types with Cython--and see how fast object-oriented programming in Python can be Effectively organize Cython code into separate modules and packages without sacrificing performance Use Cython to give Pythonic interfaces to C and C++ libraries Optimize code with Cython's runtime and compile-time profiling tools Use Cython's prange function to parallelize loops transparently with OpenMP</p>"
+}

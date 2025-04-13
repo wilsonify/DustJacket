@@ -1,0 +1,27 @@
+{
+  "book_id": 702,
+  "book_uuid": "9bfd1726-1b26-4d2e-9d3b-5d2b33230fe3",
+  "title": "Internet of Things With Raspberry Pi and Arduino",
+  "pubdate": "2019-11-18 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Rajesh Singh",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Networking",
+    "Information Technology",
+    "Technology & Engineering",
+    "Electrical",
+    "Computer Science",
+    "Electronics",
+    "Internet",
+    "Circuits",
+    "Internet of Things with Raspberry Pi and Arduino",
+    "Computer Architecture",
+    "Mobile & Wireless Communications"
+  ],
+  "description": "<div>\n<p>This book provides a platform to understand Internet of things with Raspberry Pi and the basic knowledge of the programming and interfacing of the devices and designed systems. It broadly covers introduction to Internet of Things and enabling technologies, interfacing with Raspberry Pi and Arduino and interfacing with Raspberry Pi GPIO. Internet of Things with Raspberry pi and Arduino is aimed at senior undergraduate, graduate students and professionals in electrical engineering, computer engineering including robotics.</p></div>"
+}

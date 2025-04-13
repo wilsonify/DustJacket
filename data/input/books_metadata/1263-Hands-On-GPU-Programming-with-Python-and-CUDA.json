@@ -1,0 +1,17 @@
+{
+  "book_id": 1263,
+  "book_uuid": "6ffad439-a63a-4760-9059-74a550580f69",
+  "title": "Hands-On GPU Programming with Python and CUDA",
+  "pubdate": "2018-11-27 09:52:17+00:00",
+  "isbn": "",
+  "author_name": "Dr. Brian Tuomanen;",
+  "publisher_name": "Packt Publishing",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "COM051360 - COMPUTERS / Programming Languages / Python",
+    "COM051220 - COMPUTERS / Programming / Parallel",
+    "COM048000 - COMPUTERS / Systems Architecture / Distributed Systems and Computing"
+  ],
+  "description": "GPUs are designed for maximum throughput, but are subject to low-level subtleties. In contrast, Python is a high-level language that favours ease of use over speed. In this book, we will combine the power of both Python and CUDA to help you create high performing Python applications by using open-source libraries such as PyCUDA and SciKit-CUDA."
+}

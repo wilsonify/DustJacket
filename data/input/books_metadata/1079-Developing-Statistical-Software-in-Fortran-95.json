@@ -1,0 +1,29 @@
+{
+  "book_id": 1079,
+  "book_uuid": "06111b57-04a2-4f0d-aef4-93729d22e6ca",
+  "title": "Developing Statistical Software in Fortran 95",
+  "pubdate": "2005-12-15 20:14:07.556564+00:00",
+  "isbn": "",
+  "author_name": "David R. Lemmon",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Mathematics",
+    "Probability & Statistics",
+    "Technology & Engineering",
+    "Engineering (General)",
+    "Software Development & Engineering",
+    "Computer Science",
+    "Languages",
+    "Stochastic Processes",
+    "Mathematical & Statistical Software",
+    "Applied",
+    "Counting & Numeration",
+    "Numerical Analysis"
+  ],
+  "description": "<p>Many books teach computational statistics. Until now, however, none has shown how to write a good program. This book gives statisticians, biostatisticians and methodologically-oriented researchers the tools they need to develop high-quality statistical software. Topics include how to: Program in Fortran 95 using a pseudo object-oriented style  Write accurate and efficient computational procedures  Create console applications  Build dynamic-link libraries (DLLs) and Windows-based software components  Develop graphical user interfaces (GUIs) Through detailed examples, readers are shown how to call Fortran procedures from packages including Excel, SAS, SPSS, S-PLUS, R, and MATLAB. They are even given a tutorial on creating GUIs for Fortran computational code using Visual Basic.</p>\n\n<p>NET.  This book is for those who want to learn how to create statistical applications quickly and effectively. Prior experience with a programming language such as Basic, Fortran or C is helpful but not required. More experienced programmers will learn new strategies to harness the power of modern Fortran and the object-oriented paradigm. This may serve as a supplementary text for a graduate course on statistical computing.  From the reviews: \"This book should be read by all statisticians, engineers, and scientists who want to implement an algorithm as a computer program. The book is the best introduction to programming that I have ever read. I value it as one of my important reference books in my personal library.</p>\n\n<p>\" Melvin J. Hinich for Techonmetrics, November 2006 \"Overall, the book is well written and provides a reasonable introduction to the use of modern versions of Fortran for statistical computation. The real thrust of the book is building COM interfaces using Fortran, and it will no doubt be most useful to anyone who needs to build such interfaces.</p>\n\n<p>\" Journal of the American Statistical Association, June 2006 \"The book is well written and is divided into chapters and sections which are coherent...Overall the book seems like a good resource for someone that already knows some dialect of FORTRAN and wants to learn a bit about what is new in FORTRAN 95...\" Robert Gentleman for the Journal of Statistical Software, December 2006</p>"
+}

@@ -1,0 +1,18 @@
+{
+  "book_id": 1103,
+  "book_uuid": "be97f4b3-c462-4520-9b56-53a72ece1695",
+  "title": "Deep Learning on Microcontrollers: Learn How to Develop Embedded AI Applications Using TinyML (English Edition)",
+  "pubdate": "2023-04-15 19:51:30.007597+00:00",
+  "isbn": "",
+  "author_name": "Atul Krishna Gupta",
+  "publisher_name": "BPB Publications",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Information Technology",
+    "Internet"
+  ],
+  "description": "<p>A step-by-step guide that will teach you how to deploy TinyML on microcontrollersKEY FEATURES\u00a0\u00a0\u25cf Deploy machine learning models on edge devices with ease.\u25cf Leverage pre-built AI models and deploy them without writing any code.\u25cf Create smart and efficient IoT solutions with TinyML.DESCRIPTION\u00a0TinyML, or Tiny Machine Learning, is used to enable machine learning on resource-constrained devices, such as microcontrollers and embedded systems. If you want to leverage these low-cost, low-power but strangely powerful devices, then this book is for you.</p>\n\n<p>This book aims to increase accessibility to TinyML applications, particularly for professionals who lack the resources or expertise to develop and deploy them on microcontroller-based boards. The book starts by giving a brief introduction to Artificial Intelligence, including classical methods for solving complex problems. It also familiarizes you with the different ML model development and deployment tools, libraries, and frameworks suitable for embedded devices and microcontrollers. The book will then help you build an Air gesture digit recognition system using the Arduino Nano RP2040 board and an AI project for recognizing keywords using the Syntiant TinyML board. Lastly, the book summarizes the concepts covered and provides a brief introduction to topics such as zero-shot learning, one-shot learning, federated learning, and MLOps.</p>\n\n<p>By the end of the book, you will be able to develop and deploy end-to-end Tiny ML solutions with ease.</p>\n\n<p>WHAT YOU WILL LEARN\u25cf Learn how to build a Keyword recognition system using the Syntiant TinyML board.\u25cf Learn how to build an air gesture digit recognition system using the Arduino Nano RP2040.\u25cf Learn how to test and deploy models on Edge Impulse and Arduino IDE.\u25cf Get tips to enhance system-level performance.\u25cf Explore different real-world use cases of TinyML across various industries.</p>\n\n<p>WHO THIS BOOK IS FORThe book is for IoT developers, System engineers, Software engineers, Hardware engineers, and professionals who are interested in integrating AI into their work. This book is a valuable resource for Engineering undergraduates who are interested in learning about microcontrollers and IoT devices but may not know where to begin.</p>\n\n<p>TABLE OF CONTENTS1. Introduction to AI2. Traditional ML Lifecycle3. TinyML Hardware and Software Platforms4. End-to-End TinyML Deployment Phases5. Real World Use Cases6. Practical Experiments with TinyML7. Advance Implementation with TinyML Board8. Continuous Improvement9. Conclusion</p>"
+}

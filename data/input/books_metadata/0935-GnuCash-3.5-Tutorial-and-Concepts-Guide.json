@@ -1,0 +1,20 @@
+{
+  "book_id": 935,
+  "book_uuid": "1c6286a2-a61e-40c0-b831-c6edc8d79600",
+  "title": "GnuCash 3.5 Tutorial and Concepts Guide",
+  "pubdate": "2019-06-06 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "The Gnucash Documentation Team",
+  "publisher_name": "12th Media Services",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Business & Productivity Software",
+    "Business & Economics",
+    "Accounting",
+    "Financial",
+    "Accounting & Finance"
+  ],
+  "description": "<div>\n<p>GnuCash is personal and small-business financial-accounting software, freely licensed under the GNU GPL and available for GNU/Linux, BSD, Solaris, Mac OS X and Microsoft Windows. This manual is based upon the version released as of June 6, 2019. This manual is printed in grayscale. </p>\n<p>Designed to be easy to use, yet powerful and flexible, GnuCash allows you to track bank accounts, stocks, income and expenses. As quick and intuitive to use as a checkbook register, it is based on professional accounting principles to ensure balanced books and accurate reports. Features Include: Double-Entry Accounting Stock/Bond/Mutual Fund Accounts Small-Business Accounting Reports, Graphs QIF/OFX/HBCI Import, Transaction Matching Scheduled Transactions Financial Calculations This manual is available online for free at gnu.org.</p></div>"
+}

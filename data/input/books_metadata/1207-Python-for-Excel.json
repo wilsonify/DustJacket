@@ -1,0 +1,27 @@
+{
+  "book_id": 1207,
+  "book_uuid": "debfdc17-f74a-4a1d-8e04-1d278ac61cfc",
+  "title": "Python for Excel",
+  "pubdate": "2021-03-04 15:30:07.604520+00:00",
+  "isbn": "",
+  "author_name": "Felix Zumstein",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Data Science",
+    "Data Analytics",
+    "Business & Productivity Software",
+    "Machine Learning",
+    "Languages",
+    "Python",
+    "Business & Economics",
+    "Statistics",
+    "Business Intelligence",
+    "Skills",
+    "Spreadsheets"
+  ],
+  "description": "<p>While Excel remains ubiquitous in the business world, recent Microsoft feedback forums are full of requests to include Python as an Excel scripting language. In fact, it's the top feature requested. What makes this combination so compelling? In this hands-on guide, Felix Zumstein--creator of xlwings, a popular open source package for automating Excel with Python--shows experienced Excel users how to integrate these two worlds efficiently.</p>\n\n<p>Excel has added quite a few new capabilities over the past couple of years, but its automation language, VBA, stopped evolving a long time ago. Many Excel power users have already adopted Python for daily automation tasks. This guide gets you started.</p>\n\n<p>Use Python without extensive programming knowledgeGet started with modern tools, including Jupyter notebooks and Visual Studio codeUse pandas to acquire, clean, and analyze data and replace typical Excel calculationsAutomate tedious tasks like consolidation of Excel workbooks and production of Excel reportsUse xlwings to build interactive Excel tools that use Python as a calculation engineConnect Excel to databases and CSV files and fetch data from the internet using Python codeUse Python as a single tool to replace VBA, Power Query, and Power Pivot</p>"
+}

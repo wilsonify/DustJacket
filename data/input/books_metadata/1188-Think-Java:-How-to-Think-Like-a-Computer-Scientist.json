@@ -1,0 +1,23 @@
+{
+  "book_id": 1188,
+  "book_uuid": "9efc4baa-6dc7-4af5-85f3-81d0b2416266",
+  "title": "Think Java: How to Think Like a Computer Scientist",
+  "pubdate": "2019-03-15 19:38:35.711771+00:00",
+  "isbn": "",
+  "author_name": "Allen Downey",
+  "publisher_name": "O'Reilly Media, Incorporated",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Programming",
+    "Computer Science",
+    "Languages",
+    "Java",
+    "Open Source",
+    "Object Oriented"
+  ],
+  "description": "<p>Currently used at many colleges, universities, and high schools, this hands-on introduction to computer science is ideal for people with little or no programming experience. The goal of this concise book is not just to teach you Java, but to help you think like a computer scientist. You'll learn how to program--a useful skill by itself--but you'll also discover how to use programming as a means to an end.</p>\n\n<p>Authors Allen Downey and Chris Mayfield start with the most basic concepts and gradually move into topics that are more complex, such as recursion and object-oriented programming. Each brief chapter covers the material for one week of a college course and includes exercises to help you practice what you've learned.</p>\n\n<p>Learn one concept at a time: tackle complex topics in a series of small steps with examplesUnderstand how to formulate problems, think creatively about solutions, and write programs clearly and accuratelyDetermine which development techniques work best for you, and practice the important skill of debuggingLearn relationships among input and output, decisions and loops, classes and methods, strings and arraysWork on exercises involving word games, graphics, puzzles, and playing cardsThe updated second edition of Think Java also features new chapters on polymorphism and data processing, as well as content covering changes through Java 12.</p>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 101,
+  "book_uuid": "1d3e0e60-b6ac-4247-bb83-e700609b2745",
+  "title": "Chemometrics: Chemical and Sensory Data",
+  "pubdate": "2018-01-31 19:20:50.990563+00:00",
+  "isbn": "",
+  "author_name": "David R. Burgard",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Chemical and Sensory Data",
+    "General",
+    "Medical",
+    "Science",
+    "Life Sciences",
+    "Biochemistry"
+  ],
+  "description": "<p>Ranging from elegantly simple to extremely complex, a wide variety of flavors and fragrances stimulate our senses. It is difficult to understand the myriad sensory interactions involved because of the sheer complexity of their chemical composition. The aim of this text is to describe the use of chemometric techniques for understanding these complex systems and to serve as a practical guide to the acquisition, organization and reduction of chemical and sensory data. It explains chemical, sensory and multivariate analysis tools and their application. Pertinent concepts are discussed in-depth and are sufficiently illustrated with enough original data in complementary tables and figures to provide the basis for the execution of complex studies. The book emphasizes techniques that have been proven to work rather than those that \"should\" work from a theoretical standpoint. The book focuses on the acquisition of quality data and the subsequent interpretation of data rather than numerical computations used in data analysis. Chemometrics: Chemical and Sensory Data is an excellent resource for students and newcomers to flavor and fragrance research, as well as for experienced workers and product development managers.</p>"
+}

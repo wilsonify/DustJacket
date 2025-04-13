@@ -1,0 +1,20 @@
+{
+  "book_id": 670,
+  "book_uuid": "fd89ccaa-e94d-409b-b346-c4e88b4ff5d3",
+  "title": "Design and Analysis of Experiments With R",
+  "pubdate": "2014-12-17 20:13:12.364926+00:00",
+  "isbn": "",
+  "author_name": "John Lawson",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Science",
+    "Life Sciences",
+    "Biology"
+  ],
+  "description": "<p>Design and Analysis of Experiments with R presents a unified treatment of experimental designs and design concepts commonly used in practice. It connects the objectives of research to the type of experimental design required, describes the process of creating the design and collecting the data, shows how to perform the proper analysis of the data,</p>"
+}

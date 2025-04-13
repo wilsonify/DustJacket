@@ -1,0 +1,15 @@
+{
+  "book_id": 123,
+  "book_uuid": "d6b30fe2-05be-4534-b4df-d22c101923c6",
+  "title": "Charlie and the Chocolate Factory",
+  "pubdate": "2009-12-26 08:00:00+00:00",
+  "isbn": "",
+  "author_name": "Roald Dahl",
+  "publisher_name": "New York : Knopf : 2004.",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Fiction"
+  ],
+  "description": "<div><p class=\"description\">SUMMARY: </p><p class=\"description\">What happens when the five luckiest children in the entire world walk through the doors of Willy Wonka's famous, mysterious chocolate factory? What happens when, one by one, the children disobey Mr. Wonka's orders? In Dahl's most popular story, the nasty are punished and the good are deliciously, sumptuously rewarded.</p></div>"
+}

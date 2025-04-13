@@ -1,0 +1,18 @@
+{
+  "book_id": 643,
+  "book_uuid": "378de97a-b599-4622-816a-967eaed556f6",
+  "title": "Practical R 4: Applying R to Data Manipulation, Processing and Integration",
+  "pubdate": "2020-06-30 14:34:05.751898+00:00",
+  "isbn": "",
+  "author_name": "Jon Westfall",
+  "publisher_name": "Apress",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Languages",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<p>Get started with an accelerated introduction to the R ecosystem, programming language, and tools including R script and RStudio. Utilizing many examples and projects, this book teaches you how to get data into R and how to work with that data using R. Once grounded in the fundamentals, the rest of Practical R 4 dives into specific projects and examples starting with running and analyzing a survey using R and LimeSurvey. Next, you'll carry out advanced statistical analysis using R and MouselabWeb. Then, you\u2019ll see how R can work for you without statistics, including how R can be used to automate data formatting, manipulation, reporting, and custom functions. The final part of this book discusses using R on a server; you\u2019ll build a script with R that can run an RStudio Server and monitor a report source for changes to alert the user when something has changed. This project includes both regular email alerting and push notification. And, finally, you\u2019ll use R to create a customized daily rundown report of a person's most important information such as a weather report, daily calendar, to-do's and more. This demonstrates how to automate such a process so that every morning, the user navigates to the same web page and gets the updated report.</p>\n\n<p>What You Will Learn Set up and run an R script, including installation on a new machine and downloading and configuring R Turn any machine into a powerful data analytics platform accessible from anywhere with RStudio Server Write basic R scripts and modify existing scripts to suit your own needs Create basic HTML reports in R, inserting information as neededBuild a basic R package and distribute it    Who This Book Is For  Some prior exposure to statistics, programming, and maybe SAS is recommended but not required.</p>"
+}

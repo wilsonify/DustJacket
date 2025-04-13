@@ -1,0 +1,22 @@
+{
+  "book_id": 21,
+  "book_uuid": "d689e5c4-585b-44d6-b778-45c382bccfe5",
+  "title": "JMP 11 Fitting Linear Models",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "JMP\u00ae The Statistical Discovery Software\u2122",
+    "JSL",
+    "JMP. JMP Scripting Language",
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<div>\n<p>JMP 11 Fitting Linear Models focuses on the Fit Model platform and many of its personalities. Linear and logistic regression, analysis of variance and covariance, and stepwise procedures are covered. Also included are multivariate analysis of variance, mixed models, generalized models, and models based on penalized regression techniques.</p></div>"
+}

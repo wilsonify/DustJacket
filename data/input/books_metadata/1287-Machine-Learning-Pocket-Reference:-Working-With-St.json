@@ -1,0 +1,27 @@
+{
+  "book_id": 1287,
+  "book_uuid": "90cfd1b2-b23f-4d20-aed8-072165498b65",
+  "title": "Machine Learning Pocket Reference: Working With Structured Data in Python",
+  "pubdate": "2019-08-27 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Matt Harrison",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Machine Learning",
+    "Neural Networks",
+    "Languages",
+    "Machine Theory",
+    "Python",
+    "Data Modeling & Design",
+    "Data Visualization",
+    "Image Processing",
+    "Natural Language Processing"
+  ],
+  "description": "<div>\n<p>With detailed notes, tables, and examples, this handy reference will help you navigate the basics of structured machine learning. Author Matt Harrison delivers a valuable guide that you can use for additional support during training and as a convenient resource when you dive into your next machine learning project. </p>\n<p>Ideal for programmers, data scientists, and AI engineers, this book includes an overview of the machine learning process and walks you through classification with structured data. You\u2019ll also learn methods for clustering, predicting a continuous value (regression), and reducing dimensionality, among other topics. </p>\n<p>This pocket reference includes sections that cover:Classification, using the Titanic datasetCleaning data and dealing with missing dataExploratory data analysisCommon preprocessing steps using sample dataSelecting features useful to the modelModel selectionMetrics and classification evaluationRegression examples using k-nearest neighbor, decision trees, boosting, and moreMetrics for regression evaluationClusteringDimensionality reductionScikit-learn pipelines</p></div>"
+}

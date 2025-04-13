@@ -1,0 +1,19 @@
+{
+  "book_id": 24,
+  "book_uuid": "a1b5da9a-9c69-41cd-a787-de8c4e1437bb",
+  "title": "JMP 11 Consumer Research",
+  "pubdate": "2013-04-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Sas Institute",
+  "publisher_name": "SAS Institute",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<div>\n<p>JMP 11 Consumer Research focuses on analyses that help users observe and predict subject's behavior, particularly those in the market research field. The Uplift platform predicts consumer behavior based on shifts in marketing efforts. Learn how to tabulate and summarize categorical responses with the Categorical platform. Factor Analysis rotates principal components to help identify which directions have the most variation among the variables. The book also covers Item Analysis, a method for identifying latent traits that might affect an individual's choices. And read about the Choice platform, which market researchers use to estimate probability in consumer spending.</p></div>"
+}

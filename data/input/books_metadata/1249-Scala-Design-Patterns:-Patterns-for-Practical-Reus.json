@@ -1,0 +1,19 @@
+{
+  "book_id": 1249,
+  "book_uuid": "39fbe7e2-29ab-41ca-8a96-fceeb4326e41",
+  "title": "Scala Design Patterns: Patterns for Practical Reuse and Design",
+  "pubdate": "2013-11-24 19:57:19.192145+00:00",
+  "isbn": "",
+  "author_name": "John Hunt",
+  "publisher_name": "Springer Science & Business Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Information Technology",
+    "Software Development & Engineering",
+    "Programming"
+  ],
+  "description": "<p>Scala is a new and exciting programming language that is a hybrid between object oriented languages such as Java and functional languages such as Haskell. As such it has its own programming idioms and development styles.</p>\n\n<p>Scala Design Patterns looks at how code reuse can be successfully achieved in Scala. A major aspect of this is the reinterpretation of the original Gang of Four design patterns in terms of Scala and its language structures (that is the use of Traits, Classes, Objects and Functions). It includes an exploration of functional design patterns and considers how these can be interpreted in Scala's uniquely hybrid style.</p>\n\n<p>A key aspect of the book is the many code examples that accompany each design pattern, allowing the reader to understand not just the design pattern but also to explore powerful and flexible Scala language features. Including numerous source code examples, this book will be of value to professionals and practitioners working in the field of software engineering.</p>"
+}

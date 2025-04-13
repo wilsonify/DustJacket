@@ -1,0 +1,18 @@
+{
+  "book_id": 671,
+  "book_uuid": "0e71a2a0-3a68-454e-ad7d-4708ebf4f995",
+  "title": "Software for Data Analysis: Programming With R",
+  "pubdate": "2008-06-14 14:12:15.978558+00:00",
+  "isbn": "",
+  "author_name": "John Chambers",
+  "publisher_name": "Springer",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Mathematical & Statistical Software"
+  ],
+  "description": "<p>Although statistical design is one of the oldest branches of statistics, its importance is ever increasing, especially in the face of the data flood that often faces statisticians. It is important to recognize the appropriate design, and to understand how to effectively implement it, being aware that the default settings from a computer package can easily provide an incorrect analysis. The goal of this book is to describe the principles that drive good design, paying attention to both the theoretical background and the problems arising from real experimental situations. Designs are motivated through actual experiments, ranging from the timeless agricultural randomized complete block, to microarray experiments, which naturally lead to split plot designs and balanced incomplete blocks.</p>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 1278,
+  "book_uuid": "c202d279-503c-467a-ae4d-3cc18bd41a17",
+  "title": "Think Stats",
+  "pubdate": "2014-03-15 14:19:06.399346+00:00",
+  "isbn": "",
+  "author_name": "Allen B. Downey",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Mathematics",
+    "Probability & Statistics",
+    "Programming",
+    "Data Modeling & Design"
+  ],
+  "description": "<p>If you know how to program, you have the skills to turn data into knowledge, using tools of probability and statistics. This concise introduction shows you how to perform statistical analysis computationally, rather than mathematically, with programs written in Python. By working with a single case study throughout this thoroughly revised book, you'll learn the entire process of exploratory data analysis--from collecting data and generating statistics to identifying patterns and testing hypotheses. You'll explore distributions, rules of probability, visualization, and many other tools and concepts. New chapters on regression, time series analysis, survival analysis, and analytic methods will enrich your discoveries.  Develop an understanding of probability and statistics by writing and testing code Run experiments to test statistical behavior, such as generating samples from several distributions Use simulations to understand concepts that are hard to grasp mathematically Import data from most sources with Python, rather than rely on data that's cleaned and formatted for statistics tools Use statistical inference to answer questions about real-world data</p>"
+}

@@ -1,0 +1,28 @@
+{
+  "book_id": 1294,
+  "book_uuid": "9d9eaf1d-ec0c-4f1f-8cc6-8f68cb580398",
+  "title": "Android Cookbook",
+  "pubdate": "2012-04-20 19:34:18.348467+00:00",
+  "isbn": "",
+  "author_name": "Ian Darwin",
+  "publisher_name": "\"O'Reilly Media, Inc.\"",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Hardware",
+    "Technology & Engineering",
+    "Software Development & Engineering",
+    "Programming",
+    "Computer Science",
+    "Languages",
+    "Java",
+    "Internet",
+    "Web Programming",
+    "Cell Phones & Devices",
+    "Open Source",
+    "Mobile & Wireless Communications"
+  ],
+  "description": "<p>Jump in and build working Android apps with the help of more than 200 tested recipes. With this cookbook, you\u2019ll find solutions for working with the user interfaces, multitouch gestures, location awareness, web services, and device features such as the phone, camera, and accelerometer. You also get useful steps on packaging your app for the Android Market. Ideal for developers familiar with Java, Android basics, and the Java SE API, this book features recipes contributed by more than three dozen developers from the Android community. Each recipe provides a clear solution and sample code you can use in your project right away. Among numerous topics, this cookbook helps you:  Use guidelines for designing a successful Android app Work with UI controls, effective layouts, and graphical elements Learn how to take advantage of Android\u2019s rich features in your app Save and retrieve application data in files, SD cards, and embedded databases Access RESTful web services, RSS/Atom feeds, and information from websites Create location-aware services to find locations and landmarks, and situate them on Google Maps and OpenStreetMap Test and troubleshoot individual components and your entire application</p>"
+}

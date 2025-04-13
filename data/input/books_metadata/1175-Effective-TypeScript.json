@@ -1,0 +1,21 @@
+{
+  "book_id": 1175,
+  "book_uuid": "5fcaddb3-08d6-444e-9990-d927dd8cf475",
+  "title": "Effective TypeScript",
+  "pubdate": "2024-04-26 15:24:54.263874+00:00",
+  "isbn": "",
+  "author_name": "Dan Vanderkam",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Programming",
+    "Languages",
+    "Internet",
+    "Web Programming",
+    "JavaScript"
+  ],
+  "description": "<p>TypeScript is a typed superset of JavaScript with the potential to solve many of the headaches for which JavaScript is famous. But TypeScript has a learning curve of its own, and understanding how to use it effectively takes time and practice. Using the format popularized by Effective C++ and Effective Java (both Addison-Wesley), this practical book features 83 items that give specific advice on what to do and what not to do, and how to think about the language. Author Dan Vanderkam shows you how to apply each item's advice through concrete examples. This book will help you advance from a beginning or intermediate user familiar with TypeScript basics to an expert who knows how to use the language well. Updated for TypeScript 5, this second edition includes two new chapters on type-level programming and TypeScript recipes.</p>\n\n<p>Learn the nuts and bolts of TypeScript's type systemUse type inference to get full safety with a minimum of type annotationsDesign types to make your code safer and more understandableModel complex APIs using generic types and type-level programmingUnderstand how dependencies and type declaration files work in TypeScriptSuccessfully migrate your JavaScript code base to TypeScript</p>"
+}

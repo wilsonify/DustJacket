@@ -1,0 +1,20 @@
+{
+  "book_id": 1100,
+  "book_uuid": "eaeb3f7b-f715-4c84-a6b4-57be11f2c87a",
+  "title": "Serverless Architectures on AWS, Second Edition",
+  "pubdate": "2022-04-12 20:35:36.612674+00:00",
+  "isbn": "",
+  "author_name": "Peter Sbarski",
+  "publisher_name": "Simon and Schuster",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Database Administration & Management",
+    "Languages",
+    "Internet",
+    "JavaScript",
+    "Web Services & APIs"
+  ],
+  "description": "<p>Design low-maintenance systems using pre-built cloud services! Bring down costs, automate time-consuming ops tasks, and scale on demand.</p>\n\n<p>In Serverless Architectures on AWS, Second Edition you will learn:  First steps with serverless computing The principles of serverless design Important patterns and architectures How successfully companies have implemented serverless Real-world architectures and their tradeoffs Serverless Architectures on AWS, Second Edition teaches you how to design serverless systems. You\u2019ll discover the principles behind serverless architectures, and explore real-world case studies where companies used serverless architectures for their products. You won\u2019t just master the technical essentials\u2014the book contains extensive coverage of balancing tradeoffs and making essential technical decisions. This new edition has been fully updated with new chapters covering current best practice, example architectures, and full coverage of the latest changes to AWS.  About the technology Maintaining server hardware and software can cost a lot of time and money. Unlike traditional data center infrastructure, serverless architectures offload core tasks like data storage and hardware management to pre-built cloud services. Better yet, you can combine your own custom AWS Lambda functions with other serverless services to create features that automatically start and scale on demand, reduce hosting cost, and simplify maintenance.  About the book In Serverless Architectures with AWS, Second Edition you\u2019ll learn how to design serverless systems using Lambda and other services on the AWS platform. You\u2019ll explore event-driven computing and discover how others have used serverless designs successfully. This new edition offers real-world use cases and practical insights from several large-scale serverless systems. Chapters on innovative serverless design patterns and architectures will help you become a complete cloud professional.  What's inside  First steps with serverless computing The principles of serverless design Important patterns and architectures Real-world architectures and their tradeoffs About the reader For server-side and full-stack software developers.  About the author Peter Sbarski is VP of Education and Research at A Cloud Guru. Yan Cui is an independent AWS consultant and educator. Ajay Nair is one of the founding members of the AWS Lambda team. Table of Contents PART 1 FIRST STEPS 1 Going serverless 2 First steps to serverless 3 Architectures and patterns PART 2 USE CASES 4 Yubl: Architecture highlights, lessons learned 5 A Cloud Guru: Architecture highlights, lessons learned 6 Yle: Architecture highlights, lessons learned PART 3 PRACTICUM 7 Building a scheduling service for ad hoc tasks 8 Architecting serverless parallel computing 9 Code Developer University PART 4 THE FUTURE 10 Blackbelt Lambda 11 Emerging practices</p>"
+}

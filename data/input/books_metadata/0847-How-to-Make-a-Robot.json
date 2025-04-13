@@ -1,0 +1,27 @@
+{
+  "book_id": 847,
+  "book_uuid": "8aa1e681-2053-445f-88aa-39eafd17df9c",
+  "title": "How to Make a Robot",
+  "pubdate": "2018-03-15 20:22:13.503912+00:00",
+  "isbn": "",
+  "author_name": "Gordon McComb",
+  "publisher_name": "Maker Media, Inc.",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Technology & Engineering",
+    "Engineering (General)",
+    "Electrical",
+    "Electronics",
+    "Science",
+    "Physics",
+    "Circuits",
+    "Robotics",
+    "Sensors",
+    "Environmental",
+    "Mechanics",
+    "Radio"
+  ],
+  "description": "<p>Learn the basics of modern robotics while building your own intelligent robot from scratch! You'll use inexpensive household materials to make the base for your robot, then add motors, power, wheels, and electronics.</p>\n\n<p>But wait, it gets better: your creation is actually five robots in one! -- build your bot in stages, and add the features you want. Vary the functions to create a robot that's uniquely yours.</p>\n\n<p>Mix and match features to make your own custom robot:Flexible Motorized Base -- a playpen for all kinds of programming experimentsObstacle Detector -- whiskers detect when your robot has bumped into thingsObject Avoider -- ultrasonic sound lets your robot see what's in front of itInfrared Remote Control -- command your robot from your easy chairLine Follower -- use optics to navigate your bot; have races with other robot builders!You will learn how switches, ultrasonics, infrared detectors, and optical sensors work. Install an Arduino microcontroller board and program your robot to avoid obstacles, provide feedback with lights and sound, and follow a tracking line. In this book you will combine multiple disciplines -- electronics, programming, and engineering -- to successfully build a multifunctional robot.</p>\n\n<p>You'll discover how to:construct a motorized baseset up an Arduino to function as the brainuse \"whisker\" switches to detect physical contactavoid obstacles with ultrasonic sensorsteach your robot to judge distancesuse a universal remote to control your robotinstall and program a servo motorrespond to input with LEDs, buzzers, and tonesmount line-following sensors under your robotAnd more. Everything is explained with lots and lots of full-color line drawings. No prior experience is necessary. You'll have fun while you learn a ton!</p>"
+}

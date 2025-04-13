@@ -1,0 +1,22 @@
+{
+  "book_id": 47,
+  "book_uuid": "5b5e6305-45c0-4bb5-bdf3-52a8e0932241",
+  "title": "Big Data Intelligence for Smart Applications",
+  "pubdate": "2022-01-18 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Youssef Baddi",
+  "publisher_name": "Springer Nature",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Artificial Intelligence",
+    "Data Science",
+    "Technology & Engineering",
+    "Database Administration & Management",
+    "Engineering (General)",
+    "Electrical"
+  ],
+  "description": "<div>\n<p>Today, the use of machine intelligence, expert systems, and analytical technologies combined with Big Data is the natural evolution of both disciplines. As a result, there is a pressing need for new and innovative algorithms to help us find effective and practical solutions for smart applications such as smart cities, IoT, healthcare, and cybersecurity. </p>\n<p>This book presents the latest advances in big data intelligence for smart applications. It explores several problems and their solutions regarding computational intelligence and big data for smart applications. It also discusses new models, practical solutions,and technological advances related to developing and transforming cities through machine intelligence and big data models and techniques. This book is helpful for students and researchers as well as practitioners.</p></div>"
+}

@@ -1,0 +1,17 @@
+{
+  "book_id": 616,
+  "book_uuid": "ab9f4274-d319-40ef-8a93-40a50754a055",
+  "title": "Grinstead and Snell's Introduction to Probability",
+  "pubdate": "2009-09-24 15:10:06.283789+00:00",
+  "isbn": "",
+  "author_name": "Charles M. Grinstead",
+  "publisher_name": "University Press of Florida",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics"
+  ],
+  "description": "<p>This is an introductory probability textbook, published by the American Mathematical Society. It is designed for an introductory probability course taken by mathematics, the physical and social sciences, engineering, and computer science students. The text can be used in a variety of course lengths, levels, and areas of emphasis. For use in a standard one-term course, in which both discrete and continuous probability is covered, students should have taken as a prerequisite two terms of calculus, including an introduction to multiple integrals. In order to cover Chapter 11, which contains material on Markov chains, some knowledge of matrix theory is necessary. The text can also be used in a discrete probability course. For use in a discrete probability course, students should have taken one term of calculus as a prerequisite. All of the computer programs that are used in the text have been written in each of the languages TrueBASIC, Maple, and Mathematica. Contents: 1) Discrete Probability Distributions. 2) Continuous Probability Densities. 3) Combinatorics. 4) Conditional Probability. 5) Distributions and Densities. 6) Expected Value and Variance. 7) Sums of Random Variables. 8) Law of Large Numbers. 9) Central Limit Theorem. 10) Generating Functions. 11) Markov Chains. 12) Random Walks. The text is best used in conjunction with software and exercises available online at http: //www.dartmouth.edu/ chance/teaching_aids/books_articles/probability_book/book.htm</p>"
+}

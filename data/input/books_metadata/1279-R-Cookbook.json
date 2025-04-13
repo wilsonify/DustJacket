@@ -1,0 +1,13 @@
+{
+  "book_id": 1279,
+  "book_uuid": "7c27b9db-b103-4055-bea7-05b5bb39b499",
+  "title": "R Cookbook",
+  "pubdate": "2019-07-16 00:00:00+00:00",
+  "isbn": "",
+  "author_name": "JD Long",
+  "publisher_name": "O\u2019Reilly Media",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<p>With more than 275 practical recipes, this expanded edition helps you perform data analysis with R quickly and efficiently. The R language provides everything you need to do statistical work, but its structure can be difficult to master. These task-oriented recipes make you productive with R immediately. Solutions range from basic tasks to input and output, general statistics, graphics, and linear regression.</p><p>Each recipe addresses a specific problem and includes a discussion that explains the solution and provides insight into how it works. If you're a beginner, <i>R Cookbook</i> will help get you started. If you're an intermediate user, this book will jog your memory and expand your horizons. You'll get the job done faster and learn more about R in the process.</p><li>Create vectors, handle variables, and perform other basic functions</li><li>Simplify data input and output</li><li>Tackle data structures such as matrices, lists, factors, and data frames</li><li>Work with..."
+}

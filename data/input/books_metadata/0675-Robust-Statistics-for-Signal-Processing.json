@@ -1,0 +1,22 @@
+{
+  "book_id": 675,
+  "book_uuid": "487067ff-de44-4a70-be03-9a63fefca66f",
+  "title": "Robust Statistics for Signal Processing",
+  "pubdate": "2018-11-08 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Abdelhak M. Zoubir",
+  "publisher_name": "Cambridge University Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Technology & Engineering",
+    "Telecommunications",
+    "Applied",
+    "Mechanical",
+    "Signals & Signal Processing"
+  ],
+  "description": "<div>\n<p>Understand the benefits of robust statistics for signal processing with this authoritative yet accessible text. The first ever book on the subject, it provides a comprehensive overview of the field, moving from fundamental theory through to important new results and recent advances. Topics covered include advanced robust methods for complex-valued data, robust covariance estimation, penalized regression models, dependent data, robust bootstrap, and tensors. Robustness issues are illustrated throughout using real-world examples and key algorithms are included in a MATLAB Robust Signal Processing Toolbox accompanying the book online, allowing the methods discussed to be easily applied and adapted to multiple practical situations. This unique resource provides a powerful tool for researchers and practitioners working in the field of signal processing.</p></div>"
+}

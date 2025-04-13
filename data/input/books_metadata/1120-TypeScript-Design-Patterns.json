@@ -1,0 +1,21 @@
+{
+  "book_id": 1120,
+  "book_uuid": "2e01419d-b6e0-43fe-a6d8-572c694b0f5e",
+  "title": "TypeScript Design Patterns",
+  "pubdate": "2016-08-29 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Vilic Vane",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Programming",
+    "Languages",
+    "Internet",
+    "Web Programming",
+    "JavaScript"
+  ],
+  "description": "<div>\n<p>Boost your development efficiency by learning about design patterns in TypeScriptAbout This BookThis step-by-step guide will would demonstrate all the important design patterns in practiceThis book is the only documentation on the market focusing on design patterns in TypeScriptThis book is packed with rich examples that will improve your efficiency and encourage code reuseWho This Book Is ForIf you are a TypeScript developer, this book is for you. No knowledge of design patterns is required to read this book. </p>\n<p>What You Will LearnUnderstand the challenges and implications of developing an enterprise applicationInstall and configure the necessary tools in order to start developing an applicationIdentify the challenges when developing an applicationApply GoF patterns in an application with a testing approachUse and utilize design patterns while developing a TypeScript application or during JavaScript application developmentReference to SOLID principles and what their benefits do to your projectsApply various principles in a TypeScript applicationImprove code quality and development speedIn DetailIn programming, there are several problems that occur frequently. To solve these problems, there are various repeatable solutions that are known as design patterns. Design patterns are a great way to improve the efficiency of your programs and improve your productivity. </p>\n<p>This book is a collection of the most important patterns you need to improve your applications' performance and your productivity. The journey starts by explaining the current challenges when designing and developing an application and how you can solve these challenges by applying the correct design pattern and best practices. </p>\n<p>Each pattern is accompanied with rich examples that demonstrate the power of patterns for a range of tasks, from building an application to code testing. We'll introduce low-level programming concepts to help you write TypeScript code, as well as work with software architecture, best practices, and design aspects. </p>\n<p>Style and approachIn this book, design patterns are explained in a step-by-step manner. All the major patterns covered will improve your understanding of TypeScript and the patterns associated with TypeScript.</p></div>"
+}

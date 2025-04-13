@@ -1,0 +1,21 @@
+{
+  "book_id": 1271,
+  "book_uuid": "52723c81-eb3f-424b-add5-9a6b529759d5",
+  "title": "RabbitMQ in Action: Distributed Messaging for Everyone",
+  "pubdate": "2012-05-04 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Alvaro Videla",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Programming",
+    "Languages",
+    "Java",
+    "Python",
+    "C",
+    "Open Source"
+  ],
+  "description": "<div>\n<p>SummaryRabbitMQ in Action is a fast-paced run through building and managing scalable applications using the RabbitMQ messaging server. It starts by explaining how message queuing works, its history, and how RabbitMQ fits in. Then it shows you real-world examples you can apply to your own scalability and interoperability challenges. </p>\n<p>About the TechnologyThere's a virtual switchboard at the core of most large applications where messages race between servers, programs, and services. RabbitMQ is an efficient and easy-to-deploy queue that handles this message traffic effortlessly in all situations, from web startups to massive enterprise systems. </p>\n<p>About the BookRabbitMQ in Action teaches you to build and manage scalable applications in multiple languages using the RabbitMQ messaging server. It's a snap to get started. You'll learn how message queuing works and how RabbitMQ fits in. Then, you'll explore practical scalability and interoperability issues through many examples. By the end, you'll know how to make Rabbit run like a well-oiled machine in a 24 x 7 x 365 environment. </p>\n<p>Written for developers familiar with Python, PHP, Java, .NET, or any other modern programming language. No RabbitMQ experience required. Purchase of the print book comes with an offer of a free PDF, ePub, and Kindle eBook from Manning. Also available is all code from the book. What's InsideLearn fundamental messaging design patternsUse patterns for on-demand scalabilityGlue a PHP frontend to a backend written in anythingImplement a PubSub-alerting service in 30 minutes flatConfigure RabbitMQ's built-in clusteringMonitor, manage, extend, and tune RabbitMQ========================================\u200b====Table of ContentsPulling RabbitMQ out of the hatUnderstanding messagingRunning and administering RabbitSolving problems with Rabbit: coding and patternsClustering and dealing with failureWriting code that survives failureWarrens and Shovels: failover and replicationAdministering RabbitMQ from the WebControlling Rabbit with the REST APIMonitoring: Houston, we have a problemSupercharging and securing your Rabbit Smart Rabbits: extending RabbitMQ</p></div>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 1293,
+  "book_uuid": "df4be3f1-34c8-45f7-a48a-133b11bcfe19",
+  "title": "Kubernetes in Action, Second Edition",
+  "pubdate": "2025-05-27 20:16:32.643974+00:00",
+  "isbn": "",
+  "author_name": "Marko Luk\u0161a",
+  "publisher_name": "Manning",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Computers",
+    "Software Development & Engineering",
+    "Distributed Systems",
+    "Tools",
+    "Cloud Computing"
+  ],
+  "description": "<p>Kubernetes is an essential tool for anyone deploying and managing cloud-native applications. Kubernetes in Action, Second Edition is a fully-updated and comprehensive guide to developing and running applications in a Kubernetes environment.</p>\n\n<p>Kubernetes is an essential tool for anyone deploying and managing cloud-native applications. Kubernetes in Action, Second Edition is a fully-updated and comprehensive guide to developing and running applications in a Kubernetes environment. It lays out a complete introduction to container technologies and containerized applications along with practical tips for efficient deployment and operation. This revised edition of the bestselling original contains new coverage of the Kubernetes architecture, including the Kubernetes API, and a deep dive into managing a Kubernetes cluster in production.  Purchase of the print book includes a free eBook in PDF, Kindle, and ePub formats from Manning Publications.  About the technology Kubernetes is Greek for \u201chelmsman,\u201d your guide through unknown waters. The Kubernetes container orchestration system safely manages the structure and flow of a distributed application, organizing containers and services for maximum efficiency. Kubernetes serves as an operating system for your clusters, reducing the need to factor the underlying network and server infrastructure into your designs. As more and more applications are created using cloud-native and container-based architectures, Kubernetes has become an essential tool for modern developers to master.  About the book Kubernetes in Action, Second Edition teaches you to use Kubernetes to deploy container-based distributed applications. You'll start with an overview of how Docker containers work with Kubernetes and move quickly to building your first cluster. You'll gradually expand your initial application, adding features and deepening your knowledge of Kubernetes architecture and operation. In this revised and expanded second edition, you\u2019ll take a deep dive into the structure of a Kubernetes-based application and discover how to manage a Kubernetes cluster in production. As you navigate this comprehensive guide, you'll also appreciate thorough coverage of high-value topics like monitoring, tuning, and scaling.  What's inside  Up and running with Kubernetes Deploying containers across a cluster Securing clusters Updating applications with zero downtime  About the reader Written for intermediate software developers with little or no familiarity with Docker or container orchestration systems.  About the author Marko Luk\u0161a is an engineer at Red Hat working on Kubernetes and OpenShift.</p>"
+}

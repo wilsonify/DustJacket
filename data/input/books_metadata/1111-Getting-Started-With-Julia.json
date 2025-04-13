@@ -1,0 +1,21 @@
+{
+  "book_id": 1111,
+  "book_uuid": "89b8bd0c-4360-4126-b979-1124b9de55a5",
+  "title": "Getting Started With Julia",
+  "pubdate": "2015-02-26 19:16:15.516110+00:00",
+  "isbn": "",
+  "author_name": "Ivo Balbaert",
+  "publisher_name": "Packt Publishing Ltd",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "www.it-ebooks.info",
+    "General",
+    "Computers",
+    "Data Science",
+    "Languages",
+    "Mathematical & Statistical Software",
+    "Distributed Systems"
+  ],
+  "description": "<p>This book is for you if you are a data scientist or working on any technical or scientific computation projects. The book assumes you have a basic working knowledge of high-level dynamic languages such as MATLAB, R, Python, or Ruby.</p>"
+}

@@ -1,0 +1,20 @@
+{
+  "book_id": 695,
+  "book_uuid": "d70c2c79-e73a-4941-9706-dce130616a3a",
+  "title": "Design of Experiments: An Introduction Based on Linear Models",
+  "pubdate": "2010-07-27 20:25:51.360469+00:00",
+  "isbn": "",
+  "author_name": "Max Morris",
+  "publisher_name": "CRC Press",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Mathematics",
+    "Probability & Statistics",
+    "Science",
+    "Life Sciences",
+    "Biology"
+  ],
+  "description": "<p>Offering deep insight into the connections between design choice and the resulting statistical analysis, Design of Experiments: An Introduction Based on Linear Models explores how experiments are designed using the language of linear statistical models. The book presents an organized framework for understanding the statistical aspects of experimental design as a whole within the structure provided by general linear models, rather than as a collection of seemingly unrelated solutions to unique problems.</p>\n\n<p>The core material can be found in the first thirteen chapters. These chapters cover a review of linear statistical models, completely randomized designs, randomized complete blocks designs, Latin squares, analysis of data from orthogonally blocked designs, balanced incomplete block designs, random block effects, split-plot designs, and two-level factorial experiments. The remainder of the text discusses factorial group screening experiments, regression model design, and an introduction to optimal design. To emphasize the practical value of design, most chapters contain a short example of a real-world experiment. Details of the calculations performed using R, along with an overview of the R commands, are provided in an appendix. This text enables students to fully appreciate the fundamental concepts and techniques of experimental design as well as the real-world value of design. It gives them a profound understanding of how design selection affects the information obtained in an experiment.</p>"
+}

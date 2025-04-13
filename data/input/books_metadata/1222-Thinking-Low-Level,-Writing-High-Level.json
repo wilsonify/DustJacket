@@ -1,0 +1,16 @@
+{
+  "book_id": 1222,
+  "book_uuid": "a2948b17-d467-437b-a0dc-1d73d207c79f",
+  "title": "Thinking Low Level, Writing High Level",
+  "pubdate": "2018-12-04 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Randall Hyde",
+  "publisher_name": "No Starch Press",
+  "series_name": "Write Great Code",
+  "series_index": 1.0,
+  "tags": [
+    "Computers",
+    "Programming"
+  ],
+  "description": "<div>\n<p>This practical, tutorial-style book uses the Kali Linux distribution to teach Linux basics with a focus on how hackers would use them. Topics include Linux command line basics, filesystems, networking, BASH basics, package management, logging, and the Linux kernel and drivers. </p>\n<p>If you're getting started along the exciting path of hacking, cybersecurity, and pentesting, Linux Basics for Hackers is an excellent first step. Using Kali Linux, an advanced penetration testing distribution of Linux, you'll learn the basics of using the Linux operating system and acquire the tools and techniques you'll need to take control of a Linux environment. </p>\n<p>First, you'll learn how to install Kali on a virtual machine and get an introduction to basic Linux concepts. Next, you'll tackle broader Linux topics like manipulating text, controlling file and directory permissions, and managing user environment variables. You'll then focus in on foundational hacking concepts like security and anonymity and learn scripting skills with bash and Python. Practical tutorials and exercises throughout will reinforce and test your skills as you learn how to:- Cover your tracks by changing your network information and manipulating the rsyslog logging utility- Write a tool to scan for network connections, and connect and listen to wireless networks- Keep your internet activity stealthy using Tor, proxy servers, VPNs, and encrypted email- Write a bash script to scan open ports for potential targets- Use and abuse services like MySQL, Apache web server, and OpenSSH- Build your own hacking tools, such as a remote video spy camera and a password crackerHacking is complex, and there is no single way in. Why not start at the beginning with Linux Basics for Hackers?</p></div>"
+}

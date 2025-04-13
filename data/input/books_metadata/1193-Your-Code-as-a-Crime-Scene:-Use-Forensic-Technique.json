@@ -1,0 +1,23 @@
+{
+  "book_id": 1193,
+  "book_uuid": "8f6b0db4-8e6b-43b5-97dd-51805eee0311",
+  "title": "Your Code as a Crime Scene: Use Forensic Techniques to Arrest Defects, Bottlenecks, and Bad Design in Your Programs",
+  "pubdate": "2015-03-15 04:00:00+00:00",
+  "isbn": "",
+  "author_name": "Adam Tornhill",
+  "publisher_name": "Pragmatic Bookshelf",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [
+    "General",
+    "Psychology",
+    "Computers",
+    "Software Development & Engineering",
+    "Programming",
+    "Computer Science",
+    "Systems Analysis & Design",
+    "Quality Assurance & Testing",
+    "Forensic Psychology"
+  ],
+  "description": "<div>\n<p>Jack the Ripper and legacy codebases have more in common than you'd think. Inspired by forensic psychology methods, you'll learn strategies to predict the future of your codebase, assess refactoring direction, and understand how your team influences the design. With its unique blend of forensic psychology and code analysis, this book arms you with the strategies you need, no matter what programming language you use. Software is a living entity that's constantly changing. To understand software systems, we need to know where they came from and how they evolved. By mining commit data and analyzing the history of your code, you can start fixes ahead of time to eliminate broken designs, maintenance issues, and team productivity bottlenecks. In this book, you'll learn forensic psychology techniques to successfully maintain your software. You'll create a geographic profile from your commit data to find hotspots, and apply temporal coupling concepts to uncover hidden relationships between unrelated areas in your code. You'll also measure the effectiveness of your code improvements. You'll learn how to apply these techniques on projects both large and small. For small projects, you'll get new insights into your design and how well the code fits your ideas. For large projects, you'll identify the good and the fragile parts. Large-scale development is also a social activity, and the team's dynamics influence code quality. That's why this book shows you how to uncover social biases when analyzing the evolution of your system. You'll use commit messages as eyewitness accounts to what is really happening in your code. Finally, you'll put it all together by tracking organizational problems in the code and finding out how to fix them. Come join the hunt for better code! What You Need: You need Java 6 and Python 2.7 to run the accompanying analysis tools. You also need Git to follow along with the examples.</p></div>"
+}

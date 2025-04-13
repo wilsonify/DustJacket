@@ -1,0 +1,13 @@
+{
+  "book_id": 1177,
+  "book_uuid": "0068f7b6-5f24-4488-a73c-0d658c20a08e",
+  "title": "MLOps Engineering at Scale",
+  "pubdate": "2022-02-09 05:00:00+00:00",
+  "isbn": "",
+  "author_name": "Carl Osipov",
+  "publisher_name": "Manning Publications",
+  "series_name": "",
+  "series_index": 1.0,
+  "tags": [],
+  "description": "<span><i>MLOps Engineering at Scale</i> teaches you how to implement efficient machine learning systems using pre-built services from AWS and other cloud vendors. This easy-to-follow book guides you step-by-step as you set up your serverless ML infrastructure, even if you\u2019ve never used a cloud platform before. You\u2019ll also explore tools like PyTorch Lightning, Optuna, and MLFlow that make it easy to build pipelines and scale your deep learning models in production.\n  \n  </span>"
+}
