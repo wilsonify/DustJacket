@@ -2,16 +2,26 @@ import json
 import os
 from glob import glob
 from itertools import combinations
+from typing import Tuple, List
 
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
+from tqdm import tqdm
+import logging
 
-path_to_here = os.path.abspath(os.path.dirname(__file__))
-path_to_data = os.path.abspath(f"{path_to_here}/../../../data")
+# --- Setup Logging ---
+logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
+
+# --- Paths ---
+BASE_DIR = os.path.abspath(os.path.dirname(__file__))
+DATA_DIR = os.path.join(BASE_DIR, "../../../data")
+INPUT_DIR = os.path.join(DATA_DIR, "input/books_metadata")
+OUTPUT_CSV = os.path.join(DATA_DIR, "output_actual/book_similarity_dataset.csv")
 
 
-# Utility functions
+# --- Utility Functions ---
+
 def jaccard_similarity(a: str, b: str) -> float:
     set_a, set_b = set(a.lower().split()), set(b.lower().split())
     intersection = set_a & set_b
@@ -22,86 +32,73 @@ def jaccard_similarity(a: str, b: str) -> float:
 def cosine_sim(text1: str, text2: str) -> float:
     vectorizer = TfidfVectorizer()
     try:
-        vec = vectorizer.fit_transform([text1, text2])
-        return cosine_similarity(vec[0:1], vec[1:2])[0][0]
+        vecs = vectorizer.fit_transform([text1, text2])
+        return cosine_similarity(vecs[0:1], vecs[1:2])[0][0]
     except ValueError:
-        # Return 0.0 similarity if text is empty or only has stopwords
         return 0.0
 
 
-def n_choose_2(n):
-    """
-    the number of ways of picking 2 unordered outcomes from n possibilities
-    also known as a combination.
-    """
-    return n * (n - 1) / 2
+def safe_load_json(filepath: str) -> dict:
+    try:
+        with open(filepath, 'r', encoding='utf-8') as f:
+            return json.load(f)
+    except Exception as e:
+        logging.warning(f"Failed to load {filepath}: {e}")
+        return {}
+
+
+def extract_fields(data: dict) -> Tuple[str, str, List[str], str]:
+    return (
+        data.get("title", ""),
+        data.get("author_name", ""),
+        data.get("tags", []),
+        data.get("description", "")
+    )
+
+
+def process_pair(f1: str, f2: str) -> dict:
+    data1, data2 = safe_load_json(f1), safe_load_json(f2)
+
+    title1, author1, tags1, desc1 = extract_fields(data1)
+    title2, author2, tags2, desc2 = extract_fields(data2)
+
+    return {
+        "file1": os.path.basename(f1),
+        "file2": os.path.basename(f2),
+        "title1": title1,
+        "title2": title2,
+        "author1": author1,
+        "author2": author2,
+        "tags1": tags1,
+        "tags2": tags2,
+        "desc1": desc1,
+        "desc2": desc2,
+        "title_similarity": jaccard_similarity(title1, title2),
+        "author_similarity": jaccard_similarity(author1, author2),
+        "description_similarity": cosine_sim(desc1, desc2) if desc1 and desc2 else 0.0,
+        "tag_similarity": jaccard_similarity(" ".join(tags1), " ".join(tags2)) if tags1 and tags2 else 0.0,
+    }
 
 
 def main():
-    # Setup paths
-    metadata_files = glob(f"{path_to_data}/input/books_metadata/*.json")
-    metadata_files_len = len(metadata_files)
-    print(f"len(metadata_files) = {metadata_files_len}")
-    total = n_choose_2(metadata_files_len)
-    print(f"{metadata_files_len} choose 2 = {total}")
+    metadata_files = glob(os.path.join(INPUT_DIR, "*.json"))
+    total_pairs = len(metadata_files) * (len(metadata_files) - 1) // 2
 
-    # For reproducibility and avoiding self-comparisons
-    file_pairs = combinations(metadata_files, 2)
+    logging.info(f"Found {len(metadata_files)} metadata files")
+    logging.info(f"Total comparisons: {total_pairs}")
 
-    # Store results
-    rows = []
-    for count, (f1, f2) in enumerate(file_pairs):
-        with open(f1, 'r', encoding='utf-8') as file1, open(f2, 'r', encoding='utf-8') as file2:
-            try:
-                data1 = json.load(file1)
-                data2 = json.load(file2)
-                print(f"Read pair ({f1}, {f2})")
-                print(f"{count}/{total}")
-            except Exception as e:
-                print(f"Skipping pair ({f1}, {f2}) due to error: {e}")
-                continue
+    results = []
+    for f1, f2 in tqdm(combinations(metadata_files, 2), total=total_pairs, desc="Processing pairs"):
+        row = process_pair(f1, f2)
+        # Simple rule-based label
+        row["is_duplicate_rule_based"] = int(row["title_similarity"] > 0.9 and row["author_similarity"] > 0.9)
+        results.append(row)
 
-        # Extract relevant fields
-        title1, title2 = data1.get("title", ""), data2.get("title", "")
-        author1, author2 = data1.get("author_name", ""), data2.get("author_name", "")
-        tags1, tags2 = data1.get("tags", []), data2.get("tags", [])
-        desc1, desc2 = data1.get("description", ""), data2.get("description", "")
+    df = pd.DataFrame(results)
+    os.makedirs(os.path.dirname(OUTPUT_CSV), exist_ok=True)
+    df.to_csv(OUTPUT_CSV, index=False)
 
-        # Compute similarities
-        title_sim = jaccard_similarity(title1, title2)
-        author_sim = jaccard_similarity(author1, author2)
-        desc_sim = cosine_sim(desc1, desc2) if desc1 and desc2 else 0.0
-        tag_sim = jaccard_similarity(" ".join(tags1), " ".join(tags2)) if tags1 and tags2 else 0.0
-
-        # Example placeholder label (for supervised learning this would be hand-labeled or rule-based)
-        is_duplicate = int(title_sim > 0.9 and author_sim > 0.9)
-
-        # Append row
-        rows.append({
-            "file1": os.path.basename(f1),
-            "file2": os.path.basename(f2),
-            "title1": title1,
-            "title2": title2,
-            "author1": author1,
-            "author2": author2,
-            "tags1": tags1,
-            "tags2": tags2,
-            "desc1": desc1,
-            "desc2": desc2,
-            "title_similarity": title_sim,
-            "author_similarity": author_sim,
-            "description_similarity": desc_sim,
-            "tag_similarity": tag_sim,
-            "is_duplicate_rule_based": is_duplicate
-        })
-
-    # Convert to DataFrame and save
-    df = pd.DataFrame(rows)
-    output_csv = os.path.join(path_to_data, f"{path_to_data}/output_actual/book_similarity_dataset.csv")
-    os.makedirs(os.path.dirname(output_csv), exist_ok=True)
-    df.to_csv(output_csv, index=False)
-
-    print(f"Saved dataset with {len(df)} pairs to {output_csv}")
+    logging.info(f"Saved dataset with {len(df)} pairs to {OUTPUT_CSV}")
 
 
 if __name__ == "__main__":
