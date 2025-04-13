@@ -38,6 +38,7 @@ def main():
             try:
                 data1 = json.load(file1)
                 data2 = json.load(file2)
+                print(f"Read pair ({f1}, {f2})")
             except Exception as e:
                 print(f"Skipping pair ({f1}, {f2}) due to error: {e}")
                 continue
@@ -61,14 +62,14 @@ def main():
         rows.append({
             "file1": os.path.basename(f1),
             "file2": os.path.basename(f2),
-            "title1":title1,
-            "title2":title2,
-            "author1":author1,
-            "author2":author2,
-            "tags1":tags1,
-            "tags2":tags2,
-            "desc1":desc1,
-            "desc2":desc2,
+            "title1": title1,
+            "title2": title2,
+            "author1": author1,
+            "author2": author2,
+            "tags1": tags1,
+            "tags2": tags2,
+            "desc1": desc1,
+            "desc2": desc2,
             "title_similarity": title_sim,
             "author_similarity": author_sim,
             "description_similarity": desc_sim,
