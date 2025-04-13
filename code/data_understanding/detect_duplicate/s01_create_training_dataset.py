@@ -61,6 +61,14 @@ def main():
         rows.append({
             "file1": os.path.basename(f1),
             "file2": os.path.basename(f2),
+            "title1":title1,
+            "title2":title2,
+            "author1":author1,
+            "author2":author2,
+            "tags1":tags1,
+            "tags2":tags2,
+            "desc1":desc1,
+            "desc2":desc2,
             "title_similarity": title_sim,
             "author_similarity": author_sim,
             "description_similarity": desc_sim,
@@ -70,7 +78,7 @@ def main():
 
     # Convert to DataFrame and save
     df = pd.DataFrame(rows)
-    output_csv = os.path.join(path_to_data, "output/book_similarity_dataset.csv")
+    output_csv = os.path.join(path_to_data, f"{path_to_data}/output_actual/book_similarity_dataset.csv")
     os.makedirs(os.path.dirname(output_csv), exist_ok=True)
     df.to_csv(output_csv, index=False)
 
